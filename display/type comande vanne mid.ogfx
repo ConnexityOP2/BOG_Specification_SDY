@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?dom version="17.2" ?>
+
+<object>
+    <IDE>
+        <ratio horizontal="1" vertical="1"/>
+        <project path="ConnexITy.etp"/>
+        <preview height="128" width="108">
+            <raw numberOfBytes="1466">
+-119,80,78,71,13,10,26,10,0,0,0,13,73,72,68,82,0,0,0,108,0,0,0,-128,8,2,0,0,0,97,-126,27,99,0,0,5,-127,73,68,65,84,120,-38,-19,-100,111,104,-115,111,24,-57,-9,66,43,37,101,121,51,-123,68,-7,83,72,38,-58,-40,12,-13,-73,-103,17,29,107,-104,-46,-118,-92,72,-79,-107,-90,-56,11,-77,-103,17,51,83,-45,44,-110,40,-59,34,-103,-110,44,-93,-95,-51,108,28,51,-61,34,-122,25,118,-1,121,-50,-17,-38,-101,-21,-66,-97,83,59,-51,-49,-39,-100,-77,125,-81,62,111,-42,-35,57,-37,-3,57,-33,118,-35,-41,121,-98,115,34,4,-22,-81,43,2,10,32,17,18,33,17,5,-119,-112,8,-119,-112,-120,-126,68,72,-124,68,72,68,65,34,36,66,34,36,-94,32,17,18,33,17,18,81,-112,8,-119,-112,8,-119,125,91,-83,-83,-94,-71,-39,80,91,43,-97,61,51,84,85,-55,7,15,12,-9,-18,25,-18,-33,-105,-81,95,11,-90,-91,101,0,75,-84,-82,22,-73,110,25,-118,-117,-43,-15,-29,-122,-20,108,-75,103,-113,97,-5,118,-61,-82,93,-22,-38,53,-55,84,86,74,72,-124,68,72,-124,-60,48,-112,-8,-29,-121,104,107,51,80,-81,-80,55,-97,-107,-91,-74,108,49,108,-36,-88,55,108,-16,67,49,
+43,87,26,86,-83,82,-101,54,105,102,-21,86,125,-30,-124,98,-50,-97,-105,79,-98,8,-90,-87,41,-52,37,126,-2,44,-34,-66,53,28,61,-22,-38,-4,-120,17,78,68,-124,-113,-119,-114,118,70,-113,54,-60,-59,-23,-8,120,-61,-28,-55,-122,-119,19,-75,-3,-64,-56,72,-97,-3,-64,-60,68,93,90,42,-103,-69,119,37,36,66,34,36,66,98,72,72,-68,121,83,30,60,-88,-104,-11,-21,21,-19,-112,-15,120,-12,-26,-51,-122,-36,92,101,-9,-121,115,-25,100,89,-103,-95,-72,-40,80,84,36,115,114,20,-77,123,-73,90,-78,68,51,75,-105,-22,101,-53,12,-76,122,-25,-114,100,26,26,-62,77,98,126,-66,-102,49,67,51,20,-94,9,19,12,-76,122,-3,-70,100,-66,124,-23,-23,-45,118,118,118,101,-100,-87,-83,21,-37,-74,41,38,57,-39,-107,-45,-23,-45,-99,35,71,36,67,30,33,17,18,33,17,18,-5,72,98,75,75,-41,88,-62,100,102,-22,-31,-61,29,-58,-29,81,-5,-9,75,-90,-94,66,-46,-28,-57,52,55,-117,-9,-17,123,-54,-101,55,-122,-6,122,113,-27,-118,100,-14,-13,101,108,-84,102,-26,-52,113,117,121,26,40,67,93,98,93,-99,-72,116,73,50,126,-95,-96,70,89,81,33,24,-102,-55,-88,87,
+6,29,122,109,-46,-45,21,-109,-112,-96,-121,14,117,-104,-67,123,33,17,18,33,17,18,-5,74,-30,-27,-53,50,37,69,49,-29,-58,-71,6,59,-6,-47,-2,-105,79,-37,91,-80,32,-8,-60,-58,58,35,71,26,-88,-95,13,26,-28,99,50,50,116,77,-115,100,62,124,8,61,-119,-89,79,-53,-15,-29,53,19,21,-27,-110,24,10,-84,93,-85,111,-33,-106,-116,-41,11,-119,-112,8,-119,-112,-40,107,18,-53,-54,100,92,-100,102,98,98,-12,-108,41,-122,-20,108,117,-31,-126,-20,109,74,74,104,28,82,76,106,-86,-21,-124,-112,-106,-90,-85,-86,4,19,-60,11,-1,65,-109,88,94,46,-19,119,12,105,-52,-78,-99,-106,-106,-54,-34,56,-45,-8,65,19,-92,-19,-108,-90,105,91,98,122,-70,-74,103,-51,119,-17,32,17,18,33,17,18,123,77,-30,-13,-25,-110,-122,22,102,-11,106,61,120,-80,-113,-55,-55,81,-10,-51,93,-83,-83,-94,-93,35,-8,84,87,75,-5,14,-128,53,107,-12,-62,-123,-122,-62,66,-43,-34,46,-104,95,-65,66,79,98,83,-109,-88,-84,-108,-52,-70,117,-82,-50,-104,-107,-91,-20,-43,-113,31,123,101,-122,37,-119,41,41,-70,59,74,74,66,126,118,-122,68,72,-124,-60,126,35,-15,-9,111,
+-15,-13,-89,-31,-44,41,101,95,71,-89,62,-29,-15,24,30,63,14,-50,53,-93,-81,95,-123,-35,-81,10,10,84,100,-92,-113,89,-68,-40,-71,113,67,50,117,117,-31,118,-75,-113,94,-10,0,-95,-96,-56,4,-27,-73,-76,-75,-71,-30,-97,-101,-21,58,-45,36,37,57,-10,106,67,3,36,66,34,36,66,-30,63,-110,72,127,-79,-67,1,-38,-113,-67,61,-38,-83,-67,74,46,-2,95,53,54,6,106,-57,121,121,-67,-43,-114,33,17,18,33,17,18,-1,-84,94,-67,114,125,38,111,-7,114,109,31,-125,15,29,82,-10,49,-72,-25,119,-123,81,-39,71,122,58,63,-37,71,-6,-28,100,-41,-111,-66,-80,48,-52,37,-6,21,-123,34,64,100,40,80,61,124,-98,-114,14,87,59,-90,51,-128,29,-16,-104,24,87,59,-82,-83,-107,-112,8,-119,-112,8,-119,-95,40,-79,-88,72,101,100,104,102,-59,10,-41,27,-9,79,-97,-54,111,-33,4,-45,-39,-39,-19,-13,-76,-73,-69,110,-115,45,40,80,67,-122,-8,-104,-124,4,-57,-66,91,-73,-25,-81,77,120,72,-92,80,-40,25,-95,-56,-40,9,-94,64,-39,-85,20,-73,-18,-22,-45,39,17,32,-47,-5,-10,-11,81,59,-122,68,72,-124,68,72,-4,-85,-14,122,-59,-93,71,-110,89,-76,-56,-119,-118,
+-14,49,-121,15,-85,-14,114,-55,124,-1,-18,122,-84,-3,-63,21,26,-124,-26,-51,-45,76,82,82,-41,-25,-58,25,-22,51,-3,89,-94,95,81,100,2,4,-118,-30,102,-105,29,82,-22,-56,118,-124,-57,-114,117,-99,105,106,106,36,36,66,34,36,66,98,-8,73,60,121,82,-19,-36,105,72,76,-44,51,103,58,76,125,125,-41,29,79,-52,-39,-77,-118,-95,-42,17,29,-19,48,-77,103,59,52,-19,48,-44,118,6,-112,68,-118,-116,-99,32,10,-108,-99,47,-118,-101,-67,26,32,-77,59,118,-4,-101,118,12,-119,-112,8,-119,-112,24,-52,106,106,-22,-70,60,-62,36,36,-72,-66,-46,-27,-64,1,-107,-105,103,-104,54,-51,97,102,-51,114,-78,-77,21,115,-20,-40,0,-106,-24,87,20,40,59,95,-15,-15,122,-18,92,-125,29,-46,97,-61,124,118,72,31,62,-108,-112,8,-119,-112,8,-119,-3,77,98,81,-111,-94,102,-62,76,-102,-28,-116,25,99,24,53,-54,48,117,-86,-45,-40,40,-103,62,-5,-122,-60,48,-112,72,-127,-78,-13,69,113,-77,-45,55,127,-66,102,82,83,-75,8,-67,-126,68,72,-124,68,72,12,102,-75,-76,8,-5,123,-36,51,51,117,90,-102,-95,-80,80,50,103,-50,72,72,-20,81,93,-67,42,47,94,52,
+-68,120,33,-104,-105,47,5,36,66,34,36,66,-30,-64,-110,-24,-11,-118,-58,70,-125,125,-15,-2,-113,110,76,30,-48,18,-61,-82,32,17,18,33,17,18,81,-112,8,-119,-112,8,-119,40,72,-124,68,72,-124,68,20,36,66,34,36,66,34,10,18,33,17,18,33,17,5,-119,-112,8,-119,3,-72,-2,3,-110,86,-7,11,67,92,31,-80,0,0,0,0,73,69,78,68,-82,66,96,-126</raw>
+        </preview>
+    </IDE>
+    <symbology>
+        <dimension height="256" width="256"/>
+    </symbology>
+    <declaration>
+        <inputs>
+            <input name="Orientation" oid="b26bc67b-6381-4224-be21-4146176be9df" representation="index" type="int">
+                <init>0</init>
+            </input>
+        </inputs>
+    </declaration>
+    <children>
+        <condContainer oid="3d156b88-4655-4a4e-8208-31a39b7a714a">
+            <pathFromRoot value="0"/>
+            <properties name="orientation">
+                <visible>
+                    <init>true</init>
+                </visible>
+                <origin>
+                    <x>
+                        <init>-0.25</init>
+                    </x>
+                    <y>
+                        <init>0.0</init>
+                    </y>
+                </origin>
+                <priority>
+                    <init>-1</init>
+                </priority>
+                <scale>
+                    <x>
+                        <init>1.0</init>
+                    </x>
+                    <y>
+                        <init>1.0</init>
+                    </y>
+                </scale>
+                <rotate>
+                    <angle>
+                        <init>0.0</init>
+                    </angle>
+                </rotate>
+                <orientation clockwise="false"/>
+                <index allVisible="false">
+                    <init>1</init>
+                    <expr>Orientation</expr>
+                </index>
+                <indexes default="1">
+                    <index value="1"/>
+                    <index value="2"/>
+                    <index value="3"/>
+                </indexes>
+            </properties>
+            <children>
+                <container oid="535c3427-3965-4aa5-8c26-c81facdfe834">
+                    <pathFromRoot value="0,0"/>
+                    <properties name="vertical haut">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>0.0</init>
+                            </x>
+                            <y>
+                                <init>0.0</init>
+                            </y>
+                        </origin>
+                        <priority>
+                            <init>-1</init>
+                        </priority>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                            <init>false</init>
+                        </static>
+                    </properties>
+                    <children>
+                        <container oid="f15a6db1-31c9-4d64-9ccb-237fd7dc8df7">
+                            <pathFromRoot value="0,0,0"/>
+                            <properties name="Type de vanne">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <origin>
+                                    <x>
+                                        <init>0.0</init>
+                                    </x>
+                                    <y>
+                                        <init>0.0</init>
+                                    </y>
+                                </origin>
+                                <priority>
+                                    <init>-1</init>
+                                </priority>
+                                <scale>
+                                    <x>
+                                        <init>1.0</init>
+                                    </x>
+                                    <y>
+                                        <init>1.0</init>
+                                    </y>
+                                </scale>
+                                <rotate>
+                                    <angle>
+                                        <init>0.0</init>
+                                    </angle>
+                                </rotate>
+                                <orientation clockwise="false"/>
+                                <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                                    <init>false</init>
+                                </static>
+                            </properties>
+                            <children>
+                                <container oid="917a58b9-a35e-444f-995c-66fff63bea7f">
+                                    <pathFromRoot value="0,0,0,0"/>
+                                    <properties name="pneumatique">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>0.0</init>
+                                            </x>
+                                            <y>
+                                                <init>0.0</init>
+                                            </y>
+                                        </origin>
+                                        <priority>
+                                            <init>-1</init>
+                                        </priority>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                                            <init>false</init>
+                                        </static>
+                                    </properties>
+                                    <children>
+                                        <line oid="89ad7fbb-48d2-4d60-846a-014bce098eff">
+                                            <pathFromRoot value="0,0,0,0,0"/>
+                                            <properties name="line_reglante">
+                                                <visible>
+                                                    <init>true</init>
+                                                </visible>
+                                                <points>
+                                                    <point>
+                                                        <x>
+                                                            <init>-5.0</init>
+                                                        </x>
+                                                        <y>
+                                                            <init>10.0</init>
+                                                        </y>
+                                                    </point>
+                                                    <point>
+                                                        <x>
+                                                            <init>0.0</init>
+                                                        </x>
+                                                        <y>
+                                                            <init>0.0</init>
+                                                        </y>
+                                                    </point>
+                                                    <point>
+                                                        <x>
+                                                            <init>5.0</init>
+                                                        </x>
+                                                        <y>
+                                                            <init>10.0</init>
+                                                        </y>
+                                                    </point>
+                                                </points>
+                                                <lineWidth>
+                                                    <init>0</init>
+                                                </lineWidth>
+                                                <lineStipple>
+                                                    <init>0</init>
+                                                </lineStipple>
+                                                <lineCap>
+                                                    <init>round</init>
+                                                </lineCap>
+                                                <haloing>
+                                                    <init>false</init>
+                                                </haloing>
+                                                <haloColor>
+                                                    <init>-1</init>
+                                                </haloColor>
+                                                <outlineColor>
+                                                    <init>5</init>
+                                                </outlineColor>
+                                                <outlineOpacity>
+                                                    <init>255</init>
+                                                </outlineOpacity>
+                                            </properties>
+                                        </line>
+                                        <arcEllipse oid="75a62e66-1802-4cb8-b6f3-b62b978b0308">
+                                            <pathFromRoot value="1,0,0,0,0"/>
+                                            <properties name="arc ellipse">
+                                                <visible>
+                                                    <init>true</init>
+                                                </visible>
+                                                <center>
+                                                    <x>
+                                                        <init>0.0</init>
+                                                    </x>
+                                                    <y>
+                                                        <init>10.0</init>
+                                                    </y>
+                                                </center>
+                                                <horzRadius>
+                                                    <init>5.0</init>
+                                                </horzRadius>
+                                                <vertRadius>
+                                                    <init>4.0</init>
+                                                </vertRadius>
+                                                <lineWidth>
+                                                    <init>0</init>
+                                                </lineWidth>
+                                                <lineStipple>
+                                                    <init>0</init>
+                                                </lineStipple>
+                                                <lineCap>
+                                                    <init>round</init>
+                                                </lineCap>
+                                                <haloing>
+                                                    <init>false</init>
+                                                </haloing>
+                                                <haloColor>
+                                                    <init>-1</init>
+                                                </haloColor>
+                                                <outlineColor>
+                                                    <init>5</init>
+                                                </outlineColor>
+                                                <outlineOpacity>
+                                                    <init>255</init>
+                                                </outlineOpacity>
+                                                <fillColor>
+                                                    <init>-1</init>
+                                                </fillColor>
+                                                <fillOpacity>
+                                                    <init>255</init>
+                                                </fillOpacity>
+                                                <polygonSmooth>
+                                                    <init>false</init>
+                                                </polygonSmooth>
+                                                <texture horizAlign="center" horizPattern="1.0" vertAlign="middle" vertPattern="1.0">
+                                                    <textureId>
+                                                        <init>-1</init>
+                                                    </textureId>
+                                                </texture>
+                                                <modulate>
+                                                    <init>false</init>
+                                                </modulate>
+                                                <startAngle>
+                                                    <angle>
+                                                        <init>0.0</init>
+                                                    </angle>
+                                                </startAngle>
+                                                <endAngle>
+                                                    <angle>
+                                                        <init>180.0</init>
+                                                    </angle>
+                                                </endAngle>
+                                                <orientation clockwise="false"/>
+                                            </properties>
+                                        </arcEllipse>
+                                        <line oid="c9fb03ba-b22c-4432-945a-5f358d496699">
+                                            <pathFromRoot value="2,0,0,0,0"/>
+                                            <properties name="line">
+                                                <visible>
+                                                    <init>true</init>
+                                                </visible>
+                                                <points>
+                                                    <point>
+                                                        <x>
+                                                            <init>-5.0</init>
+                                                        </x>
+                                                        <y>
+                                                            <init>10.5</init>
+                                                        </y>
+                                                    </point>
+                                                    <point>
+                                                        <x>
+                                                            <init>5.0</init>
+                                                        </x>
+                                                        <y>
+                                                            <init>10.5</init>
+                                                        </y>
+                                                    </point>
+                                                </points>
+                                                <lineWidth>
+                                                    <init>0</init>
+                                                </lineWidth>
+                                                <lineStipple>
+                                                    <init>0</init>
+                                                </lineStipple>
+                                                <lineCap>
+                                                    <init>round</init>
+                                                </lineCap>
+                                                <haloing>
+                                                    <init>false</init>
+                                                </haloing>
+                                                <haloColor>
+                                                    <init>-1</init>
+                                                </haloColor>
+                                                <outlineColor>
+                                                    <init>5</init>
+                                                </outlineColor>
+                                                <outlineOpacity>
+                                                    <init>255</init>
+                                                </outlineOpacity>
+                                            </properties>
+                                        </line>
+                                    </children>
+                                </container>
+                            </children>
+                        </container>
+                    </children>
+                </container>
+                <container oid="4e0ffffa-78b2-42a9-9d2b-cfb35cf3f1c8">
+                    <pathFromRoot value="1,0"/>
+                    <properties name="horizontal gauche">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>0.0</init>
+                            </x>
+                            <y>
+                                <init>0.0</init>
+                            </y>
+                        </origin>
+                        <priority>
+                            <init>-1</init>
+                        </priority>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                            <init>false</init>
+                        </static>
+                    </properties>
+                    <children>
+                        <container oid="05c57639-e9ad-46a1-bb37-f5460fcb1c04">
+                            <pathFromRoot value="0,1,0"/>
+                            <properties name="Type de vanne">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <origin>
+                                    <x>
+                                        <init>0.0</init>
+                                    </x>
+                                    <y>
+                                        <init>0.0</init>
+                                    </y>
+                                </origin>
+                                <priority>
+                                    <init>-1</init>
+                                </priority>
+                                <scale>
+                                    <x>
+                                        <init>1.0</init>
+                                    </x>
+                                    <y>
+                                        <init>1.0</init>
+                                    </y>
+                                </scale>
+                                <rotate>
+                                    <angle>
+                                        <init>0.0</init>
+                                    </angle>
+                                </rotate>
+                                <orientation clockwise="false"/>
+                                <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                                    <init>false</init>
+                                </static>
+                            </properties>
+                            <children>
+                                <container oid="30f4e22d-b6f5-4bf1-a19d-185a0fba1a84">
+                                    <pathFromRoot value="0,0,1,0"/>
+                                    <properties name="pneumatique">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>0.0</init>
+                                            </x>
+                                            <y>
+                                                <init>0.0</init>
+                                            </y>
+                                        </origin>
+                                        <priority>
+                                            <init>-1</init>
+                                        </priority>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                                            <init>false</init>
+                                        </static>
+                                    </properties>
+                                    <children>
+                                        <arcEllipse oid="7a522870-a284-43ff-a990-53a0c94b2ede">
+                                            <pathFromRoot value="0,0,0,1,0"/>
+                                            <properties name="arc ellipse">
+                                                <visible>
+                                                    <init>true</init>
+                                                </visible>
+                                                <center>
+                                                    <x>
+                                                        <init>10.0</init>
+                                                    </x>
+                                                    <y>
+                                                        <init>-0.0</init>
+                                                    </y>
+                                                </center>
+                                                <horzRadius>
+                                                    <init>4.0</init>
+                                                </horzRadius>
+                                                <vertRadius>
+                                                    <init>5.0</init>
+                                                </vertRadius>
+                                                <lineWidth>
+                                                    <init>0</init>
+                                                </lineWidth>
+                                                <lineStipple>
+                                                    <init>0</init>
+                                                </lineStipple>
+                                                <lineCap>
+                                                    <init>round</init>
+                                                </lineCap>
+                                                <haloing>
+                                                    <init>false</init>
+                                                </haloing>
+                                                <haloColor>
+                                                    <init>-1</init>
+                                                </haloColor>
+                                                <outlineColor>
+                                                    <init>5</init>
+                                                </outlineColor>
+                                                <outlineOpacity>
+                                                    <init>255</init>
+                                                </outlineOpacity>
+                                                <fillColor>
+                                                    <init>-1</init>
+                                                </fillColor>
+                                                <fillOpacity>
+                                                    <init>255</init>
+                                                </fillOpacity>
+                                                <polygonSmooth>
+                                                    <init>false</init>
+                                                </polygonSmooth>
+                                                <texture horizAlign="center" horizPattern="1.0" vertAlign="middle" vertPattern="1.0">
+                                                    <textureId>
+                                                        <init>-1</init>
+                                                    </textureId>
+                                                </texture>
+                                                <modulate>
+                                                    <init>false</init>
+                                                </modulate>
+                                                <startAngle>
+                                                    <angle>
+                                                        <init>270.0</init>
+                                                    </angle>
+                                                </startAngle>
+                                                <endAngle>
+                                                    <angle>
+                                                        <init>90.0</init>
+                                                    </angle>
+                                                </endAngle>
+                                                <orientation clockwise="false"/>
+                                            </properties>
+                                        </arcEllipse>
+                                        <line oid="53f2ff61-75b6-4c16-8b88-09da68061627">
+                                            <pathFromRoot value="1,0,0,1,0"/>
+                                            <properties name="line_reglante">
+                                                <visible>
+                                                    <init>true</init>
+                                                </visible>
+                                                <points>
+                                                    <point>
+                                                        <x>
+                                                            <init>10.0</init>
+                                                        </x>
+                                                        <y>
+                                                            <init>5.0</init>
+                                                        </y>
+                                                    </point>
+                                                    <point>
+                                                        <x>
+                                                            <init>0.0</init>
+                                                        </x>
+                                                        <y>
+                                                            <init>0.0</init>
+                                                        </y>
+                                                    </point>
+                                                    <point>
+                                                        <x>
+                                                            <init>10.0</init>
+                                                        </x>
+                                                        <y>
+                                                            <init>-5.0</init>
+                                                        </y>
+                                                    </point>
+                                                </points>
+                                                <lineWidth>
+                                                    <init>0</init>
+                                                </lineWidth>
+                                                <lineStipple>
+                                                    <init>0</init>
+                                                </lineStipple>
+                                                <lineCap>
+                                                    <init>round</init>
+                                                </lineCap>
+                                                <haloing>
+                                                    <init>false</init>
+                                                </haloing>
+                                                <haloColor>
+                                                    <init>-1</init>
+                                                </haloColor>
+                                                <outlineColor>
+                                                    <init>5</init>
+                                                </outlineColor>
+                                                <outlineOpacity>
+                                                    <init>255</init>
+                                                </outlineOpacity>
+                                            </properties>
+                                        </line>
+                                        <line oid="942548e5-53d4-43a9-b558-73265ff79716">
+                                            <pathFromRoot value="2,0,0,1,0"/>
+                                            <properties name="line">
+                                                <visible>
+                                                    <init>true</init>
+                                                </visible>
+                                                <points>
+                                                    <point>
+                                                        <x>
+                                                            <init>10.0</init>
+                                                        </x>
+                                                        <y>
+                                                            <init>5.0</init>
+                                                        </y>
+                                                    </point>
+                                                    <point>
+                                                        <x>
+                                                            <init>10.0</init>
+                                                        </x>
+                                                        <y>
+                                                            <init>-5.0</init>
+                                                        </y>
+                                                    </point>
+                                                </points>
+                                                <lineWidth>
+                                                    <init>0</init>
+                                                </lineWidth>
+                                                <lineStipple>
+                                                    <init>0</init>
+                                                </lineStipple>
+                                                <lineCap>
+                                                    <init>round</init>
+                                                </lineCap>
+                                                <haloing>
+                                                    <init>false</init>
+                                                </haloing>
+                                                <haloColor>
+                                                    <init>-1</init>
+                                                </haloColor>
+                                                <outlineColor>
+                                                    <init>5</init>
+                                                </outlineColor>
+                                                <outlineOpacity>
+                                                    <init>255</init>
+                                                </outlineOpacity>
+                                            </properties>
+                                        </line>
+                                    </children>
+                                </container>
+                            </children>
+                        </container>
+                    </children>
+                </container>
+                <container oid="2ba3f6e6-ed7b-441c-a6df-f3fe0b306735">
+                    <pathFromRoot value="2,0"/>
+                    <properties name="horizontal droit">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>0.0</init>
+                            </x>
+                            <y>
+                                <init>0.0</init>
+                            </y>
+                        </origin>
+                        <priority>
+                            <init>-1</init>
+                        </priority>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                            <init>false</init>
+                        </static>
+                    </properties>
+                    <children>
+                        <container oid="4d0fd730-37a1-4475-ab78-b7aa82c74100">
+                            <pathFromRoot value="0,2,0"/>
+                            <properties name="Type de vanne">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <origin>
+                                    <x>
+                                        <init>0.0</init>
+                                    </x>
+                                    <y>
+                                        <init>0.0</init>
+                                    </y>
+                                </origin>
+                                <priority>
+                                    <init>-1</init>
+                                </priority>
+                                <scale>
+                                    <x>
+                                        <init>1.0</init>
+                                    </x>
+                                    <y>
+                                        <init>1.0</init>
+                                    </y>
+                                </scale>
+                                <rotate>
+                                    <angle>
+                                        <init>0.0</init>
+                                    </angle>
+                                </rotate>
+                                <orientation clockwise="false"/>
+                                <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                                    <init>false</init>
+                                </static>
+                            </properties>
+                            <children>
+                                <container oid="aae0f079-d20e-466f-8bf6-e8ac20c001d6">
+                                    <pathFromRoot value="0,0,2,0"/>
+                                    <properties name="pneumatique_miroir">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>0.0</init>
+                                            </x>
+                                            <y>
+                                                <init>0.0</init>
+                                            </y>
+                                        </origin>
+                                        <priority>
+                                            <init>-1</init>
+                                        </priority>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                                            <init>false</init>
+                                        </static>
+                                    </properties>
+                                    <children>
+                                        <line oid="6e3bd308-1f57-494d-b1f5-fa7de8c4ac04">
+                                            <pathFromRoot value="0,0,0,2,0"/>
+                                            <properties name="line">
+                                                <visible>
+                                                    <init>true</init>
+                                                </visible>
+                                                <points>
+                                                    <point>
+                                                        <x>
+                                                            <init>-10.0</init>
+                                                        </x>
+                                                        <y>
+                                                            <init>5.0</init>
+                                                        </y>
+                                                    </point>
+                                                    <point>
+                                                        <x>
+                                                            <init>-10.0</init>
+                                                        </x>
+                                                        <y>
+                                                            <init>-5.0</init>
+                                                        </y>
+                                                    </point>
+                                                </points>
+                                                <lineWidth>
+                                                    <init>0</init>
+                                                </lineWidth>
+                                                <lineStipple>
+                                                    <init>0</init>
+                                                </lineStipple>
+                                                <lineCap>
+                                                    <init>round</init>
+                                                </lineCap>
+                                                <haloing>
+                                                    <init>false</init>
+                                                </haloing>
+                                                <haloColor>
+                                                    <init>-1</init>
+                                                </haloColor>
+                                                <outlineColor>
+                                                    <init>5</init>
+                                                </outlineColor>
+                                                <outlineOpacity>
+                                                    <init>255</init>
+                                                </outlineOpacity>
+                                            </properties>
+                                        </line>
+                                        <line oid="bf7351a6-889b-4436-bc7f-4824711abd41">
+                                            <pathFromRoot value="1,0,0,2,0"/>
+                                            <properties name="line_reglante">
+                                                <visible>
+                                                    <init>true</init>
+                                                </visible>
+                                                <points>
+                                                    <point>
+                                                        <x>
+                                                            <init>-10.0</init>
+                                                        </x>
+                                                        <y>
+                                                            <init>5.0</init>
+                                                        </y>
+                                                    </point>
+                                                    <point>
+                                                        <x>
+                                                            <init>0.0</init>
+                                                        </x>
+                                                        <y>
+                                                            <init>0.0</init>
+                                                        </y>
+                                                    </point>
+                                                    <point>
+                                                        <x>
+                                                            <init>-10.0</init>
+                                                        </x>
+                                                        <y>
+                                                            <init>-5.0</init>
+                                                        </y>
+                                                    </point>
+                                                </points>
+                                                <lineWidth>
+                                                    <init>0</init>
+                                                </lineWidth>
+                                                <lineStipple>
+                                                    <init>0</init>
+                                                </lineStipple>
+                                                <lineCap>
+                                                    <init>round</init>
+                                                </lineCap>
+                                                <haloing>
+                                                    <init>false</init>
+                                                </haloing>
+                                                <haloColor>
+                                                    <init>-1</init>
+                                                </haloColor>
+                                                <outlineColor>
+                                                    <init>5</init>
+                                                </outlineColor>
+                                                <outlineOpacity>
+                                                    <init>255</init>
+                                                </outlineOpacity>
+                                            </properties>
+                                        </line>
+                                        <arcEllipse oid="c7aef774-a957-4d47-bf7f-1ab41e512e3c">
+                                            <pathFromRoot value="2,0,0,2,0"/>
+                                            <properties name="arc ellipse">
+                                                <visible>
+                                                    <init>true</init>
+                                                </visible>
+                                                <center>
+                                                    <x>
+                                                        <init>-10.0</init>
+                                                    </x>
+                                                    <y>
+                                                        <init>-0.0</init>
+                                                    </y>
+                                                </center>
+                                                <horzRadius>
+                                                    <init>4.0</init>
+                                                </horzRadius>
+                                                <vertRadius>
+                                                    <init>5.0</init>
+                                                </vertRadius>
+                                                <lineWidth>
+                                                    <init>0</init>
+                                                </lineWidth>
+                                                <lineStipple>
+                                                    <init>0</init>
+                                                </lineStipple>
+                                                <lineCap>
+                                                    <init>round</init>
+                                                </lineCap>
+                                                <haloing>
+                                                    <init>false</init>
+                                                </haloing>
+                                                <haloColor>
+                                                    <init>-1</init>
+                                                </haloColor>
+                                                <outlineColor>
+                                                    <init>5</init>
+                                                </outlineColor>
+                                                <outlineOpacity>
+                                                    <init>255</init>
+                                                </outlineOpacity>
+                                                <fillColor>
+                                                    <init>-1</init>
+                                                </fillColor>
+                                                <fillOpacity>
+                                                    <init>255</init>
+                                                </fillOpacity>
+                                                <polygonSmooth>
+                                                    <init>false</init>
+                                                </polygonSmooth>
+                                                <texture horizAlign="center" horizPattern="1.0" vertAlign="middle" vertPattern="1.0">
+                                                    <textureId>
+                                                        <init>-1</init>
+                                                    </textureId>
+                                                </texture>
+                                                <modulate>
+                                                    <init>false</init>
+                                                </modulate>
+                                                <startAngle>
+                                                    <angle>
+                                                        <init>90.0</init>
+                                                    </angle>
+                                                </startAngle>
+                                                <endAngle>
+                                                    <angle>
+                                                        <init>270.0</init>
+                                                    </angle>
+                                                </endAngle>
+                                                <orientation clockwise="false"/>
+                                            </properties>
+                                        </arcEllipse>
+                                    </children>
+                                </container>
+                            </children>
+                        </container>
+                    </children>
+                </container>
+            </children>
+        </condContainer>
+    </children>
+</object>
+
+<!-- crc32 : 314092014 -->
+

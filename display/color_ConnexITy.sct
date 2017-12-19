@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?dom version="17.2" ?>
+
+<colorTable backgroundIndex="85" name="color_ConnexITy" size="128">
+    <colorDefinition alpha="0xFF" index="0" name="noir" rgb="0x000000"/>
+    <colorDefinition alpha="0xFF" index="1" name="blanc" rgb="0xFFFFFF"/>
+    <colorDefinition alpha="0xFF" index="2" name="rouge" rgb="0xFF0000"/>
+    <colorDefinition alpha="0xFF" index="3" name="vert" rgb="0x00CA00"/>
+    <colorDefinition alpha="0xFF" index="4" name="bleu clair" rgb="0x00C6C6"/>
+    <colorDefinition alpha="0xFF" index="5" name="bleu" rgb="0x0000FF"/>
+    <colorDefinition alpha="0xFF" index="6" name="magenta" rgb="0xFF00FF"/>
+    <colorDefinition alpha="0xFF" index="7" name="kaki" rgb="0x838332"/>
+    <colorDefinition alpha="0xFF" index="8" name="jaune vif" rgb="0xFFFF00"/>
+    <colorDefinition alpha="0xFF" index="9" name="orange" rgb="0xFF7D13"/>
+    <colorDefinition alpha="0xFF" index="10" name="gris" rgb="0x919191"/>
+    <colorDefinition alpha="0xFF" index="11" name="bleu roi" rgb="0x703CBD"/>
+    <colorDefinition alpha="0xFF" index="13" name="gris foncé" rgb="0x595959"/>
+    <colorDefinition alpha="0xFF" index="14" name="marron" rgb="0xCD6556"/>
+    <colorDefinition alpha="0xFF" index="15" name="vert foncé" rgb="0x009740"/>
+    <colorDefinition alpha="0xFF" index="16" name="marron clair" rgb="0xFFCF80"/>
+    <colorDefinition alpha="0xFF" index="17" name="vert pâle" rgb="0xC2FFAE"/>
+    <colorDefinition alpha="0xFF" index="18" name="bleu pâle" rgb="0xD5FFFF"/>
+    <colorDefinition alpha="0xFF" index="19" name="violet pâle" rgb="0xBDBDDF"/>
+    <colorDefinition alpha="0xFF" index="20" name="orange clair" rgb="0xFFA579"/>
+    <colorDefinition alpha="0xFF" index="21" name="turquoise" rgb="0x53A6A6"/>
+    <colorDefinition alpha="0xFF" index="22" name="beige" rgb="0xFFF8DF"/>
+    <colorDefinition alpha="0xFF" index="23" name="fond écran" rgb="0xF5F5F5"/>
+    <colorDefinition alpha="0x96" index="56" name="highlight" rgb="0xFFFFFF"/>
+    <colorDefinition alpha="0xFF" index="59" name="sable" rgb="0xB49C76"/>
+    <colorDefinition alpha="0xFF" index="60" name="gris15" rgb="0x0F0F0F"/>
+    <colorDefinition alpha="0xFF" index="61" name="gris25" rgb="0x191919"/>
+    <colorDefinition alpha="0xFF" index="62" name="gris35" rgb="0x232323"/>
+    <colorDefinition alpha="0xFF" index="63" name="gris45" rgb="0x2D2D2D"/>
+    <colorDefinition alpha="0xFF" index="64" name="gris55" rgb="0x373737"/>
+    <colorDefinition alpha="0xFF" index="65" name="gris65" rgb="0x414141"/>
+    <colorDefinition alpha="0xFF" index="66" name="gris75" rgb="0x4B4B4B"/>
+    <colorDefinition alpha="0xFF" index="67" name="gris85" rgb="0x555555"/>
+    <colorDefinition alpha="0xFF" index="68" name="gris95" rgb="0x5F5F5F"/>
+    <colorDefinition alpha="0xFF" index="69" name="gris105" rgb="0x696969"/>
+    <colorDefinition alpha="0xFF" index="70" name="gris115" rgb="0x737373"/>
+    <colorDefinition alpha="0xFF" index="71" name="gris125" rgb="0x7D7D7D"/>
+    <colorDefinition alpha="0xFF" index="72" name="gris135" rgb="0x878787"/>
+    <colorDefinition alpha="0xFF" index="73" name="gris145" rgb="0x919191"/>
+    <colorDefinition alpha="0xFF" index="74" name="gris155" rgb="0x9B9B9B"/>
+    <colorDefinition alpha="0xFF" index="75" name="gris165" rgb="0xA5A5A5"/>
+    <colorDefinition alpha="0xFF" index="76" name="gris175" rgb="0xAFAFAF"/>
+    <colorDefinition alpha="0xFF" index="77" name="gris185" rgb="0xB9B9B9"/>
+    <colorDefinition alpha="0xFF" index="78" name="gris195" rgb="0xC3C3C3"/>
+    <colorDefinition alpha="0xFF" index="79" name="gris205" rgb="0xCDCDCD"/>
+    <colorDefinition alpha="0xFF" index="80" name="gris215" rgb="0xD7D7D7"/>
+    <colorDefinition alpha="0xFF" index="81" name="gris225" rgb="0xE1E1E1"/>
+    <colorDefinition alpha="0xFF" index="82" name="gris235" rgb="0xEBEBEB"/>
+    <colorDefinition alpha="0xFF" index="83" name="gris240" rgb="0xF0F0F0"/>
+    <colorDefinition alpha="0xFF" index="84" name="gris245" rgb="0xF5F5F5"/>
+    <colorDefinition alpha="0xFF" index="85" name="gris250" rgb="0xFAFAFA"/>
+    <colorDefinition alpha="0xFF" index="86" name="Undefined" rgb="0x000000"/>
+    <colorDefinition alpha="0xFF" index="87" name="bouton_actif" rgb="0xF8F58A"/>
+    <colorDefinition alpha="0x64" index="88" name="click_pressed" rgb="0x000000"/>
+    <colorDefinition alpha="0xFF" index="89" name="gris_fond_commande" rgb="0xE6E6E6"/>
+    <colorDefinition alpha="0xFF" index="90" name="gris_fond_bouton" rgb="0xC8C8C8"/>
+    <colorDefinition alpha="0xFF" index="91" name="gris_applat_fonctionnel" rgb="0xF0F0F0"/>
+    <colorDefinition alpha="0xFF" index="92" name="labels" rgb="0x232323"/>
+    <colorDefinition alpha="0xFF" index="93" name="codes_ECS" rgb="0x5F5F5F"/>
+</colorTable>
+
+<!-- crc32 : 1978644553 -->
+

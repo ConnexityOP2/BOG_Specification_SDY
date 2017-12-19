@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?dom version="17.2" ?>
+
+<specification>
+    <IDE>
+        <project path="ConnexITy.etp"/>
+        <ratio horizontal="1" vertical="1"/>
+    </IDE>
+    <symbology>
+        <dimension height="900" width="1600"/>
+    </symbology>
+    <children>
+        <layer oid="1678ca31-8a22-48b8-a559-29035a19abd0">
+            <pathFromRoot value=""/>
+            <declaration>
+                <inputs>
+                    <input name="Value" oid="333eb4e6-2f6a-4938-bcd4-5be549505ea3" type="float32">
+                        <init>70.0</init>
+                    </input>
+                    <input name="Value2" oid="3a2478ed-aed8-4072-8e3e-fb7ecfb108fa" type="float32">
+                        <init>15.0</init>
+                    </input>
+                </inputs>
+                <outputs>
+                    <output memory="true" name="AlertSU2" oid="f573abe2-66f0-4aac-9883-3ccbcd1e871e" type="bool">
+                        <init>false</init>
+                    </output>
+                    <output memory="true" name="RPC_debitA_release" oid="e19f812b-57ff-4328-8e79-43bf977e1785" type="bool">
+                        <init>false</init>
+                    </output>
+                    <output memory="true" name="RPC_debitB_Release" oid="847901c6-031a-40fc-afd9-8cbe7fd65141" type="bool">
+                        <init>false</init>
+                    </output>
+                </outputs>
+            </declaration>
+            <properties name="symbology_layer">
+                <visible>
+                    <init>true</init>
+                </visible>
+                <origin>
+                    <x>
+                        <init>0.0</init>
+                    </x>
+                    <y>
+                        <init>0.0</init>
+                    </y>
+                </origin>
+                <id>
+                    <init>1</init>
+                </id>
+                <ratio horizontal="1" vertical="1"/>
+            </properties>
+            <children>
+                <referenceContainer oid="81673bb3-74cf-46fc-b27f-df72792d9cd3">
+                    <pathFromRoot value="0"/>
+                    <properties modular="false" name="RPC_debitB">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>-503.0</init>
+                            </x>
+                            <y>
+                                <init>-312.0</init>
+                            </y>
+                        </origin>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <file name="RPC.ogfx" path="."/>
+                        <crc value="613366647"/>
+                        <constantParameters>
+                            <parameter control="false" name="PopupPosition" oid="d26f4e11-73d4-4f9b-811d-625d9b3c6406" representation="index" type="int">
+                                <init>1</init>
+                            </parameter>
+                        </constantParameters>
+                        <inputParameters>
+                            <parameter control="false" name="ConsigneUnit" oid="ce8a1e3e-4a50-4d80-83da-ea8a4cbf6562" representation="as_string" type="char^5">
+                                <init>[85, 110, 105, 116, 0]</init>
+                            </parameter>
+                            <parameter control="false" name="ConsigneVal" oid="996ff5c4-1c54-42df-8534-b64b772ce859" type="real">
+                                <init>999.900024</init>
+                            </parameter>
+                            <parameter control="false" name="RPC_manu" oid="6e2bc646-b874-4832-b896-c530d78ec3ab" type="bool">
+                                <init>true</init>
+                            </parameter>
+                            <parameter control="false" name="ECS" oid="605fe1dc-6595-45bc-ba57-e42f18e24c22" representation="as_string" type="char^255">
+                                <init>[82, 82, 82, 32, 52, 52, 52, 52, 32, 71, 71, 0]</init>
+                            </parameter>
+                            <parameter control="false" name="NomAPI" oid="42125fec-f689-42d7-b0ce-745b42d11c17" representation="as_string" type="char^255">
+                                <init>[65, 80, 73, 46, 46, 46, 46, 46, 0]</init>
+                            </parameter>
+                            <parameter control="false" name="CodeECS_RPC" oid="5331a966-73e0-40c9-ac44-e2ab8ad12f79" representation="as_string" type="char^255">
+                                <init>[0]</init>
+                            </parameter>
+                        </inputParameters>
+                    </properties>
+                    <children/>
+                </referenceContainer>
+                <referenceContainer oid="1c39c7f5-ac39-4981-b5ea-9bbfa7d4c649">
+                    <pathFromRoot value="1"/>
+                    <properties modular="false" name="RPC">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>-464.0</init>
+                            </x>
+                            <y>
+                                <init>95.0</init>
+                            </y>
+                        </origin>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <file name="RPC.ogfx" path="."/>
+                        <crc value="613366647"/>
+                        <constantParameters>
+                            <parameter control="false" name="PopupPosition" oid="d26f4e11-73d4-4f9b-811d-625d9b3c6406" representation="index" type="int">
+                                <init>0</init>
+                            </parameter>
+                        </constantParameters>
+                        <inputParameters>
+                            <parameter control="false" name="ConsigneUnit" oid="ce8a1e3e-4a50-4d80-83da-ea8a4cbf6562" representation="as_string" type="char^5">
+                                <init>[85, 110, 105, 116, 0]</init>
+                            </parameter>
+                            <parameter control="false" name="ConsigneVal" oid="996ff5c4-1c54-42df-8534-b64b772ce859" type="real">
+                                <init>999.900024</init>
+                            </parameter>
+                            <parameter control="false" name="RPC_manu" oid="6e2bc646-b874-4832-b896-c530d78ec3ab" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="false" name="ECS" oid="605fe1dc-6595-45bc-ba57-e42f18e24c22" representation="as_string" type="char^255">
+                                <init>[69, 67, 83, 0]</init>
+                            </parameter>
+                            <parameter control="false" name="NomAPI" oid="42125fec-f689-42d7-b0ce-745b42d11c17" representation="as_string" type="char^255">
+                                <init>[65, 80, 73, 46, 46, 46, 46, 46, 0]</init>
+                            </parameter>
+                            <parameter control="false" name="CodeECS_RPC" oid="5331a966-73e0-40c9-ac44-e2ab8ad12f79" representation="as_string" type="char^255">
+                                <init>[0]</init>
+                            </parameter>
+                        </inputParameters>
+                    </properties>
+                    <children/>
+                </referenceContainer>
+                <referenceContainer oid="505007d3-d4c6-4c8f-8680-ef805ac01e84">
+                    <pathFromRoot value="2"/>
+                    <properties modular="false" name="medaillon_courbe">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>-125.0</init>
+                            </x>
+                            <y>
+                                <init>-430.0</init>
+                            </y>
+                        </origin>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <file name="medaillon_courbe.ogfx" path="."/>
+                        <crc value="3397840216"/>
+                        <inputParameters>
+                            <parameter control="false" name="ligne1_color" oid="24654664-c3d0-454d-8433-d3fc81aee4a8" representation="color" type="int">
+                                <init>67</init>
+                            </parameter>
+                            <parameter control="false" name="ligne2_color" oid="85a1f1f8-56bf-4b04-9fa3-7d6b3069997a" representation="color" type="int">
+                                <init>67</init>
+                            </parameter>
+                            <parameter control="false" name="ligne3_color" oid="74738f3d-80b7-4dc8-9d61-901b4eb31775" representation="color" type="int">
+                                <init>67</init>
+                            </parameter>
+                            <parameter control="false" name="ligne4_color" oid="c2843925-2051-41ca-9876-badbf066f133" representation="color" type="int">
+                                <init>67</init>
+                            </parameter>
+                            <parameter control="false" name="ligne5_color" oid="2aa8bd60-4d6a-4323-a635-641611e111d2" representation="color" type="int">
+                                <init>67</init>
+                            </parameter>
+                            <parameter control="false" name="text_ligne1_color" oid="18fd8ba2-70c1-4896-8da3-00d8d6c02f55" representation="color" type="int">
+                                <init>16</init>
+                            </parameter>
+                            <parameter control="false" name="text_ligne2_color" oid="11dc0490-5051-4acf-95a2-d5583577ec26" representation="color" type="int">
+                                <init>8</init>
+                            </parameter>
+                            <parameter control="false" name="text_ligne3_color" oid="583a79fd-78f5-47d9-b438-fa23f7b68b21" representation="color" type="int">
+                                <init>2</init>
+                            </parameter>
+                            <parameter control="false" name="text_ligne4_color" oid="13b614db-2479-41bc-9533-f63a80840fa1" representation="color" type="int">
+                                <init>4</init>
+                            </parameter>
+                            <parameter control="false" name="text_ligne5_color" oid="779a0294-adf9-49bd-8f6b-33539b30a9e7" representation="color" type="int">
+                                <init>15</init>
+                            </parameter>
+                        </inputParameters>
+                    </properties>
+                    <children/>
+                </referenceContainer>
+                <referenceContainer oid="9f6f0ef9-62f0-4082-8833-2c9aea3d1cdf">
+                    <pathFromRoot value="3"/>
+                    <properties modular="false" name="commande_RPC">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>-397.0</init>
+                            </x>
+                            <y>
+                                <init>198.0</init>
+                            </y>
+                        </origin>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <file name="commande_RPC.ogfx" path="."/>
+                        <crc value="1181590718"/>
+                        <inputParameters>
+                            <parameter control="false" name="bouton_moins_actif" oid="82c4ae01-dde7-47c0-83c0-948977dbe2a9" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="false" name="bouton_moins_ordre" oid="63fd6c07-90a3-4ee4-b605-d0e712475e14" type="bool">
+                                <init>false</init>
+                            </parameter>
+                        </inputParameters>
+                    </properties>
+                    <children/>
+                </referenceContainer>
+                <referenceContainer oid="e8266d7f-cdab-4f2a-a695-743ed76caf7d">
+                    <pathFromRoot value="4"/>
+                    <properties modular="false" name="Vanne_TOR">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>-201.0</init>
+                            </x>
+                            <y>
+                                <init>31.0</init>
+                            </y>
+                        </origin>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <file name="Vanne_TOR.ogfx" path="../../../ProtoMickael/ConnexITy"/>
+                        <crc value="1693705066"/>
+                        <inputParameters>
+                            <parameter control="false" name="ECS_cmd" oid="b606cb4e-defc-4126-b92b-8ac42397509b" type="real">
+                                <init>0.0</init>
+                            </parameter>
+                            <parameter control="false" name="ECS_position" oid="4062515b-0705-4deb-b730-4d2624f03ffa" type="real">
+                                <init>0.0</init>
+                            </parameter>
+                            <parameter control="false" name="ECS_passRcolor" oid="362309d9-faac-47be-bfbb-a43e403ae1d3" representation="color" type="int">
+                                <init>55</init>
+                            </parameter>
+                            <parameter control="false" name="ECS_passLcolor" oid="b2be491a-60f1-48d3-820a-556b3f29f903" representation="color" type="int">
+                                <init>55</init>
+                            </parameter>
+                            <parameter control="false" name="pass3color" oid="ed5c2e2b-7421-4a30-9dac-e2a8a69a6d8b" representation="color" type="int">
+                                <init>55</init>
+                            </parameter>
+                            <parameter control="false" name="Distributrice" oid="7b755154-9f03-4cef-90a6-98e948dd9c89" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="false" name="Melangeuse" oid="98ffde7a-1c3f-450a-8db1-f82a6a6ce2ac" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="false" name="voies3" oid="0cb0f16c-f7d8-4dc4-918e-0550b09dc56a" representation="index" type="int">
+                                <init>2</init>
+                            </parameter>
+                            <parameter control="false" name="ECS" oid="93d506b4-d875-486e-9817-377f791e4b5e" representation="as_string" type="char^255">
+                                <init>[54, 49, 51, 48, 86, 80, 0]</init>
+                            </parameter>
+                            <parameter control="false" name="CMDv" oid="8ab05b05-8677-49cb-9de2-b7bc86bd11ba" type="bool">
+                                <init>true</init>
+                            </parameter>
+                            <parameter control="false" name="pointerinside" oid="c2196584-53d5-42a5-b664-af310e7920ac" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="false" name="Enabled" oid="9e1c43eb-28c5-4566-a9e5-7080a3fddccf" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="false" name="Orientation" oid="d7c84ac8-089c-44a1-a8a7-254201b0f63e" type="float32">
+                                <init>0.0</init>
+                            </parameter>
+                            <parameter control="false" name="SelectCMD" oid="970f29c2-719b-49fc-9904-7f18cb60ebc5" representation="index" type="int">
+                                <init>0</init>
+                            </parameter>
+                        </inputParameters>
+                    </properties>
+                    <children/>
+                </referenceContainer>
+                <referenceContainer oid="ce7554dc-3bcc-4aaa-b249-f23d39749a71">
+                    <pathFromRoot value="5"/>
+                    <properties modular="false" name="Vanne_Reglante">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>-42.0</init>
+                            </x>
+                            <y>
+                                <init>172.0</init>
+                            </y>
+                        </origin>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <file name="Vanne_Reglante.ogfx" path="."/>
+                        <crc value="0"/>
+                    </properties>
+                    <children/>
+                </referenceContainer>
+                <referenceContainer oid="aa6839d8-4398-487f-901d-2866979efd74">
+                    <pathFromRoot value="6"/>
+                    <properties modular="false" name="commande_vanne_TOR">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>-468.0</init>
+                            </x>
+                            <y>
+                                <init>2.0</init>
+                            </y>
+                        </origin>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <file name="commande_vanne_TOR.ogfx" path="."/>
+                        <crc value="3950581597"/>
+                        <inputParameters>
+                            <parameter control="false" name="defaut_visible" oid="c4fd2ebc-ad03-40e7-88be-5f4cb2cb6681" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="false" name="defaut_vanne" oid="a3bae57a-571e-4d6b-9920-567c095b1e66" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="false" name="index_bouton_manu" oid="c1f19e28-a629-4b4b-81e1-bd976b78c30c" representation="index" type="int">
+                                <init>6</init>
+                            </parameter>
+                            <parameter control="false" name="index_bouton_auto" oid="fedb6763-758d-43c2-a86b-379f6c9bf14e" representation="index" type="int">
+                                <init>5</init>
+                            </parameter>
+                            <parameter control="false" name="ouvrir_click_pressed" oid="71a70c31-1652-418d-90e4-2dcb0321583a" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="false" name="ourvir_texte" oid="2080c7ab-fe76-49cc-a9b1-b053bfd055e9" representation="as_string" type="char^255">
+                                <init>[79, 0]</init>
+                            </parameter>
+                            <parameter control="false" name="ouvrir_actif" oid="40502d40-107a-4c85-a021-790ed682dbf9" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="false" name="ouvrir_ordre" oid="88cf71c7-e3de-4f31-8aa8-6764cb1897e9" type="bool">
+                                <init>false</init>
+                            </parameter>
+                        </inputParameters>
+                    </properties>
+                    <children/>
+                </referenceContainer>
+                <referenceContainer oid="a2de4580-e731-4357-93dc-8eca90b65a01">
+                    <pathFromRoot value="7"/>
+                    <properties modular="false" name="Pompe">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>-100.0</init>
+                            </x>
+                            <y>
+                                <init>31.0</init>
+                            </y>
+                        </origin>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <file name="Pompe.ogfx" path="."/>
+                        <crc value="241797306"/>
+                        <inputParameters>
+                            <parameter control="false" name="defaut_visible" oid="accceafa-339f-4cfd-a64b-8b213a448bf3" type="bool">
+                                <init>false</init>
+                            </parameter>
+                        </inputParameters>
+                    </properties>
+                    <children/>
+                </referenceContainer>
+                <referenceContainer oid="50a9ebf1-9433-4be9-8810-184c71f159bb">
+                    <pathFromRoot value="8"/>
+                    <properties modular="false" name="commande_Pompe">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>-703.0</init>
+                            </x>
+                            <y>
+                                <init>-59.0</init>
+                            </y>
+                        </origin>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <file name="commande_Pompe.ogfx" path="."/>
+                        <crc value="1156157761"/>
+                        <inputParameters>
+                            <parameter control="false" name="visibilite_cadenas" oid="9abf0ea0-cae5-4f83-b785-0f141aff47a3" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="false" name="defaut_pompe_visible" oid="5238008b-9a6a-43f0-b77d-b49f79f0544f" type="bool">
+                                <init>false</init>
+                            </parameter>
+                        </inputParameters>
+                    </properties>
+                    <children/>
+                </referenceContainer>
+            </children>
+        </layer>
+    </children>
+</specification>
+
+<!-- crc32 : 3388174841 -->
+

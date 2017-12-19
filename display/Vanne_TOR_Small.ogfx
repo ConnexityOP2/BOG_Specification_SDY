@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?dom version="17.2" ?>
+
+<object>
+    <IDE>
+        <ratio horizontal="1" vertical="1"/>
+        <project path="ConnexITy.etp"/>
+        <preview height="30" width="128">
+            <raw numberOfBytes="1218">
+-119,80,78,71,13,10,26,10,0,0,0,13,73,72,68,82,0,0,0,-128,0,0,0,30,8,2,0,0,0,107,48,-127,-81,0,0,4,-119,73,68,65,84,120,-38,-19,-103,-39,79,-109,75,24,-121,-3,95,-116,-1,-127,38,70,47,-116,114,-95,49,120,65,-94,33,-15,66,-29,13,49,-47,4,-71,-112,70,45,49,97,73,52,-95,-110,120,-95,-94,18,67,89,-92,45,123,65,-32,66,-42,-120,-48,22,100,9,97,43,52,-20,75,-127,22,-95,-48,118,102,-32,60,-91,-78,-100,-109,0,-98,8,-25,120,114,-26,-51,-28,-53,59,51,-65,-7,46,-34,-25,-99,119,-66,-27,68,88,-37,-65,106,39,116,8,52,0,13,64,-101,6,-16,23,-13,-5,-3,19,19,19,62,-97,-17,87,111,20,12,-118,-10,118,-103,-106,38,-115,70,-100,-16,-6,-70,6,112,-120,-123,66,33,-69,-35,-98,-111,-111,17,19,19,-109,-98,-98,-66,-68,-68,-4,43,119,19,14,-121,-118,-115,21,-17,-33,11,-117,69,-59,-59,9,-101,77,3,56,-60,28,14,71,118,118,118,114,114,114,82,82,18,-41,-76,-76,-76,-39,-39,-39,-3,105,-123,3,-127,-3,-17,-75,-68,-84,-18,-35,-109,-23,-23,-94,-71,89,-76,-76,72,-109,73,93,-65,30,-2,-2,93,3,56,-56,-22,-22,-22,-52,102,-77,-47,104,
+52,24,12,41,41,41,-8,-51,-51,-51,-117,-117,97,-89,83,4,-125,-69,50,106,-119,-51,38,18,18,34,17,46,40,16,123,75,11,50,-121,67,-80,68,116,117,-87,-13,-25,85,98,-94,122,-16,32,-46,112,46,92,16,95,-65,106,0,7,-91,63,-95,119,-71,92,74,-87,-51,-51,77,-82,86,-85,21,0,31,62,-56,-109,39,55,76,38,-23,-9,-1,72,-4,-105,47,-27,-51,-101,-86,-90,70,124,-6,20,-66,125,91,62,123,38,-93,120,16,32,67,-52,18,-47,-47,33,-17,-34,-115,20,-94,111,-33,-60,-105,47,56,-46,96,16,-11,-11,26,-64,-66,54,54,54,-106,-107,-107,-27,-11,122,55,-73,-51,102,-77,1,-96,-80,80,94,-68,-88,46,95,86,119,-18,72,-73,59,-110,-2,-81,95,-53,-72,56,21,19,19,105,55,110,-88,87,-81,34,-101,-128,41,4,-56,16,-77,100,23,64,105,-87,124,-9,78,3,-8,41,115,-69,-35,-87,-87,-87,82,-54,-24,14,-64,-9,120,60,68,-13,-22,85,-11,-8,-79,-116,-115,-27,76,85,84,24,54,1,-113,72,-20,3,26,14,93,6,-93,-77,-56,16,71,0,56,-99,-22,-38,53,81,92,-52,33,44,-33,-68,-63,81,-15,-15,-30,-13,103,13,-32,16,91,90,90,122,-80,109,11,11,11,-116,68,1,24,-115,60,76,-54,-124,4,121,
+-6,-76,-54,-50,-106,-100,-90,111,-33,74,26,14,93,6,-103,-118,106,-94,0,-62,94,-81,96,-89,80,-98,118,-38,-117,23,12,106,0,127,-37,-10,2,-96,37,38,-54,115,-25,84,74,-118,124,-2,60,-46,112,-24,50,-72,35,-8,1,64,-65,-120,29,19,0,-102,-63,16,41,71,-89,78,109,-48,112,-24,-18,-99,-43,0,-114,29,-64,-93,71,50,62,94,-99,57,-77,65,-61,-95,-85,1,-4,115,0,-56,119,30,126,110,-35,82,61,61,-126,-122,67,119,-17,38,-48,0,-114,17,-64,-3,-5,-14,-20,89,-11,-12,-87,-36,-7,80,-124,67,-105,65,-90,52,-128,99,4,-16,-28,9,47,95,-111,-36,-73,88,-60,-22,-22,-97,4,116,25,100,10,1,50,13,-32,-24,1,92,-71,-94,120,-13,-70,116,73,-75,-73,-117,-3,100,76,33,64,-122,88,3,56,74,-53,-51,-115,124,93,120,-8,80,110,-67,21,28,100,8,-112,33,102,-119,6,112,100,54,58,26,46,42,18,63,-7,101,26,-39,-57,-113,-126,37,26,-128,-74,-1,14,-128,-52,-52,-52,-36,45,91,92,92,-100,-98,-98,-74,-39,108,-123,-123,-123,-109,-109,-109,118,-69,125,105,105,9,65,99,99,-93,-57,-29,-63,-87,-87,-87,49,-101,-51,-27,-27,-27,116,45,22,75,126,126,62,83,61,61,61,
+121,121,121,116,-121,-122,-122,-86,-85,-85,-93,-126,-24,-49,-100,-66,-66,62,-105,-53,-123,51,59,59,-117,-128,-27,-21,-21,-21,-127,64,-96,-86,-86,-54,31,-3,-72,-86,1,96,57,57,57,51,51,51,4,-120,107,105,105,41,24,112,-90,-90,-90,-38,-38,-38,6,7,7,-41,-42,-42,74,74,74,2,91,63,95,0,51,58,58,-118,-122,-80,86,84,84,-32,23,21,21,-43,-42,-42,-10,-10,-10,50,-46,-44,-44,84,80,80,-64,32,8,-25,-26,-26,-48,-77,-86,-84,-84,44,24,12,58,28,14,56,-127,-57,-25,-13,49,5,-119,-32,-34,63,12,-1,115,0,38,-109,-119,-24,91,-83,86,98,77,82,-81,-82,-82,-82,-84,-84,120,-67,94,24,-44,-43,-43,57,-99,78,-62,23,85,-110,-38,-64,32,-54,-128,-31,-118,79,46,35,96,57,36,-70,-69,-69,97,19,21,68,-73,14,-42,-38,-38,58,48,48,80,92,92,60,63,63,63,60,60,-36,-46,-46,82,95,95,-49,-120,46,65,-69,70,-47,32,-12,36,50,-123,-94,-77,-77,-109,-60,-81,-84,-84,-92,-98,-124,66,33,2,74,105,-38,-7,65,79,58,-109,-23,36,56,-79,-90,64,1,-122,-56,-110,-8,44,105,104,104,32,-42,68,31,1,60,-68,-37,31,62,-57,-57,-57,-23,-62,-119,-69,-111,-11,20,43,24,
+-1,14,-23,-1,27,1,24,25,25,-31,74,101,32,109,-87,-47,-44,10,18,-100,120,49,-56,-111,64,-74,-18,-60,-117,-46,-44,-47,-47,-127,-98,-38,-30,118,-69,-15,89,-59,118,-23,-22,-22,-94,10,-79,117,-48,51,72,21,-38,89,2,-38,-2,-2,126,-46,127,-5,-103,42,98,-6,16,-42,-90,1,104,0,-38,-2,0,-95,-124,-115,-85,-41,-38,-36,-50,0,0,0,0,73,69,78,68,-82,66,96,-126</raw>
+        </preview>
+    </IDE>
+    <symbology>
+        <dimension height="256" width="256"/>
+    </symbology>
+    <declaration>
+        <inputs>
+            <input name="Orientation" oid="c2e76773-3c0c-4066-8b77-78c0cafd9ca4" representation="index" type="int">
+                <init>0</init>
+            </input>
+            <input name="Defaut" oid="c8ff031d-0d61-4c6c-b5d0-53c4d336a529" type="bool">
+                <init>false</init>
+            </input>
+        </inputs>
+    </declaration>
+    <children>
+        <container oid="7656e150-dfeb-4a76-8a5b-37b9c5605363">
+            <pathFromRoot value="0"/>
+            <properties name="vanne">
+                <visible>
+                    <init>true</init>
+                </visible>
+                <origin>
+                    <x>
+                        <init>0.0</init>
+                    </x>
+                    <y>
+                        <init>0.0</init>
+                    </y>
+                </origin>
+                <priority>
+                    <init>-1</init>
+                </priority>
+                <scale>
+                    <x>
+                        <init>1.0</init>
+                    </x>
+                    <y>
+                        <init>1.0</init>
+                    </y>
+                </scale>
+                <rotate>
+                    <angle>
+                        <init>0.0</init>
+                    </angle>
+                </rotate>
+                <orientation clockwise="false"/>
+                <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                    <init>false</init>
+                </static>
+            </properties>
+            <children>
+                <condContainer oid="42017c52-d722-4648-8045-d08ffe177cb6">
+                    <pathFromRoot value="0,0"/>
+                    <properties name="Orientation">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>0.0</init>
+                            </x>
+                            <y>
+                                <init>-0.0</init>
+                            </y>
+                        </origin>
+                        <priority>
+                            <init>-1</init>
+                        </priority>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <index allVisible="false">
+                            <init>1</init>
+                            <expr>Orientation</expr>
+                        </index>
+                        <indexes default="1">
+                            <index value="1"/>
+                            <index value="2"/>
+                            <index value="3"/>
+                        </indexes>
+                    </properties>
+                    <children>
+                        <container oid="5cf993c6-fb8f-4268-81c9-a0772e0d0bc2">
+                            <pathFromRoot value="0,0,0"/>
+                            <properties name="vanne horizontale">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <origin>
+                                    <x>
+                                        <init>0.0</init>
+                                    </x>
+                                    <y>
+                                        <init>0.0</init>
+                                    </y>
+                                </origin>
+                                <priority>
+                                    <init>-1</init>
+                                </priority>
+                                <scale>
+                                    <x>
+                                        <init>1.0</init>
+                                    </x>
+                                    <y>
+                                        <init>1.0</init>
+                                    </y>
+                                </scale>
+                                <rotate>
+                                    <angle>
+                                        <init>0.0</init>
+                                    </angle>
+                                </rotate>
+                                <orientation clockwise="false"/>
+                                <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                                    <init>false</init>
+                                </static>
+                            </properties>
+                            <children>
+                                <line oid="f0d4396a-12ef-423f-9473-713591804acc">
+                                    <pathFromRoot value="0,0,0,0"/>
+                                    <properties name="tuyau_big_test_h">
+                                        <visible>
+                                            <init>false</init>
+                                        </visible>
+                                        <points>
+                                            <point>
+                                                <x>
+                                                    <init>-50.0</init>
+                                                </x>
+                                                <y>
+                                                    <init>0.0</init>
+                                                </y>
+                                            </point>
+                                            <point>
+                                                <x>
+                                                    <init>40.0</init>
+                                                </x>
+                                                <y>
+                                                    <init>0.0</init>
+                                                </y>
+                                            </point>
+                                            <point>
+                                                <x>
+                                                    <init>69.0</init>
+                                                </x>
+                                                <y>
+                                                    <init>0.0</init>
+                                                </y>
+                                            </point>
+                                        </points>
+                                        <lineWidth>
+                                            <init>5</init>
+                                        </lineWidth>
+                                        <lineStipple>
+                                            <init>0</init>
+                                        </lineStipple>
+                                        <lineCap>
+                                            <init>square</init>
+                                        </lineCap>
+                                        <haloing>
+                                            <init>false</init>
+                                        </haloing>
+                                        <haloColor>
+                                            <init>-1</init>
+                                        </haloColor>
+                                        <outlineColor>
+                                            <init>5</init>
+                                        </outlineColor>
+                                        <outlineOpacity>
+                                            <init>255</init>
+                                        </outlineOpacity>
+                                    </properties>
+                                </line>
+                                <condContainer oid="1cdedef5-87cf-46e9-ab9c-edbca64e6ca4">
+                                    <pathFromRoot value="1,0,0,0"/>
+                                    <properties name="TTLE">
+                                        <visible>
+                                            <init>false</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>0.0</init>
+                                            </x>
+                                            <y>
+                                                <init>-2.0</init>
+                                            </y>
+                                        </origin>
+                                        <priority>
+                                            <init>-1</init>
+                                        </priority>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <index allVisible="false">
+                                            <init>3</init>
+                                        </index>
+                                        <indexes default="3">
+                                            <index value="2"/>
+                                            <index value="3"/>
+                                        </indexes>
+                                    </properties>
+                                    <children>
+                                        <referenceContainer oid="06eb363b-c580-4981-abbc-dfe9dd27c7a2">
+                                            <pathFromRoot value="0,1,0,0,0"/>
+                                            <properties modular="false" name="indicateur_TTLE">
+                                                <visible>
+                                                    <init>true</init>
+                                                </visible>
+                                                <origin>
+                                                    <x>
+                                                        <init>0.0</init>
+                                                    </x>
+                                                    <y>
+                                                        <init>21.0</init>
+                                                    </y>
+                                                </origin>
+                                                <scale>
+                                                    <x>
+                                                        <init>1.0</init>
+                                                    </x>
+                                                    <y>
+                                                        <init>1.0</init>
+                                                    </y>
+                                                </scale>
+                                                <rotate>
+                                                    <angle>
+                                                        <init>0.0</init>
+                                                    </angle>
+                                                </rotate>
+                                                <orientation clockwise="false"/>
+                                                <file name="indicateur_TTLE.ogfx" path="."/>
+                                                <crc value="0"/>
+                                            </properties>
+                                            <children/>
+                                        </referenceContainer>
+                                        <referenceContainer oid="ff437ee9-4133-452b-984e-b56e9d336202">
+                                            <pathFromRoot value="1,1,0,0,0"/>
+                                            <properties modular="false" name="indicateur_TTLE_b">
+                                                <visible>
+                                                    <init>true</init>
+                                                </visible>
+                                                <origin>
+                                                    <x>
+                                                        <init>-21.0</init>
+                                                    </x>
+                                                    <y>
+                                                        <init>-9.0</init>
+                                                    </y>
+                                                </origin>
+                                                <scale>
+                                                    <x>
+                                                        <init>1.0</init>
+                                                    </x>
+                                                    <y>
+                                                        <init>1.0</init>
+                                                    </y>
+                                                </scale>
+                                                <rotate>
+                                                    <angle>
+                                                        <init>0.0</init>
+                                                    </angle>
+                                                </rotate>
+                                                <orientation clockwise="false"/>
+                                                <file name="indicateur_TTLE_b.ogfx" path="."/>
+                                                <crc value="0"/>
+                                            </properties>
+                                            <children/>
+                                        </referenceContainer>
+                                    </children>
+                                </condContainer>
+                                <text oid="61f89b9e-e9ca-426b-b470-1984e565ddda">
+                                    <pathFromRoot value="2,0,0,0"/>
+                                    <properties name="Code_ECS">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <position>
+                                            <x>
+                                                <init>0.0</init>
+                                            </x>
+                                            <y>
+                                                <init>-20.0</init>
+                                            </y>
+                                        </position>
+                                        <maxLength>
+                                            <init>255</init>
+                                        </maxLength>
+                                        <textValue type="char">
+                                            <init>[82, 67, 86, 32, 56, 56, 56, 56, 32, 86, 86, 0]</init>
+                                        </textValue>
+                                        <haloing>
+                                            <init>false</init>
+                                        </haloing>
+                                        <haloColor>
+                                            <init>-1</init>
+                                        </haloColor>
+                                        <outlineColor>
+                                            <init>69</init>
+                                        </outlineColor>
+                                        <lineWidth>
+                                            <init>2</init>
+                                        </lineWidth>
+                                        <font>
+                                            <init>6</init>
+                                        </font>
+                                        <horizAlign>
+                                            <init>center</init>
+                                        </horizAlign>
+                                        <vertAlign>
+                                            <init>bottom</init>
+                                        </vertAlign>
+                                    </properties>
+                                </text>
+                                <referenceContainer oid="afe71bad-9c24-48c6-bc50-151a3e6de669">
+                                    <pathFromRoot value="3,0,0,0"/>
+                                    <properties modular="false" name="cadenas_essai_consignation">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>16.0</init>
+                                            </x>
+                                            <y>
+                                                <init>4.0</init>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="cadenas_essai_consignation.ogfx" path="."/>
+                                        <crc value="0"/>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                                <referenceContainer oid="eef5344b-d104-4ca3-afca-c7f46fb74ab5">
+                                    <pathFromRoot value="4,0,0,0"/>
+                                    <properties modular="false" name="auto_manu_v2">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>-27.0</init>
+                                            </x>
+                                            <y>
+                                                <init>4.0</init>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="auto_manu_v2.ogfx" path="."/>
+                                        <crc value="3953435688"/>
+                                        <inputParameters>
+                                            <parameter control="false" name="highlight_visible" oid="2d8cdbe3-0336-461c-a2ee-7b1cdba35d85" type="bool">
+                                                <init>false</init>
+                                            </parameter>
+                                            <parameter control="false" name="index" oid="2f564d30-eb51-4f44-8e13-3b4ed17795a1" representation="index" type="int">
+                                                <init>4</init>
+                                            </parameter>
+                                        </inputParameters>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                                <referenceContainer oid="ee454b72-ce07-4917-b4ed-b5a2c5396fe1">
+                                    <pathFromRoot value="5,0,0,0"/>
+                                    <properties modular="false" name="Dessin defaut">
+                                        <visible>
+                                            <init>false</init>
+                                            <expr>Defaut</expr>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>0.0</init>
+                                            </x>
+                                            <y>
+                                                <init>0.0</init>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="dessin_vanne_defaut.ogfx" path="."/>
+                                        <crc value="2689705133"/>
+                                        <inputParameters>
+                                            <parameter control="false" name="Taille" oid="626ace9d-9194-4eea-9072-9ac0ebf61107" representation="index" type="int">
+                                                <init>1</init>
+                                            </parameter>
+                                            <parameter control="false" name="Orientation" oid="315d13f3-10cb-4774-9f31-ccd2acba9214" representation="index" type="int">
+                                                <init>1</init>
+                                            </parameter>
+                                        </inputParameters>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                                <referenceContainer oid="8d62d3e0-78d7-45fe-9aee-767f03efb692">
+                                    <pathFromRoot value="6,0,0,0"/>
+                                    <properties modular="false" name="Type vanne">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>0.0</init>
+                                            </x>
+                                            <y>
+                                                <init>0.0</init>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="type commande vanne TOR.ogfx" path="."/>
+                                        <crc value="3169241874"/>
+                                        <inputParameters>
+                                            <parameter control="false" name="Orientation" oid="8757a43c-7805-4f86-85f0-e47c4980415f" representation="index" type="int">
+                                                <init>1</init>
+                                            </parameter>
+                                            <parameter control="false" name="Taille" oid="457351b1-b41a-4a35-bb05-0bb1797968db" representation="index" type="int">
+                                                <init>1</init>
+                                            </parameter>
+                                        </inputParameters>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                                <referenceContainer oid="a23e9e80-6c7a-4ba1-9104-6d587f75a629">
+                                    <pathFromRoot value="7,0,0,0"/>
+                                    <properties modular="false" name="Dessin vanne">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>0.0</init>
+                                            </x>
+                                            <y>
+                                                <init>0.0</init>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="dessin_vanne.ogfx" path="."/>
+                                        <crc value="1278775736"/>
+                                        <inputParameters>
+                                            <parameter control="false" name="Position" oid="e6f4b13a-19b7-4652-8ee0-38fffc24ecbb" representation="index" type="int">
+                                                <init>1</init>
+                                            </parameter>
+                                            <parameter control="false" name="Taille" oid="3a6c1ef7-c66d-4718-a261-cad997f24cfd" representation="index" type="int">
+                                                <init>1</init>
+                                            </parameter>
+                                            <parameter control="false" name="Orientation" oid="4976ed97-cfe3-4374-8167-fff1ffd5efe6" representation="index" type="int">
+                                                <init>1</init>
+                                            </parameter>
+                                        </inputParameters>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                            </children>
+                        </container>
+                        <container oid="d196d6e0-d2c3-494a-ad8e-3fffa3496bc0">
+                            <pathFromRoot value="1,0,0"/>
+                            <properties name="vanne verticale droit">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <origin>
+                                    <x>
+                                        <init>0.0</init>
+                                    </x>
+                                    <y>
+                                        <init>0.0</init>
+                                    </y>
+                                </origin>
+                                <priority>
+                                    <init>-1</init>
+                                </priority>
+                                <scale>
+                                    <x>
+                                        <init>1.0</init>
+                                    </x>
+                                    <y>
+                                        <init>1.0</init>
+                                    </y>
+                                </scale>
+                                <rotate>
+                                    <angle>
+                                        <init>0.0</init>
+                                    </angle>
+                                </rotate>
+                                <orientation clockwise="false"/>
+                                <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                                    <init>false</init>
+                                </static>
+                            </properties>
+                            <children>
+                                <condContainer oid="d4406ff0-08cc-4fe4-8e13-a60d7c9bb7d7">
+                                    <pathFromRoot value="0,1,0,0"/>
+                                    <properties name="TTLE">
+                                        <visible>
+                                            <init>false</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>58.0</init>
+                                            </x>
+                                            <y>
+                                                <init>16.0</init>
+                                            </y>
+                                        </origin>
+                                        <priority>
+                                            <init>-1</init>
+                                        </priority>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <index allVisible="false">
+                                            <init>3</init>
+                                        </index>
+                                        <indexes default="3">
+                                            <index value="2"/>
+                                            <index value="3"/>
+                                        </indexes>
+                                    </properties>
+                                    <children>
+                                        <referenceContainer oid="0adde93a-b24d-4247-bb83-4a0372ae23ac">
+                                            <pathFromRoot value="0,0,1,0,0"/>
+                                            <properties modular="false" name="indicateur_TTLE">
+                                                <visible>
+                                                    <init>true</init>
+                                                </visible>
+                                                <origin>
+                                                    <x>
+                                                        <init>-58.0</init>
+                                                    </x>
+                                                    <y>
+                                                        <init>1.0</init>
+                                                    </y>
+                                                </origin>
+                                                <scale>
+                                                    <x>
+                                                        <init>1.0</init>
+                                                    </x>
+                                                    <y>
+                                                        <init>1.0</init>
+                                                    </y>
+                                                </scale>
+                                                <rotate>
+                                                    <angle>
+                                                        <init>0.0</init>
+                                                    </angle>
+                                                </rotate>
+                                                <orientation clockwise="false"/>
+                                                <file name="indicateur_TTLE.ogfx" path="."/>
+                                                <crc value="0"/>
+                                            </properties>
+                                            <children/>
+                                        </referenceContainer>
+                                        <referenceContainer oid="ac464a8b-0dbc-4217-9c50-f890c481afa8">
+                                            <pathFromRoot value="1,0,1,0,0"/>
+                                            <properties modular="false" name="indicateur_TTLE_b">
+                                                <visible>
+                                                    <init>true</init>
+                                                </visible>
+                                                <origin>
+                                                    <x>
+                                                        <init>-49.0</init>
+                                                    </x>
+                                                    <y>
+                                                        <init>1.0</init>
+                                                    </y>
+                                                </origin>
+                                                <scale>
+                                                    <x>
+                                                        <init>1.0</init>
+                                                    </x>
+                                                    <y>
+                                                        <init>1.0</init>
+                                                    </y>
+                                                </scale>
+                                                <rotate>
+                                                    <angle>
+                                                        <init>0.0</init>
+                                                    </angle>
+                                                </rotate>
+                                                <orientation clockwise="false"/>
+                                                <file name="indicateur_TTLE_b.ogfx" path="."/>
+                                                <crc value="0"/>
+                                            </properties>
+                                            <children/>
+                                        </referenceContainer>
+                                    </children>
+                                </condContainer>
+                                <text oid="eb3a666b-3dd8-42ed-a262-65e3d8db1c12">
+                                    <pathFromRoot value="1,1,0,0"/>
+                                    <properties name="Code_ECS">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <position>
+                                            <x>
+                                                <init>-13.0</init>
+                                            </x>
+                                            <y>
+                                                <init>-9.0</init>
+                                            </y>
+                                        </position>
+                                        <maxLength>
+                                            <init>255</init>
+                                        </maxLength>
+                                        <textValue type="char">
+                                            <init>[82, 67, 86, 32, 56, 56, 56, 56, 32, 86, 86, 0]</init>
+                                        </textValue>
+                                        <haloing>
+                                            <init>false</init>
+                                        </haloing>
+                                        <haloColor>
+                                            <init>-1</init>
+                                        </haloColor>
+                                        <outlineColor>
+                                            <init>69</init>
+                                        </outlineColor>
+                                        <lineWidth>
+                                            <init>2</init>
+                                        </lineWidth>
+                                        <font>
+                                            <init>6</init>
+                                        </font>
+                                        <horizAlign>
+                                            <init>right</init>
+                                        </horizAlign>
+                                        <vertAlign>
+                                            <init>bottom</init>
+                                        </vertAlign>
+                                    </properties>
+                                </text>
+                                <referenceContainer oid="fb6b71f9-f145-4ddf-9df2-8e6335779349">
+                                    <pathFromRoot value="2,1,0,0"/>
+                                    <properties modular="false" name="cadenas_essai_consignation">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>-14.75</init>
+                                            </x>
+                                            <y>
+                                                <init>15.75</init>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="cadenas_essai_consignation.ogfx" path="."/>
+                                        <crc value="0"/>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                                <referenceContainer oid="f4b4f05d-2acb-4adc-b3bd-41f28a02c8dc">
+                                    <pathFromRoot value="3,1,0,0"/>
+                                    <properties modular="false" name="icone auto-manu">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>-24.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="auto_manu_v2.ogfx" path="."/>
+                                        <crc value="3953435688"/>
+                                        <inputParameters>
+                                            <parameter control="false" name="highlight_visible" oid="2d8cdbe3-0336-461c-a2ee-7b1cdba35d85" type="bool">
+                                                <init>false</init>
+                                            </parameter>
+                                            <parameter control="false" name="index" oid="2f564d30-eb51-4f44-8e13-3b4ed17795a1" representation="index" type="int">
+                                                <init>1</init>
+                                            </parameter>
+                                        </inputParameters>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                                <referenceContainer oid="4d39bb75-82db-408f-900b-b5c6509d8cba">
+                                    <pathFromRoot value="4,1,0,0"/>
+                                    <properties modular="false" name="Dessin defaut">
+                                        <visible>
+                                            <init>false</init>
+                                            <expr>Defaut</expr>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>0.0</init>
+                                            </x>
+                                            <y>
+                                                <init>0.0</init>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="dessin_vanne_defaut.ogfx" path="."/>
+                                        <crc value="2689705133"/>
+                                        <inputParameters>
+                                            <parameter control="false" name="Taille" oid="626ace9d-9194-4eea-9072-9ac0ebf61107" representation="index" type="int">
+                                                <init>1</init>
+                                            </parameter>
+                                            <parameter control="false" name="Orientation" oid="315d13f3-10cb-4774-9f31-ccd2acba9214" representation="index" type="int">
+                                                <init>2</init>
+                                            </parameter>
+                                        </inputParameters>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                                <referenceContainer oid="7bef4c30-c572-4910-bfca-70dfa1687264">
+                                    <pathFromRoot value="5,1,0,0"/>
+                                    <properties modular="false" name="Type vanne">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>0.0</init>
+                                            </x>
+                                            <y>
+                                                <init>0.0</init>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="type commande vanne TOR.ogfx" path="."/>
+                                        <crc value="3169241874"/>
+                                        <inputParameters>
+                                            <parameter control="false" name="Orientation" oid="8757a43c-7805-4f86-85f0-e47c4980415f" representation="index" type="int">
+                                                <init>2</init>
+                                            </parameter>
+                                            <parameter control="false" name="Taille" oid="457351b1-b41a-4a35-bb05-0bb1797968db" representation="index" type="int">
+                                                <init>1</init>
+                                            </parameter>
+                                        </inputParameters>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                                <referenceContainer oid="4aa121ba-f30a-4d3c-a7b6-b7a78e93d665">
+                                    <pathFromRoot value="6,1,0,0"/>
+                                    <properties modular="false" name="Dessin vanne">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>0.0</init>
+                                            </x>
+                                            <y>
+                                                <init>0.0</init>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="dessin_vanne.ogfx" path="."/>
+                                        <crc value="1278775736"/>
+                                        <inputParameters>
+                                            <parameter control="false" name="Position" oid="e6f4b13a-19b7-4652-8ee0-38fffc24ecbb" representation="index" type="int">
+                                                <init>1</init>
+                                            </parameter>
+                                            <parameter control="false" name="Taille" oid="3a6c1ef7-c66d-4718-a261-cad997f24cfd" representation="index" type="int">
+                                                <init>1</init>
+                                            </parameter>
+                                            <parameter control="false" name="Orientation" oid="4976ed97-cfe3-4374-8167-fff1ffd5efe6" representation="index" type="int">
+                                                <init>2</init>
+                                            </parameter>
+                                        </inputParameters>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                            </children>
+                        </container>
+                        <container oid="f619c5ce-c5b9-4c30-b959-5f8eb0fe0c8c">
+                            <pathFromRoot value="2,0,0"/>
+                            <properties name="vanne verticale gauche">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <origin>
+                                    <x>
+                                        <init>0.0</init>
+                                    </x>
+                                    <y>
+                                        <init>0.0</init>
+                                    </y>
+                                </origin>
+                                <priority>
+                                    <init>-1</init>
+                                </priority>
+                                <scale>
+                                    <x>
+                                        <init>1.0</init>
+                                    </x>
+                                    <y>
+                                        <init>1.0</init>
+                                    </y>
+                                </scale>
+                                <rotate>
+                                    <angle>
+                                        <init>0.0</init>
+                                    </angle>
+                                </rotate>
+                                <orientation clockwise="false"/>
+                                <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                                    <init>false</init>
+                                </static>
+                            </properties>
+                            <children>
+                                <condContainer oid="450e3fd1-0ad2-44ea-ac49-944074ee76b6">
+                                    <pathFromRoot value="0,2,0,0"/>
+                                    <properties name="TTLE">
+                                        <visible>
+                                            <init>false</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>-58.0</init>
+                                            </x>
+                                            <y>
+                                                <init>16.0</init>
+                                            </y>
+                                        </origin>
+                                        <priority>
+                                            <init>-1</init>
+                                        </priority>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <index allVisible="false">
+                                            <init>3</init>
+                                        </index>
+                                        <indexes default="3">
+                                            <index value="2"/>
+                                            <index value="3"/>
+                                        </indexes>
+                                    </properties>
+                                    <children>
+                                        <referenceContainer oid="dd7577fc-e7c1-49e0-80ab-58a89a0f15d6">
+                                            <pathFromRoot value="0,0,2,0,0"/>
+                                            <properties modular="false" name="indicateur_TTLE">
+                                                <visible>
+                                                    <init>true</init>
+                                                </visible>
+                                                <origin>
+                                                    <x>
+                                                        <init>57.0</init>
+                                                    </x>
+                                                    <y>
+                                                        <init>1.0</init>
+                                                    </y>
+                                                </origin>
+                                                <scale>
+                                                    <x>
+                                                        <init>1.0</init>
+                                                    </x>
+                                                    <y>
+                                                        <init>1.0</init>
+                                                    </y>
+                                                </scale>
+                                                <rotate>
+                                                    <angle>
+                                                        <init>0.0</init>
+                                                    </angle>
+                                                </rotate>
+                                                <orientation clockwise="false"/>
+                                                <file name="indicateur_TTLE.ogfx" path="."/>
+                                                <crc value="0"/>
+                                            </properties>
+                                            <children/>
+                                        </referenceContainer>
+                                        <referenceContainer oid="6891b8a9-2152-4be4-a406-959fca17087f">
+                                            <pathFromRoot value="1,0,2,0,0"/>
+                                            <properties modular="false" name="indicateur_TTLE_b">
+                                                <visible>
+                                                    <init>true</init>
+                                                </visible>
+                                                <origin>
+                                                    <x>
+                                                        <init>49.0</init>
+                                                    </x>
+                                                    <y>
+                                                        <init>1.0</init>
+                                                    </y>
+                                                </origin>
+                                                <scale>
+                                                    <x>
+                                                        <init>1.0</init>
+                                                    </x>
+                                                    <y>
+                                                        <init>1.0</init>
+                                                    </y>
+                                                </scale>
+                                                <rotate>
+                                                    <angle>
+                                                        <init>0.0</init>
+                                                    </angle>
+                                                </rotate>
+                                                <orientation clockwise="false"/>
+                                                <file name="indicateur_TTLE_b.ogfx" path="."/>
+                                                <crc value="0"/>
+                                            </properties>
+                                            <children/>
+                                        </referenceContainer>
+                                    </children>
+                                </condContainer>
+                                <text oid="baa83c7e-28dc-4412-9f91-a6b697ebc2e8">
+                                    <pathFromRoot value="1,2,0,0"/>
+                                    <properties name="Code_ECS">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <position>
+                                            <x>
+                                                <init>11.0</init>
+                                            </x>
+                                            <y>
+                                                <init>-9.0</init>
+                                            </y>
+                                        </position>
+                                        <maxLength>
+                                            <init>255</init>
+                                        </maxLength>
+                                        <textValue type="char">
+                                            <init>[82, 67, 86, 32, 56, 56, 56, 56, 32, 86, 86, 0]</init>
+                                        </textValue>
+                                        <haloing>
+                                            <init>false</init>
+                                        </haloing>
+                                        <haloColor>
+                                            <init>-1</init>
+                                        </haloColor>
+                                        <outlineColor>
+                                            <init>69</init>
+                                        </outlineColor>
+                                        <lineWidth>
+                                            <init>2</init>
+                                        </lineWidth>
+                                        <font>
+                                            <init>6</init>
+                                        </font>
+                                        <horizAlign>
+                                            <init>left</init>
+                                        </horizAlign>
+                                        <vertAlign>
+                                            <init>bottom</init>
+                                        </vertAlign>
+                                    </properties>
+                                </text>
+                                <referenceContainer oid="5bf29d7a-5fa2-4532-be79-9a826b8b4499">
+                                    <pathFromRoot value="2,2,0,0"/>
+                                    <properties modular="false" name="icone auto-manu">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>12.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="auto_manu_v2.ogfx" path="."/>
+                                        <crc value="3953435688"/>
+                                        <inputParameters>
+                                            <parameter control="false" name="highlight_visible" oid="2d8cdbe3-0336-461c-a2ee-7b1cdba35d85" type="bool">
+                                                <init>false</init>
+                                            </parameter>
+                                            <parameter control="false" name="index" oid="2f564d30-eb51-4f44-8e13-3b4ed17795a1" representation="index" type="int">
+                                                <init>1</init>
+                                            </parameter>
+                                        </inputParameters>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                                <referenceContainer oid="d8dac867-e928-4dca-ac84-8c7d976d8321">
+                                    <pathFromRoot value="3,2,0,0"/>
+                                    <properties modular="false" name="cadenas_essai_consignation">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>4.25</init>
+                                            </x>
+                                            <y>
+                                                <init>16.0</init>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="cadenas_essai_consignation.ogfx" path="."/>
+                                        <crc value="0"/>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                                <referenceContainer oid="b60a207c-ff05-42da-a73d-0eaf06d18706">
+                                    <pathFromRoot value="4,2,0,0"/>
+                                    <properties modular="false" name="Dessin defaut">
+                                        <visible>
+                                            <init>false</init>
+                                            <expr>Defaut</expr>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>0.0</init>
+                                            </x>
+                                            <y>
+                                                <init>0.0</init>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="dessin_vanne_defaut.ogfx" path="."/>
+                                        <crc value="2689705133"/>
+                                        <inputParameters>
+                                            <parameter control="false" name="Taille" oid="626ace9d-9194-4eea-9072-9ac0ebf61107" representation="index" type="int">
+                                                <init>1</init>
+                                            </parameter>
+                                            <parameter control="false" name="Orientation" oid="315d13f3-10cb-4774-9f31-ccd2acba9214" representation="index" type="int">
+                                                <init>2</init>
+                                            </parameter>
+                                        </inputParameters>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                                <referenceContainer oid="157e05a4-9f19-4cf7-9316-7a44c14f8ebe">
+                                    <pathFromRoot value="5,2,0,0"/>
+                                    <properties modular="false" name="Type vanne">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>0.0</init>
+                                            </x>
+                                            <y>
+                                                <init>0.0</init>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="type commande vanne TOR.ogfx" path="."/>
+                                        <crc value="3169241874"/>
+                                        <inputParameters>
+                                            <parameter control="false" name="Orientation" oid="8757a43c-7805-4f86-85f0-e47c4980415f" representation="index" type="int">
+                                                <init>3</init>
+                                            </parameter>
+                                            <parameter control="false" name="Taille" oid="457351b1-b41a-4a35-bb05-0bb1797968db" representation="index" type="int">
+                                                <init>1</init>
+                                            </parameter>
+                                        </inputParameters>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                                <referenceContainer oid="8350300d-2ab0-4b51-b759-94759a712b26">
+                                    <pathFromRoot value="6,2,0,0"/>
+                                    <properties modular="false" name="Dessin vanne">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>0.0</init>
+                                            </x>
+                                            <y>
+                                                <init>0.0</init>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="dessin_vanne.ogfx" path="."/>
+                                        <crc value="1278775736"/>
+                                        <inputParameters>
+                                            <parameter control="false" name="Position" oid="e6f4b13a-19b7-4652-8ee0-38fffc24ecbb" representation="index" type="int">
+                                                <init>1</init>
+                                            </parameter>
+                                            <parameter control="false" name="Taille" oid="3a6c1ef7-c66d-4718-a261-cad997f24cfd" representation="index" type="int">
+                                                <init>1</init>
+                                            </parameter>
+                                            <parameter control="false" name="Orientation" oid="4976ed97-cfe3-4374-8167-fff1ffd5efe6" representation="index" type="int">
+                                                <init>2</init>
+                                            </parameter>
+                                        </inputParameters>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                            </children>
+                        </container>
+                    </children>
+                </condContainer>
+            </children>
+        </container>
+    </children>
+</object>
+
+<!-- crc32 : 3829289245 -->
+

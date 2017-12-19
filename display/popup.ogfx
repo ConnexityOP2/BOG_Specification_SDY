@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?dom version="17.2" ?>
+
+<object>
+    <IDE>
+        <ratio horizontal="1" vertical="1"/>
+        <project path="ConnexITy.etp"/>
+        <preview height="128" width="115">
+            <raw numberOfBytes="423">
+-119,80,78,71,13,10,26,10,0,0,0,13,73,72,68,82,0,0,0,115,0,0,0,-128,8,2,0,0,0,-73,39,-63,6,0,0,1,110,73,68,65,84,120,-38,-19,-42,-79,106,-62,80,0,-122,81,-97,92,33,111,32,100,117,-111,-68,65,64,28,-69,-108,16,74,66,-63,26,-79,29,58,-43,68,10,41,-40,33,-38,14,-19,5,-95,-125,80,28,-116,67,-23,-7,-7,-122,-53,29,15,33,-36,65,103,-41,-39,0,1,-39,-65,41,123,-24,118,-97,-5,87,-99,-83,-87,-21,-51,-17,107,-37,-10,84,-10,-93,107,-65,-10,-49,58,-37,122,-67,58,-82,-86,-86,36,73,-62,97,-71,92,78,38,-109,-29,101,93,-41,100,47,-107,13,75,-45,116,62,-97,79,-89,-45,-39,108,70,-74,79,-39,-16,-75,70,81,52,26,-115,126,110,-56,-10,35,-101,101,89,28,-57,-61,-31,-80,40,10,-78,125,-2,103,-57,-29,113,89,-106,121,-98,7,95,-78,-105,-74,-35,60,53,47,-113,-95,-14,-18,102,113,127,123,60,87,-117,124,-11,-112,-121,-61,91,-37,-112,-67,74,-31,89,70,-106,44,89,-111,37,75,86,100,-55,-110,21,89,-78,100,69,-106,44,89,-111,37,75,86,100,-55,-110,21,89,-78,100,69,-106,44,89,-111,37,75,86,100,-55,-110,21,89,-78,100,-55,-110,37,
+75,-106,44,89,-78,100,-55,-110,37,75,-106,44,89,-78,34,75,-106,-84,-56,-110,37,43,-78,100,-55,-118,44,89,-78,34,75,-106,-84,-56,-110,37,43,-78,100,-55,-118,44,89,-78,34,75,-106,-84,-56,-110,37,-117,-122,44,89,-78,100,-55,-110,37,75,-106,44,89,-78,100,-55,-110,21,89,-78,100,69,-106,44,89,-111,37,75,86,100,-55,-110,21,89,-78,100,69,-106,44,89,-111,37,75,86,100,-55,-110,21,89,-78,-1,81,118,-33,-67,7,92,93,-40,-95,-37,-99,-54,90,-17,35,123,-83,125,3,-37,-77,81,72,-79,1,60,124,0,0,0,0,73,69,78,68,-82,66,96,-126</raw>
+        </preview>
+    </IDE>
+    <symbology>
+        <dimension height="768" width="768"/>
+    </symbology>
+    <declaration>
+        <outputs>
+            <output memory="true" name="Close" oid="6f4c4540-a917-476b-abec-879369f5aa7f" type="bool">
+                <init>false</init>
+            </output>
+        </outputs>
+    </declaration>
+    <children>
+        <container oid="80b42d4a-383a-4ac0-b6e9-84832d28acce">
+            <pathFromRoot value="0"/>
+            <properties name="group">
+                <visible>
+                    <init>true</init>
+                </visible>
+                <origin>
+                    <x>
+                        <init>0.0</init>
+                    </x>
+                    <y>
+                        <init>0.875</init>
+                    </y>
+                </origin>
+                <priority>
+                    <init>-1</init>
+                </priority>
+                <scale>
+                    <x>
+                        <init>1.0</init>
+                    </x>
+                    <y>
+                        <init>1.0</init>
+                    </y>
+                </scale>
+                <rotate>
+                    <angle>
+                        <init>0.0</init>
+                    </angle>
+                </rotate>
+                <orientation clockwise="false"/>
+                <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                    <init>false</init>
+                </static>
+            </properties>
+            <children>
+                <rectangle oid="50d5bcd2-15d7-4082-a737-6045ce5c08b7">
+                    <pathFromRoot value="0,0"/>
+                    <properties name="rectangle">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <firstPoint>
+                            <x>
+                                <init>250.0</init>
+                            </x>
+                            <y>
+                                <init>-1.0</init>
+                            </y>
+                        </firstPoint>
+                        <thirdPoint>
+                            <x>
+                                <init>0.0</init>
+                            </x>
+                            <y>
+                                <init>279.0</init>
+                            </y>
+                        </thirdPoint>
+                        <lineWidth>
+                            <init>2</init>
+                        </lineWidth>
+                        <lineStipple>
+                            <init>0</init>
+                        </lineStipple>
+                        <lineCap>
+                            <init>round</init>
+                        </lineCap>
+                        <haloing>
+                            <init>false</init>
+                        </haloing>
+                        <haloColor>
+                            <init>-1</init>
+                        </haloColor>
+                        <outlineColor>
+                            <init>-1</init>
+                        </outlineColor>
+                        <outlineOpacity>
+                            <init>255</init>
+                        </outlineOpacity>
+                        <fillColor>
+                            <init>22</init>
+                        </fillColor>
+                        <fillOpacity>
+                            <init>255</init>
+                        </fillOpacity>
+                        <polygonSmooth>
+                            <init>false</init>
+                        </polygonSmooth>
+                        <textureControl>
+                            <init>false</init>
+                        </textureControl>
+                        <texture horizAlign="center" horizPattern="1.0" vertAlign="middle" vertPattern="1.0">
+                            <textureId>
+                                <init>-1</init>
+                            </textureId>
+                        </texture>
+                        <modulate>
+                            <init>false</init>
+                        </modulate>
+                        <tessellate>
+                            <init>false</init>
+                        </tessellate>
+                    </properties>
+                </rectangle>
+                <panelContainer oid="d60a54af-02f5-4bf2-b7bc-393acdc86543">
+                    <pathFromRoot value="1,0"/>
+                    <properties name="panel group">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>0.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </origin>
+                        <priority>
+                            <init>-1</init>
+                        </priority>
+                        <width>
+                            <init>250.0</init>
+                        </width>
+                        <height>
+                            <init>243.0</init>
+                        </height>
+                    </properties>
+                    <children>
+                        <hook oid="9dc57c00-5b10-432c-9b0f-62f6c70c01b9">
+                            <pathFromRoot value="0,1,0"/>
+                            <properties name="hook">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <index>
+                                    <init>-1</init>
+                                </index>
+                            </properties>
+                        </hook>
+                    </children>
+                </panelContainer>
+                <referenceContainer oid="3cd0a0ba-5404-4274-b2fb-b37aeb66f6d0">
+                    <pathFromRoot value="2,0"/>
+                    <properties modular="false" name="ButtonClose">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>226.5</init>
+                            </x>
+                            <y>
+                                <init>265.0</init>
+                            </y>
+                        </origin>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <file name="Button.ogfx" path="."/>
+                        <crc value="3387928365"/>
+                        <inputParameters>
+                            <parameter control="false" name="Label" oid="f1b2ae94-54db-4d9c-851f-2a5aaa7eab62" representation="as_string" type="char^255">
+                                <init>[88, 0]</init>
+                            </parameter>
+                            <parameter control="true" name="SizeX" oid="fbfe546f-9093-4acc-b101-dc898b54f455" type="real">
+                                <init>24.0</init>
+                            </parameter>
+                            <parameter control="true" name="SizeY" oid="e4b96575-defe-45d6-a2c6-6afb5c372f17" type="real">
+                                <init>15.0</init>
+                            </parameter>
+                        </inputParameters>
+                        <outputParameters>
+                            <parameter name="Click_Button" oid="87a1ac3e-602e-4a5f-b3bd-bb16f45e31c7" type="bool">
+                                <expr>Close</expr>
+                            </parameter>
+                        </outputParameters>
+                    </properties>
+                    <children/>
+                </referenceContainer>
+            </children>
+        </container>
+    </children>
+</object>
+
+<!-- crc32 : 3053007309 -->
+

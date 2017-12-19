@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?dom version="17.2" ?>
+
+<object>
+    <IDE>
+        <ratio horizontal="1" vertical="1"/>
+        <project path="ConnexITy.etp"/>
+        <preview height="60" width="128">
+            <raw numberOfBytes="2192">
+-119,80,78,71,13,10,26,10,0,0,0,13,73,72,68,82,0,0,0,-128,0,0,0,60,8,2,0,0,0,33,84,37,-110,0,0,8,87,73,68,65,84,120,-38,-19,-101,-5,79,-109,-55,26,-57,-9,-97,-40,-65,97,-29,15,38,-69,63,-20,-82,-101,-51,-18,15,4,54,105,-124,-128,10,68,-36,-80,24,65,17,-123,-128,-127,-126,-47,-126,-128,-43,-54,37,-34,-83,109,105,65,2,-89,85,-84,96,-95,-118,64,-85,34,23,21,108,41,5,-127,-46,114,41,80,4,-127,94,-128,82,96,115,-110,-13,-107,9,-107,-125,-98,-106,-66,-72,-100,-76,-50,-109,73,51,-105,103,-26,-99,-9,-7,-52,60,51,-13,-66,111,-65,89,-91,-14,127,-107,111,-88,9,40,0,10,-128,10,5,64,1,80,-95,0,40,-128,47,34,-117,-117,-117,-10,0,21,-36,-102,31,0,112,56,28,51,1,42,-72,53,10,-128,2,-96,0,2,6,64,83,83,-45,-51,53,-111,72,36,67,67,67,22,-117,-123,36,111,-35,-70,-91,86,-85,-89,-89,-89,27,26,26,-36,10,35,35,35,-92,-42,-44,-44,20,-14,-59,98,-15,-64,-64,0,-110,-81,95,-65,46,41,41,105,111,111,127,-1,-2,-67,-47,104,-124,-26,-93,71,-113,-34,-67,123,55,57,57,89,85,85,85,94,94,62,49,49,1,53,-4,54,54,54,-110,22,-12,
+122,125,69,69,5,-119,67,19,-7,104,-109,36,103,77,-90,-59,-20,-20,-27,-48,80,-41,-127,3,-13,2,1,-118,3,25,64,82,82,-46,-35,-69,119,21,10,69,113,113,113,78,78,14,-52,-73,111,-33,-66,-38,-38,90,24,-18,-56,-111,35,111,-34,-68,-119,-113,-113,-105,-53,-27,15,31,62,44,44,44,-52,-49,-49,39,-75,-102,-101,-101,-49,-99,59,39,-107,74,-49,-97,63,-113,-28,-119,19,39,100,50,89,122,122,58,76,-100,-105,-105,87,89,89,121,-15,-30,69,-16,-125,-23,111,-36,-72,81,90,90,-54,-25,-13,-95,6,30,-57,-114,29,51,-103,76,-120,23,21,21,5,5,5,-95,125,-60,85,42,21,-38,1,108,-46,-8,124,113,-79,51,53,-43,-38,-42,102,83,-85,93,81,81,-114,117,78,1,11,0,3,-97,12,73,-40,17,0,-110,-109,-109,-111,-60,88,62,123,-10,108,75,75,11,0,96,90,32,71,-89,-45,-111,34,8,8,93,-71,114,5,-90,60,122,-12,40,-110,-79,-79,-79,-61,-61,-61,48,-82,-39,108,78,76,76,68,35,66,-95,16,92,11,10,10,48,81,-70,-69,-69,-45,-46,-46,72,-59,-53,-105,47,63,121,-14,4,-111,-29,-57,-113,43,-107,74,30,-113,-121,11,101,100,100,-32,-22,68,97,-82,-69,123,-27,-73,-33,-100,
+-55,-55,11,92,46,-126,43,54,22,-13,96,-58,108,14,100,0,-47,-47,-47,33,33,33,44,22,11,38,-122,-19,118,-19,-38,21,21,21,-75,123,-9,110,120,21,-116,89,0,56,120,-16,96,112,112,112,104,104,104,79,79,15,-87,5,-51,67,-121,14,69,68,68,0,3,-110,39,79,-98,-36,-65,127,63,108,10,125,-127,64,16,30,30,-114,42,-99,-99,-99,-16,111,-56,15,11,11,-85,-87,-87,33,21,91,91,91,49,-10,49,-91,-32,127,70,71,71,57,28,-50,-45,-89,79,-71,92,-18,71,-5,74,-91,-82,-56,72,-121,68,-30,16,10,29,37,37,14,-79,120,-103,-59,-78,-74,-73,7,-8,12,-48,106,-75,108,54,-37,-72,38,24,-26,24,-14,112,26,-16,36,24,-98,100,6,-64,-102,80,-64,48,39,-75,-32,-78,-32,91,96,65,-108,34,25,23,23,55,54,54,70,102,64,66,66,2,-14,-79,60,-64,65,-63,17,-63,-66,-3,-3,-3,41,41,41,110,119,-97,-107,-107,-123,9,49,56,56,-120,-58,-81,95,-65,-98,-101,-101,11,30,31,-19,43,-109,45,114,56,31,28,17,-97,111,83,-87,16,-63,36,-128,59,10,124,23,-124,101,19,-53,-128,-37,5,-63,35,-61,51,116,117,117,-71,93,16,113,59,-92,22,-14,-31,-96,96,-54,-85,87,-81,34,-103,-99,-99,
+125,-26,-52,25,16,-62,12,-128,-23,81,-124,-70,47,95,-66,-124,-1,65,28,-7,112,71,-18,43,-94,-99,-52,-52,76,-78,-28,-10,-11,-11,-63,125,-111,14,108,6,112,-13,-90,-83,-87,41,-16,1,24,12,6,-78,-6,-31,-105,-60,-15,75,-118,-32,-30,97,122,-20,115,48,84,-35,10,-92,8,57,24,-41,26,-115,-122,108,111,48,51,-80,-100,18,59,-94,10,-14,97,89,-24,-96,10,22,0,-48,114,-17,112,-56,36,112,-17,-90,32,64,-66,-79,63,-10,7,15,-106,-9,-18,117,-78,-39,-50,-108,20,-25,-87,83,-120,124,112,65,29,29,-12,28,-80,67,50,59,50,98,87,40,-20,114,-71,59,-40,-22,-21,-79,127,-94,0,-24,65,108,103,1,96,57,53,122,19,44,-68,-1,101,26,-37,115,-25,66,-87,-25,48,111,111,-92,0,-74,36,112,-21,-3,-34,4,-69,-99,-115,85,-26,29,-54,101,103,-95,-25,-80,-32,-88,-90,0,24,2,120,-5,-10,45,5,-80,-45,0,122,123,123,-21,-21,-21,-79,-61,-63,86,93,34,-111,-108,-105,-105,55,54,54,-70,73,120,0,-80,96,47,24,54,93,16,10,-78,-86,-27,28,-37,108,1,5,-64,16,0,54,-111,56,15,-105,-106,-106,-30,40,-37,-47,-47,-15,-30,-59,11,-111,72,-92,82,-87,-68,2,80,-42,-98,
+-29,-15,-78,-18,87,93,-88,-85,-27,-15,111,101,46,58,40,0,70,0,-12,122,125,89,89,25,14,-67,50,-103,-84,-89,-89,7,57,56,18,3,-125,103,0,75,11,-123,-30,18,-114,72,-104,35,-65,127,65,89,119,9,-65,-43,-14,51,20,0,19,0,56,79,-75,-75,-75,-75,-74,-74,-30,88,11,24,117,117,117,-43,-43,-43,45,45,45,30,0,-64,-6,45,47,114,5,-73,57,29,-81,-81,-23,117,55,122,-12,55,117,-38,-21,-46,-54,-45,20,0,19,0,90,-83,86,44,22,-65,122,-11,-118,-84,7,-9,-18,-35,43,40,40,-88,-86,-86,-14,0,-64,58,115,-23,-34,-35,-36,33,-93,96,98,76,-124,48,110,22,14,-101,110,-1,-85,50,-117,2,96,56,3,-98,63,127,14,-65,15,71,116,-25,-50,29,-14,-120,77,-95,80,120,118,65,-17,44,-68,-22,7,-7,70,-61,109,0,24,27,21,106,58,-81,62,-86,59,75,1,48,-33,-122,-22,116,-70,-74,53,-47,-83,9,54,69,94,23,-31,-15,81,94,101,69,-114,72,-108,35,20,100,-53,-17,115,-20,115,60,10,-128,30,-60,40,0,10,96,-21,98,-79,88,-58,-68,-55,-28,-122,-121,-108,16,-85,-75,-57,97,123,-26,57,-40,-84,58,10,-128,62,13,-35,113,0,-28,-35,-120,87,33,47,94,118,76,-104,-11,-54,-49,
+0,-32,6,-32,43,-116,70,-93,-63,96,24,-12,40,80,-128,-102,-39,108,-34,1,12,-37,-23,-107,63,1,64,-89,-73,-78,-106,110,-110,-95,-95,-95,127,-108,1,-84,-113,75,-8,-38,43,-36,8,-23,-107,63,1,-64,66,-38,-49,72,54,-83,-82,-21,30,99,102,-3,-45,-87,-113,2,-59,-47,-47,-39,-127,-127,-39,79,107,64,-7,-77,28,-73,-39,43,127,2,-64,96,-8,19,-39,-8,-46,-36,45,42,-107,45,61,-35,105,48,-52,-71,115,52,-102,-71,63,-1,116,-79,88,-53,17,17,-82,-24,104,87,71,-121,117,-61,-69,-2,57,40,-93,10,-77,13,-82,-121,94,125,-67,0,68,34,-57,119,-33,-3,29,30,-66,-84,86,-37,48,-70,17,-40,108,-25,-31,-61,75,66,-31,-68,80,-24,72,76,92,74,73,113,78,77,125,-56,-121,2,-44,-96,44,18,-51,127,-43,0,-48,-29,47,8,64,34,113,-124,-124,-84,-60,-60,-72,126,-8,97,85,38,-77,-61,-67,96,-128,-25,-27,45,-18,-35,-69,-116,-112,-97,-65,-88,86,91,97,125,20,65,1,106,80,70,-107,79,-37,-39,102,-81,2,1,0,-97,-49,-65,-76,46,74,-91,114,-21,0,-2,-8,99,5,-93,62,41,105,-23,-89,-97,86,79,-99,114,-102,76,-77,-64,112,-19,-38,60,2,34,72,34,19,69,80,-128,26,-108,
+125,2,-96,-47,104,-124,66,97,113,113,113,77,77,77,-128,3,96,-79,88,21,-21,-14,-20,-39,51,95,1,-84,125,52,-75,20,28,-68,2,-65,-33,-39,105,37,0,16,65,18,-103,40,34,58,62,1,-24,-18,-18,102,-77,-39,60,30,79,42,-107,10,4,-126,-78,-78,-78,-66,-66,-66,-128,5,16,25,25,-55,-52,5,-71,1,32,100,100,56,-61,-62,-106,-125,-126,86,-2,-6,-53,-123,-128,8,-110,-56,116,43,-8,4,0,99,31,70,119,79,-123,-60,-60,68,32,9,88,0,123,-10,-20,57,-80,38,73,73,73,-116,1,16,6,-121,15,-69,-66,-3,-10,-33,8,-120,108,-76,-66,-81,0,78,-97,62,-67,-47,25,-58,-58,-58,106,-75,90,58,3,-68,0,-128,-81,-1,-3,-9,-107,-8,-8,37,4,68,-120,-21,103,6,0,-50,-57,-19,-6,123,123,123,19,18,18,116,58,29,5,-32,9,64,92,-100,-21,-5,-17,87,5,-126,121,108,61,17,16,65,18,-103,-52,0,96,41,-54,-52,-52,108,110,110,-122,-11,21,10,5,-105,-53,-3,-12,51,-92,-64,1,-112,-111,-111,-79,29,0,-40,-22,-64,-35,99,-67,109,104,-80,-71,-65,122,70,4,73,100,-94,104,-19,-93,102,-97,119,65,-113,31,63,78,77,77,-115,-119,-119,41,42,42,-62,50,64,-49,1,-97,7,-112,-106,-26,-4,
+-27,23,-116,-12,-91,-82,-82,-71,79,117,-112,-119,34,40,64,-51,87,0,-12,32,-26,29,-64,-113,63,-82,-2,-4,-13,42,-105,-69,96,-79,-52,-2,-17,55,57,-77,80,-128,26,-108,41,-128,47,9,-96,-68,-36,-15,-21,-81,-85,114,-71,-3,115,79,-22,54,63,-95,-125,26,-108,81,-27,-85,6,48,62,62,-50,-20,86,55,125,119,-66,62,-76,103,-12,-6,-71,-83,63,118,-122,-14,-38,95,-101,54,11,26,-33,78,-81,-4,9,-64,-12,-12,-12,-32,-32,-96,-81,-9,-119,42,27,-1,81,-12,79,-68,15,-40,78,-81,-4,-20,-115,-40,-28,-28,-92,-47,104,28,-40,-78,64,121,-46,-85,-117,-39,-74,-32,18,48,40,-77,94,-7,-33,59,97,-116,56,-117,-59,2,119,52,-31,81,-96,0,-75,29,123,45,-52,-72,87,-12,-85,8,-6,85,-60,22,-60,-27,114,57,3,84,112,107,126,0,-128,10,5,64,1,80,-39,-78,-4,7,10,-101,-109,40,-63,-82,114,9,0,0,0,0,73,69,78,68,-82,66,96,-126</raw>
+        </preview>
+    </IDE>
+    <symbology>
+        <dimension height="256" width="256"/>
+    </symbology>
+    <declaration>
+        <inputs>
+            <input name="defaut_visible" oid="c4fd2ebc-ad03-40e7-88be-5f4cb2cb6681" type="bool">
+                <init>false</init>
+            </input>
+            <input name="defaut_vanne" oid="a3bae57a-571e-4d6b-9920-567c095b1e66" type="bool">
+                <init>false</init>
+            </input>
+            <input name="index_bouton_manu" oid="c1f19e28-a629-4b4b-81e1-bd976b78c30c" representation="index" type="int">
+                <init>6</init>
+            </input>
+            <input name="index_bouton_auto" oid="fedb6763-758d-43c2-a86b-379f6c9bf14e" representation="index" type="int">
+                <init>5</init>
+            </input>
+            <input name="ouvrir_click_pressed" oid="71a70c31-1652-418d-90e4-2dcb0321583a" type="bool">
+                <init>false</init>
+            </input>
+            <input name="ourvir_texte" oid="2080c7ab-fe76-49cc-a9b1-b053bfd055e9" representation="as_string" type="char^255">
+                <init>[79, 0]</init>
+            </input>
+            <input name="ouvrir_actif" oid="40502d40-107a-4c85-a021-790ed682dbf9" type="bool">
+                <init>false</init>
+            </input>
+            <input name="ouvrir_ordre" oid="88cf71c7-e3de-4f31-8aa8-6764cb1897e9" type="bool">
+                <init>false</init>
+            </input>
+        </inputs>
+    </declaration>
+    <children>
+        <container oid="d2b8c35b-bb8b-4ffd-a2b2-a0b5595a9111">
+            <pathFromRoot value="0"/>
+            <properties name="boitier commande feedback">
+                <visible>
+                    <init>true</init>
+                </visible>
+                <origin>
+                    <x>
+                        <init>-60.0</init>
+                    </x>
+                    <y>
+                        <init>-40.0</init>
+                    </y>
+                </origin>
+                <priority>
+                    <init>-1</init>
+                </priority>
+                <scale>
+                    <x>
+                        <init>1.0</init>
+                    </x>
+                    <y>
+                        <init>1.0</init>
+                    </y>
+                </scale>
+                <rotate>
+                    <angle>
+                        <init>0.0</init>
+                    </angle>
+                </rotate>
+                <orientation clockwise="false"/>
+                <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                    <init>false</init>
+                </static>
+            </properties>
+            <children>
+                <rectangle oid="db95f30f-ee2a-4a4a-85e1-b869cc4733cc">
+                    <pathFromRoot value="0,0"/>
+                    <properties name="fond">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <firstPoint>
+                            <x>
+                                <init>0.0</init>
+                            </x>
+                            <y>
+                                <init>0.0</init>
+                            </y>
+                        </firstPoint>
+                        <thirdPoint>
+                            <x>
+                                <init>120.0</init>
+                            </x>
+                            <y>
+                                <init>80.0</init>
+                            </y>
+                        </thirdPoint>
+                        <lineWidth>
+                            <init>2</init>
+                        </lineWidth>
+                        <lineStipple>
+                            <init>0</init>
+                        </lineStipple>
+                        <lineCap>
+                            <init>round</init>
+                        </lineCap>
+                        <haloing>
+                            <init>false</init>
+                        </haloing>
+                        <haloColor>
+                            <init>-1</init>
+                        </haloColor>
+                        <outlineColor>
+                            <init>-1</init>
+                        </outlineColor>
+                        <outlineOpacity>
+                            <init>255</init>
+                        </outlineOpacity>
+                        <fillColor>
+                            <init>82</init>
+                        </fillColor>
+                        <fillOpacity>
+                            <init>255</init>
+                        </fillOpacity>
+                        <polygonSmooth>
+                            <init>false</init>
+                        </polygonSmooth>
+                        <textureControl>
+                            <init>false</init>
+                        </textureControl>
+                        <texture horizAlign="center" horizPattern="1.0" vertAlign="middle" vertPattern="1.0">
+                            <textureId>
+                                <init>-1</init>
+                            </textureId>
+                        </texture>
+                        <modulate>
+                            <init>false</init>
+                        </modulate>
+                        <tessellate>
+                            <init>false</init>
+                        </tessellate>
+                    </properties>
+                </rectangle>
+                <text oid="388bea7e-187b-49de-8e4b-ae45077acaa8">
+                    <pathFromRoot value="1,0"/>
+                    <properties name="code ECS">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <position>
+                            <x>
+                                <init>59.5</init>
+                            </x>
+                            <y>
+                                <init>63.75</init>
+                            </y>
+                        </position>
+                        <maxLength>
+                            <init>255</init>
+                        </maxLength>
+                        <textValue type="char">
+                            <init>[82, 82, 82, 32, 56, 56, 56, 56, 32, 86, 86, 0]</init>
+                        </textValue>
+                        <haloing>
+                            <init>false</init>
+                        </haloing>
+                        <haloColor>
+                            <init>-1</init>
+                        </haloColor>
+                        <outlineColor>
+                            <init>0</init>
+                        </outlineColor>
+                        <lineWidth>
+                            <init>2</init>
+                        </lineWidth>
+                        <font>
+                            <init>5</init>
+                        </font>
+                        <horizAlign>
+                            <init>center</init>
+                        </horizAlign>
+                        <vertAlign>
+                            <init>bottom</init>
+                        </vertAlign>
+                    </properties>
+                </text>
+                <referenceContainer oid="3fa8be8f-043e-48ee-aee5-65c435ac76e9">
+                    <pathFromRoot value="2,0"/>
+                    <properties modular="false" name="bouton_fermer">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>19.0</init>
+                            </x>
+                            <y>
+                                <init>19.0</init>
+                            </y>
+                        </origin>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <file name="Bouton_commande_checkback.ogfx" path="."/>
+                        <crc value="3259018258"/>
+                        <inputParameters>
+                            <parameter control="false" name="click_pressed" oid="bbd41ff0-0d62-4e9e-a8f9-a1e9c8bbc4cb" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="false" name="Texte_bouton" oid="bd770e34-5441-4939-93d2-1fba2e2da3f8" representation="as_string" type="char^255">
+                                <init>[70, 0]</init>
+                            </parameter>
+                            <parameter control="false" name="actif" oid="d1d45571-c254-4b1d-be59-f6858ca427d2" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="false" name="ordre_ok" oid="f5093889-dcf6-4c31-88a0-af1e50af2773" type="bool">
+                                <init>false</init>
+                            </parameter>
+                        </inputParameters>
+                    </properties>
+                    <children/>
+                </referenceContainer>
+                <referenceContainer oid="8a719495-45e7-4beb-8b6a-cc21a8ad7c7e">
+                    <pathFromRoot value="3,0"/>
+                    <properties modular="false" name="bouton_ouvrir">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>101.0</init>
+                            </x>
+                            <y>
+                                <init>19.0</init>
+                            </y>
+                        </origin>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <file name="Bouton_commande_checkback.ogfx" path="."/>
+                        <crc value="3259018258"/>
+                        <inputParameters>
+                            <parameter control="false" name="click_pressed" oid="bbd41ff0-0d62-4e9e-a8f9-a1e9c8bbc4cb" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="false" name="Texte_bouton" oid="bd770e34-5441-4939-93d2-1fba2e2da3f8" representation="as_string" type="char^255">
+                                <init>[79, 0]</init>
+                            </parameter>
+                            <parameter control="false" name="actif" oid="d1d45571-c254-4b1d-be59-f6858ca427d2" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="false" name="ordre_ok" oid="f5093889-dcf6-4c31-88a0-af1e50af2773" type="bool">
+                                <init>false</init>
+                            </parameter>
+                        </inputParameters>
+                    </properties>
+                    <children/>
+                </referenceContainer>
+                <rectangle oid="72d121f3-95f2-4342-83d0-cd9fae75bbd7">
+                    <pathFromRoot value="4,0"/>
+                    <properties name="defaut">
+                        <visible>
+                            <init>false</init>
+                            <expr>defaut_visible</expr>
+                        </visible>
+                        <firstPoint>
+                            <x>
+                                <init>0.5</init>
+                            </x>
+                            <y>
+                                <init>-1.0</init>
+                            </y>
+                        </firstPoint>
+                        <thirdPoint>
+                            <x>
+                                <init>120.125</init>
+                            </x>
+                            <y>
+                                <init>81.0</init>
+                            </y>
+                        </thirdPoint>
+                        <lineWidth>
+                            <init>1</init>
+                        </lineWidth>
+                        <lineStipple>
+                            <init>0</init>
+                        </lineStipple>
+                        <lineCap>
+                            <init>round</init>
+                        </lineCap>
+                        <haloing>
+                            <init>false</init>
+                        </haloing>
+                        <haloColor>
+                            <init>-1</init>
+                        </haloColor>
+                        <outlineColor>
+                            <init>2</init>
+                        </outlineColor>
+                        <outlineOpacity>
+                            <init>255</init>
+                        </outlineOpacity>
+                        <fillColor>
+                            <init>-1</init>
+                        </fillColor>
+                        <fillOpacity>
+                            <init>255</init>
+                        </fillOpacity>
+                        <polygonSmooth>
+                            <init>true</init>
+                        </polygonSmooth>
+                        <textureControl>
+                            <init>false</init>
+                        </textureControl>
+                        <texture horizAlign="center" horizPattern="1.0" vertAlign="middle" vertPattern="1.0">
+                            <textureId>
+                                <init>-1</init>
+                            </textureId>
+                        </texture>
+                        <modulate>
+                            <init>false</init>
+                        </modulate>
+                        <tessellate>
+                            <init>false</init>
+                        </tessellate>
+                    </properties>
+                </rectangle>
+                <container oid="3aed1aa1-a7c5-452f-ba18-c6fd2e5dc40a">
+                    <pathFromRoot value="5,0"/>
+                    <properties name="Dessin vanne">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>0.0</init>
+                            </x>
+                            <y>
+                                <init>0.0</init>
+                            </y>
+                        </origin>
+                        <priority>
+                            <init>-1</init>
+                        </priority>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                            <init>false</init>
+                        </static>
+                    </properties>
+                    <children>
+                        <referenceContainer oid="cd286d51-5bac-4a40-a69a-d7ce67ebbd71">
+                            <pathFromRoot value="0,5,0"/>
+                            <properties modular="false" name="dessin_vanne_defaut">
+                                <visible>
+                                    <init>false</init>
+                                </visible>
+                                <origin>
+                                    <x>
+                                        <init>60.0</init>
+                                    </x>
+                                    <y>
+                                        <init>19.0</init>
+                                    </y>
+                                </origin>
+                                <scale>
+                                    <x>
+                                        <init>1.0</init>
+                                    </x>
+                                    <y>
+                                        <init>1.0</init>
+                                    </y>
+                                </scale>
+                                <rotate>
+                                    <angle>
+                                        <init>0.0</init>
+                                    </angle>
+                                </rotate>
+                                <orientation clockwise="false"/>
+                                <file name="dessin_vanne_defaut.ogfx" path="."/>
+                                <crc value="2689705133"/>
+                                <inputParameters>
+                                    <parameter control="false" name="Taille" oid="626ace9d-9194-4eea-9072-9ac0ebf61107" representation="index" type="int">
+                                        <init>1</init>
+                                    </parameter>
+                                    <parameter control="false" name="Orientation" oid="315d13f3-10cb-4774-9f31-ccd2acba9214" representation="index" type="int">
+                                        <init>1</init>
+                                    </parameter>
+                                </inputParameters>
+                            </properties>
+                            <children/>
+                        </referenceContainer>
+                        <referenceContainer oid="12e39bbb-2c28-4c15-b94a-2d691ffed5d8">
+                            <pathFromRoot value="1,5,0"/>
+                            <properties modular="false" name="dessin_vanne">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <origin>
+                                    <x>
+                                        <init>60.0</init>
+                                    </x>
+                                    <y>
+                                        <init>19.0</init>
+                                    </y>
+                                </origin>
+                                <scale>
+                                    <x>
+                                        <init>1.0</init>
+                                    </x>
+                                    <y>
+                                        <init>1.0</init>
+                                    </y>
+                                </scale>
+                                <rotate>
+                                    <angle>
+                                        <init>0.0</init>
+                                    </angle>
+                                </rotate>
+                                <orientation clockwise="false"/>
+                                <file name="dessin_vanne.ogfx" path="."/>
+                                <crc value="1278775736"/>
+                                <inputParameters>
+                                    <parameter control="false" name="Position" oid="e6f4b13a-19b7-4652-8ee0-38fffc24ecbb" representation="index" type="int">
+                                        <init>1</init>
+                                    </parameter>
+                                    <parameter control="false" name="Taille" oid="3a6c1ef7-c66d-4718-a261-cad997f24cfd" representation="index" type="int">
+                                        <init>1</init>
+                                    </parameter>
+                                    <parameter control="false" name="Orientation" oid="4976ed97-cfe3-4374-8167-fff1ffd5efe6" representation="index" type="int">
+                                        <init>1</init>
+                                    </parameter>
+                                </inputParameters>
+                            </properties>
+                            <children/>
+                        </referenceContainer>
+                        <referenceContainer oid="dbd68318-4b16-4e85-a917-7e539b9ad85a">
+                            <pathFromRoot value="2,5,0"/>
+                            <properties modular="false" name="type commande vanne TOR">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <origin>
+                                    <x>
+                                        <init>60.0</init>
+                                    </x>
+                                    <y>
+                                        <init>19.0</init>
+                                    </y>
+                                </origin>
+                                <scale>
+                                    <x>
+                                        <init>1.0</init>
+                                    </x>
+                                    <y>
+                                        <init>1.0</init>
+                                    </y>
+                                </scale>
+                                <rotate>
+                                    <angle>
+                                        <init>0.0</init>
+                                    </angle>
+                                </rotate>
+                                <orientation clockwise="false"/>
+                                <file name="type commande vanne TOR.ogfx" path="."/>
+                                <crc value="3169241874"/>
+                                <inputParameters>
+                                    <parameter control="false" name="Orientation" oid="8757a43c-7805-4f86-85f0-e47c4980415f" representation="index" type="int">
+                                        <init>1</init>
+                                    </parameter>
+                                    <parameter control="false" name="Taille" oid="457351b1-b41a-4a35-bb05-0bb1797968db" representation="index" type="int">
+                                        <init>1</init>
+                                    </parameter>
+                                </inputParameters>
+                            </properties>
+                            <children/>
+                        </referenceContainer>
+                    </children>
+                </container>
+                <referenceContainer oid="05fbaf15-72bf-400e-bfa6-b4a902ecd65d">
+                    <pathFromRoot value="6,0"/>
+                    <properties modular="false" name="cadenas_essai_consignation">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>102.0</init>
+                            </x>
+                            <y>
+                                <init>62.0</init>
+                            </y>
+                        </origin>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <file name="cadenas_essai_consignation.ogfx" path="."/>
+                        <crc value="0"/>
+                    </properties>
+                    <children/>
+                </referenceContainer>
+                <referenceContainer oid="5ab6d6af-ffb6-4cb5-b630-fe9d8de5239d">
+                    <pathFromRoot value="7,0"/>
+                    <properties modular="false" name="commande_auto_manu_2_boutons">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>60.0</init>
+                            </x>
+                            <y>
+                                <init>39.0</init>
+                            </y>
+                        </origin>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <file name="commande_auto_manu_2_boutons.ogfx" path="."/>
+                        <crc value="2481726466"/>
+                        <inputParameters>
+                            <parameter control="false" name="cercle_visible" oid="32c538e6-8632-410c-99ad-105a0623f09a" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="false" name="index_bouton_manu" oid="44f4e3b0-cf1b-462e-bd76-88d8a1fd452a" representation="index" type="int">
+                                <expr>index_bouton_manu</expr>
+                                <init>6</init>
+                            </parameter>
+                            <parameter control="false" name="manu_actif" oid="6d16cecf-7763-436f-998e-e3cb4e8f2b76" type="bool">
+                                <init>true</init>
+                            </parameter>
+                            <parameter control="false" name="auto_actif" oid="32f177f1-f408-4dbb-b626-7be71193326f" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="false" name="index_bouton_auto" oid="362751a8-c7ab-4ca2-a6f0-4dae24d2513d" representation="index" type="int">
+                                <expr>index_bouton_auto</expr>
+                                <init>5</init>
+                            </parameter>
+                            <parameter control="false" name="click_pressed" oid="d6d1f642-0c4b-450a-b4c1-163ab49c107e" type="bool">
+                                <init>false</init>
+                            </parameter>
+                        </inputParameters>
+                    </properties>
+                    <children/>
+                </referenceContainer>
+            </children>
+        </container>
+    </children>
+</object>
+
+<!-- crc32 : 2370049582 -->
+

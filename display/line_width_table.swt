@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?dom version="17.2" ?>
+
+<lineWidthTable name="line_width_table" size="8">
+    <lineWidthDefinition colorWidth="1.0" haloWidth="1.5" index="0" name="LW0" width="1.0"/>
+    <lineWidthDefinition colorWidth="1.5" haloWidth="2.0" index="1" name="LW1" width="1.5"/>
+    <lineWidthDefinition colorWidth="2.5" haloWidth="3.0" index="2" name="LW2" width="2.5"/>
+    <lineWidthDefinition colorWidth="3.5" haloWidth="4.0" index="3" name="LW3" width="3.5"/>
+    <lineWidthDefinition colorWidth="5.5" haloWidth="6.0" index="4" name="LW4" width="5.5"/>
+    <lineWidthDefinition colorWidth="6.5" haloWidth="7.0" index="5" name="LW5" width="6.5"/>
+    <lineWidthDefinition colorWidth="7.5" haloWidth="8.0" index="6" name="LW6" width="7.5"/>
+    <lineWidthDefinition colorWidth="8.5" haloWidth="9.0" index="7" name="LW7" width="8.5"/>
+</lineWidthTable>
+
+<!-- crc32 : 3376345392 -->
+

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?dom version="17.2" ?>
+
+<object>
+    <IDE>
+        <ratio horizontal="1" vertical="1"/>
+        <project path="ConnexITy.etp"/>
+        <preview height="50" width="128">
+            <raw numberOfBytes="389">
+-119,80,78,71,13,10,26,10,0,0,0,13,73,72,68,82,0,0,0,-128,0,0,0,50,8,2,0,0,0,27,94,68,-30,0,0,1,76,73,68,65,84,120,-38,-19,-43,61,-86,-62,64,20,-122,-31,96,-83,-107,-123,-115,-123,-60,78,24,112,3,54,54,54,-106,-82,-64,86,-46,11,22,-18,-64,78,91,-73,32,8,-126,-115,-92,-80,112,1,118,-18,-60,-55,-52,120,36,33,-60,100,-68,-43,-59,11,-41,-9,-29,52,-50,-49,41,-50,-109,-60,-32,78,-2,52,1,35,0,0,0,2,0,0,4,0,0,8,0,0,16,0,0,32,0,0,64,0,0,-128,0,0,0,1,0,0,2,0,0,4,0,0,8,0,0,16,0,0,32,0,0,64,-2,23,-128,-66,92,-52,120,92,45,29,-57,-23,-127,100,-75,-14,30,-56,59,-104,-55,36,-39,108,-68,-51,77,20,121,-18,70,17,0,5,-128,56,-74,74,61,-85,-37,117,65,96,59,-99,-12,-89,62,28,-78,33,46,22,-23,-118,107,54,93,-83,-106,29,86,42,-17,-32,-22,117,51,-101,121,-101,-37,126,-33,53,26,-7,-107,-76,4,12,0,-97,-60,-23,36,0,122,-65,127,119,64,-90,44,-77,-82,-82,-1,12,96,71,35,62,65,0,124,51,-64,96,-96,-81,-41,-105,-70,-35,0,-8,28,-128,-12,44,-107,44,2,-16,-63,55,64,-87,100,-69,45,-106,-34,-19,0,-32,63,0,0,0,126,17,-64,-10,
+122,102,58,45,86,-78,94,103,0,-19,118,121,107,-71,4,-64,7,112,62,-69,86,75,31,-113,111,1,-26,115,27,-122,-98,-57,60,12,-27,98,-87,100,-48,-49,-83,-31,-80,-70,37,-117,0,16,0,0,0,-128,0,0,0,1,0,0,2,-64,23,-26,1,39,-95,90,7,35,-56,-7,-82,0,0,0,0,73,69,78,68,-82,66,96,-126</raw>
+        </preview>
+    </IDE>
+    <symbology>
+        <dimension height="256" width="256"/>
+    </symbology>
+    <declaration/>
+    <children>
+        <container oid="c19ee06d-51c5-4441-8d26-878fbe356673">
+            <pathFromRoot value="0"/>
+            <properties name="group">
+                <visible>
+                    <init>true</init>
+                </visible>
+                <origin>
+                    <x>
+                        <init>0.0</init>
+                    </x>
+                    <y>
+                        <init>0.0</init>
+                    </y>
+                </origin>
+                <priority>
+                    <init>-1</init>
+                </priority>
+                <scale>
+                    <x>
+                        <init>1.0</init>
+                    </x>
+                    <y>
+                        <init>1.0</init>
+                    </y>
+                </scale>
+                <rotate>
+                    <angle>
+                        <init>0.0</init>
+                    </angle>
+                </rotate>
+                <orientation clockwise="false"/>
+                <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                    <init>false</init>
+                </static>
+            </properties>
+            <children>
+                <text oid="8a870885-cd56-4fac-b85a-406183080c48">
+                    <pathFromRoot value="0,0"/>
+                    <properties name="text">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <position>
+                            <x>
+                                <init>0.0</init>
+                            </x>
+                            <y>
+                                <init>0.0</init>
+                            </y>
+                        </position>
+                        <maxLength>
+                            <init>255</init>
+                        </maxLength>
+                        <textValue type="char">
+                            <init>[84, 84, 76, 69, 0]</init>
+                        </textValue>
+                        <haloing>
+                            <init>false</init>
+                        </haloing>
+                        <haloColor>
+                            <init>-1</init>
+                        </haloColor>
+                        <outlineColor>
+                            <init>2</init>
+                        </outlineColor>
+                        <lineWidth>
+                            <init>2</init>
+                        </lineWidth>
+                        <font>
+                            <init>6</init>
+                        </font>
+                        <horizAlign>
+                            <init>center</init>
+                        </horizAlign>
+                        <vertAlign>
+                            <init>bottom</init>
+                        </vertAlign>
+                    </properties>
+                </text>
+            </children>
+        </container>
+    </children>
+</object>
+
+<!-- crc32 : 1250290342 -->
+

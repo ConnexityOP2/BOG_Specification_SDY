@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?dom version="17.2" ?>
+
+<fontTable generateAsBitmap="false" generateHalo="false" name="font_table" size="16">
+    <fontDefinition index="1" path="../fonts/arial20.nfd"/>
+    <fontDefinition index="2" path="../fonts/arial18.nfd"/>
+    <fontDefinition index="3" path="../fonts/arial16.nfd"/>
+    <fontDefinition index="4" path="../fonts/arial14.nfd"/>
+    <fontDefinition index="5" path="../fonts/arial12.nfd"/>
+    <fontDefinition index="6" path="../fonts/arial10.nfd"/>
+    <fontDefinition index="7" path="../fonts/arial8.nfd"/>
+</fontTable>
+
+<!-- crc32 : 3722507373 -->
+

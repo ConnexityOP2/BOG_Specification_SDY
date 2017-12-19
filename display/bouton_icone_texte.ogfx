@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?dom version="17.2" ?>
+
+<object>
+    <IDE>
+        <ratio horizontal="1" vertical="1"/>
+        <project path="ConnexITy.etp"/>
+    </IDE>
+    <symbology>
+        <dimension height="256" width="256"/>
+    </symbology>
+    <declaration>
+        <inputs>
+            <input name="click_pressed" oid="5706baec-c141-40ef-902c-76813c7f5c20" type="bool">
+                <init>false</init>
+            </input>
+            <input name="discordance" oid="4c5a182c-03f2-4265-affa-d56e7c957b02" type="bool">
+                <init>false</init>
+            </input>
+            <input name="SizeX" oid="70a5d833-334a-4152-b1ea-29a70c273150" type="real">
+                <control oid="a6b80315-3aaa-403c-9b30-06669b2368ea" plug="thirdPoint_x"/>
+                <init>0.0</init>
+            </input>
+            <input name="Texte_bouton" oid="f8af1fa5-beb1-426a-9f58-1056d94acb8a" representation="as_string" type="char^255">
+                <init>[0]</init>
+            </input>
+        </inputs>
+        <locals>
+            <local memory="true" name="survol" oid="ffd38727-85ce-425e-830c-c72f893eefd9" type="bool">
+                <init>false</init>
+            </local>
+        </locals>
+    </declaration>
+    <children>
+        <container oid="92a38c55-c5c5-421a-8598-2b2412fc31fd">
+            <pathFromRoot value="0"/>
+            <properties name="group">
+                <visible>
+                    <init>true</init>
+                </visible>
+                <origin>
+                    <x>
+                        <init>0.0</init>
+                    </x>
+                    <y>
+                        <init>0.0</init>
+                    </y>
+                </origin>
+                <priority>
+                    <init>-1</init>
+                </priority>
+                <scale>
+                    <x>
+                        <init>1.0</init>
+                    </x>
+                    <y>
+                        <init>1.0</init>
+                    </y>
+                </scale>
+                <rotate>
+                    <angle>
+                        <init>0.0</init>
+                    </angle>
+                </rotate>
+                <orientation clockwise="false"/>
+                <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                    <init>false</init>
+                </static>
+            </properties>
+            <children/>
+        </container>
+    </children>
+</object>
+
+<!-- crc32 : 2479305011 -->
+

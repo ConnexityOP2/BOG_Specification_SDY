@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?dom version="17.2" ?>
+
+<object>
+    <IDE>
+        <ratio horizontal="1" vertical="1"/>
+        <project path="ConnexITy.etp"/>
+        <preview height="50" width="128">
+            <raw numberOfBytes="1944">
+-119,80,78,71,13,10,26,10,0,0,0,13,73,72,68,82,0,0,0,-128,0,0,0,50,8,2,0,0,0,27,94,68,-30,0,0,7,95,73,68,65,84,120,-38,-19,-102,89,83,19,89,20,-128,-3,15,-13,47,124,-102,-86,-15,97,30,124,-12,113,-90,106,-34,-58,23,-88,-78,10,89,-36,45,10,4,-111,-80,-124,4,8,32,12,-78,5,71,65,-74,-80,22,-120,4,89,20,100,87,89,100,-121,16,118,-48,48,-116,97,39,3,35,85,-50,55,118,77,79,10,49,54,29,36,1,-6,84,87,-86,79,-72,125,-23,123,-66,-77,-35,-18,-100,-6,91,17,-105,-54,41,-59,4,10,0,5,-128,34,10,0,5,-128,34,-82,6,96,-77,-39,-2,84,100,47,-79,90,-83,-121,1,96,115,115,-13,-99,34,123,-55,-62,-62,-62,-31,1,-104,-104,-104,-24,-110,32,51,51,51,-10,-73,-72,-74,98,-80,-83,-89,57,62,-42,86,10,21,0,95,7,96,54,-101,95,74,-112,-23,-23,105,-5,91,-36,88,123,-72,-75,-87,115,124,108,-84,102,43,0,20,0,71,7,64,99,99,99,67,67,67,93,93,93,81,81,81,94,94,-34,-29,-57,-113,-37,-38,-38,-92,0,88,93,-118,53,-115,68,-91,-91,6,-106,-107,-34,89,122,31,43,17,-128,-59,98,-7,-29,32,4,99,29,19,0,21,21,21,-40,61,51,51,-77,-78,-78,-78,-90,
+-90,6,12,57,57,57,-19,-19,-19,-114,1,-4,-75,-95,43,45,81,-23,98,-125,10,-14,-43,-58,-86,-104,-108,123,1,27,-85,-110,0,-48,108,124,60,8,-95,-105,-109,104,86,86,58,63,63,-17,-66,0,112,-7,-124,-124,4,24,60,127,-2,28,21,-45,-105,-108,-108,-120,65,-16,37,0,-21,43,-79,-103,122,85,70,122,40,0,-86,-115,-79,-91,37,-102,-30,-62,96,-23,0,-104,57,42,42,42,58,58,122,96,96,0,-11,-11,-21,-41,26,-115,70,-85,-43,-10,-10,-10,-94,82,-4,5,-75,-89,-89,71,-76,-8,-6,-6,122,110,110,-82,74,-91,-54,-50,-50,94,93,93,5,-64,-48,-48,80,124,124,-68,48,109,89,89,89,85,85,-43,-82,-1,-59,-46,-104,-127,121,70,71,71,-35,23,64,83,83,19,-66,-1,-28,-55,19,114,17,-25,-49,-98,61,-125,68,71,71,-121,3,0,-72,127,125,-83,10,0,-19,109,-119,-35,-99,-65,-11,-9,-34,-21,125,115,47,-21,97,-96,116,0,106,-75,26,-125,46,45,45,-127,1,-107,-49,-75,-75,-75,-27,-27,101,-66,23,84,76,-68,-78,-78,34,-88,-126,112,99,-75,-75,-75,-62,-55,-45,-89,79,1,0,-68,-80,-80,48,97,-38,-4,-4,124,24,-108,-105,-105,63,120,-16,-64,-33,-33,31,-93,-101,76,38,0,112,
+-55,-71,115,-25,-68,-67,-67,89,-108,-101,2,-64,-33,-115,70,-93,112,-50,73,74,74,10,-34,-41,-46,-46,-30,0,-64,-44,-72,-90,-84,84,61,59,-99,57,63,-5,-17,49,55,-109,57,59,-83,-33,23,-128,-16,-16,112,0,-52,-50,-50,-6,-7,-7,9,42,0,-26,-26,-26,124,125,125,81,35,34,34,0,64,-34,-16,-15,-15,17,1,80,-91,-56,-112,59,59,59,-40,-102,60,-71,39,-128,-69,119,-17,70,70,70,78,77,77,37,38,38,50,38,57,57,-7,-59,-117,23,33,33,33,35,35,35,-18,27,1,56,20,5,-64,96,48,-32,62,44,-29,-2,-3,-5,-23,-23,-23,-114,83,16,17,48,54,-86,-87,40,-41,76,79,-22,1,-128,-11,71,-122,82,10,11,-126,-92,3,-64,31,67,67,67,83,83,83,5,19,19,124,-88,-80,-65,120,-15,34,106,115,115,-77,-96,122,121,121,-119,0,8,23,-67,94,-49,-9,36,-82,-30,-30,-30,47,1,-64,-30,-88,69,-97,-28,104,0,64,-16,119,18,40,11,32,2,90,91,91,-7,-4,106,17,-26,24,25,-116,42,52,68,20,26,-44,5,-7,-111,-122,-126,-112,-91,-9,-47,-5,45,-62,52,51,113,113,113,-94,-70,-72,-72,-88,-45,-23,68,-107,-111,-79,-79,-79,-97,-105,95,-14,15,-4,-124,26,0,0,-30,-122,105,-77,-78,-78,72,-92,
+0,-32,-2,-113,30,0,-39,-5,-128,-59,-123,104,-53,-68,-10,-35,-68,118,-59,26,67,88,72,7,-128,-91,-56,-50,-28,107,-118,13,106,82,82,18,42,70,-60,124,-88,24,-114,108,67,-79,-91,38,-95,-110,-114,-72,-118,114,74,4,16,28,68,-122,-43,106,5,0,-87,38,38,38,-122,-54,76,-20,-110,-60,-6,-5,-5,-9,4,0,69,102,38,92,-108,-115,-40,-1,0,-104,22,-121,-91,-7,-31,126,80,103,102,102,80,95,-67,122,-75,-67,-67,-115,74,109,16,-44,-83,-83,45,33,50,24,-49,-97,-96,-59,-9,-44,6,-79,13,-91,-67,33,29,-47,55,-9,-11,-11,-95,-110,57,-87,-67,-100,-68,-7,36,-60,49,3,48,61,44,-31,-25,94,0,112,-97,1,9,-126,45,-20,111,113,-39,90,-69,-70,92,-26,-8,88,-74,-42,57,88,36,105,-57,118,16,66,-113,116,-76,55,98,-118,40,0,20,0,-118,-72,3,0,-38,-72,9,105,-78,-85,32,-69,-83,-68,125,-5,118,114,114,82,-54,-118,24,-58,96,-105,1,-96,-99,-96,-107,-90,-39,120,41,89,104,45,118,-67,-94,113,55,25,27,27,-93,-71,-110,-66,-94,-50,-50,-50,-15,-15,113,23,0,-128,60,-37,-109,125,89,95,100,32,62,92,-84,-81,-81,-65,122,-11,106,67,67,-125,60,63,-51,-53,-53,
+-69,124,-7,114,70,70,-122,-65,-65,63,-25,-5,-70,92,-40,4,-48,-5,7,7,7,-77,-97,120,-12,-24,81,64,64,0,-53,-63,-96,-5,93,81,87,87,23,-77,29,54,0,-6,-53,-18,-18,-18,-105,-78,68,116,-103,-101,55,111,-110,-105,110,-36,-72,33,3,0,25,-64,-53,-53,43,53,53,-107,-99,42,-3,-18,-11,-21,-41,-9,117,57,86,59,127,-2,-68,-80,-13,10,12,12,-12,-13,-13,-61,-97,-46,-46,-46,-28,-83,104,112,112,-48,5,-17,-124,101,-72,-65,32,36,46,-63,10,-41,-82,93,-93,-124,-16,41,3,0,30,96,52,26,-85,-85,-85,-49,-100,57,-61,-124,68,-46,126,103,-72,114,-27,74,124,124,60,-69,45,124,-33,-37,-37,27,47,38,34,-27,-83,8,95,116,1,-128,125,-27,-54,61,1,-80,-59,-9,-11,-11,37,-4,101,0,-96,-106,104,52,-102,-96,-96,-96,-108,-108,20,18,-111,86,-85,-107,1,-128,-20,71,-24,-124,-123,-123,-87,-43,106,-4,-96,-71,-71,89,-34,-118,-120,-89,-61,6,64,3,-32,60,0,-14,79,-113,-85,-123,50,32,-44,36,62,-79,-29,-55,2,-48,-44,-44,-124,-33,69,-3,39,120,-30,-91,75,-105,34,35,35,5,-107,19,92,91,-91,82,-119,3,56,39,89,71,-39,-55,-83,91,-73,40,33,-10,3,-72,68,-100,
+33,34,34,-126,9,-61,-61,-61,-59,1,100,-86,-37,-73,111,-17,-102,65,120,-40,121,18,1,52,54,54,38,39,39,-117,57,1,67,36,36,36,8,29,-123,16,31,36,22,-31,49,-103,32,-44,58,-99,78,103,-97,70,106,106,106,-12,122,-67,-88,-30,-50,73,73,73,98,-89,75,-98,36,-73,12,15,15,-117,3,40,-77,29,29,29,-10,51,-48,5,9,111,28,29,3,104,107,107,75,79,79,63,110,0,-80,69,110,110,-82,104,11,76,64,-125,36,110,109,-80,35,-58,21,7,-117,3,-20,-51,-41,82,91,89,-108,-105,109,63,0,-93,-117,51,-64,18,-85,-47,-38,-37,-9,78,-62,11,0,81,18,19,19,-123,1,-114,1,80,30,124,124,124,-114,27,0,108,-31,120,123,-116,5,29,-1,34,97,-87,-4,-114,-91,-91,-64,-15,-98,-42,126,-77,-6,-71,-120,3,28,0,32,-17,121,122,122,-98,61,123,-10,-62,-123,11,123,-58,-127,123,1,32,-115,112,-93,14,-4,-59,-34,-87,-99,-108,13,-125,-17,114,-45,-17,7,50,-43,73,-116,0,118,18,-71,-50,-119,41,-2,-25,-106,-76,-101,-50,-52,80,92,92,44,-91,8,3,-128,-3,-10,113,3,96,48,24,126,114,78,-116,-66,-89,117,30,63,58,51,-125,-121,-121,7,-73,116,66,-69,32,10,-64,-88,51,50,50,-68,
+-110,-15,-53,-69,74,45,103,-78,-25,48,-103,76,66,89,62,-119,0,-100,-108,-59,-95,-42,15,113,-33,-37,-78,126,-75,-52,77,125,-21,26,-96,0,-8,-20,87,-70,-13,51,-74,28,-49,-113,-95,-33,113,44,53,63,116,45,0,23,60,11,-94,73,-105,-3,52,-44,-66,49,-105,-1,-6,-55,-36,-9,33,-31,-121,-99,-104,-45,28,-101,-7,94,-106,89,103,-125,-128,102,-108,77,-97,-68,21,-79,1,116,-63,11,25,28,89,-98,-77,-20,-38,10,-55,-74,-104,101,106,116,97,-54,-60,97,-103,54,31,72,78,99,-105,39,-29,17,111,103,103,39,-5,59,-41,-68,17,27,28,28,-108,-2,6,-125,-108,-43,-37,-37,43,62,105,112,-49,-105,-111,-44,100,18,-111,68,12,12,-21,-23,-23,49,-101,-51,-62,86,-50,5,-17,-124,97,-128,65,-51,-46,-124,-78,113,64,-66,-1,109,25,-112,93,9,5,41,43,98,-104,-3,15,-97,-108,95,69,-100,-116,95,69,108,111,111,111,42,-78,-105,-40,108,-74,-61,0,-96,-120,75,68,1,-96,0,56,-39,-14,15,46,-59,-57,61,-17,73,-17,-64,0,0,0,0,73,69,78,68,-82,66,96,-126</raw>
+        </preview>
+    </IDE>
+    <symbology>
+        <dimension height="256" width="256"/>
+    </symbology>
+    <declaration>
+        <inputs>
+            <input name="bouton_moins_actif" oid="82c4ae01-dde7-47c0-83c0-948977dbe2a9" type="bool">
+                <init>false</init>
+            </input>
+            <input name="bouton_moins_ordre" oid="63fd6c07-90a3-4ee4-b605-d0e712475e14" type="bool">
+                <init>false</init>
+            </input>
+        </inputs>
+    </declaration>
+    <children>
+        <container oid="0897664d-15db-4e60-8d8d-ed7499afce44">
+            <pathFromRoot value="0"/>
+            <properties name="commande RPC">
+                <visible>
+                    <init>true</init>
+                </visible>
+                <origin>
+                    <x>
+                        <init>0.0</init>
+                    </x>
+                    <y>
+                        <init>0.0</init>
+                    </y>
+                </origin>
+                <priority>
+                    <init>-1</init>
+                </priority>
+                <scale>
+                    <x>
+                        <init>1.0</init>
+                    </x>
+                    <y>
+                        <init>1.0</init>
+                    </y>
+                </scale>
+                <rotate>
+                    <angle>
+                        <init>0.0</init>
+                    </angle>
+                </rotate>
+                <orientation clockwise="false"/>
+                <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                    <init>false</init>
+                </static>
+            </properties>
+            <children>
+                <container oid="b618079e-75f9-4576-82e6-e0894ddfdf87">
+                    <pathFromRoot value="0,0"/>
+                    <properties name="commande_RPC_v1">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>0.0</init>
+                            </x>
+                            <y>
+                                <init>-0.25</init>
+                            </y>
+                        </origin>
+                        <priority>
+                            <init>-1</init>
+                        </priority>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                            <init>false</init>
+                        </static>
+                    </properties>
+                    <children>
+                        <rectangle oid="3123327f-5009-49a6-b8af-f23f812e16b9">
+                            <pathFromRoot value="0,0,0"/>
+                            <properties name="fond_bouton">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <firstPoint>
+                                    <x>
+                                        <init>-75.0</init>
+                                    </x>
+                                    <y>
+                                        <init>-32.0</init>
+                                    </y>
+                                </firstPoint>
+                                <thirdPoint>
+                                    <x>
+                                        <init>75.0</init>
+                                    </x>
+                                    <y>
+                                        <init>32.0</init>
+                                    </y>
+                                </thirdPoint>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>-1</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                                <fillColor>
+                                    <init>89</init>
+                                </fillColor>
+                                <fillOpacity>
+                                    <init>255</init>
+                                </fillOpacity>
+                                <polygonSmooth>
+                                    <init>false</init>
+                                </polygonSmooth>
+                                <textureControl>
+                                    <init>false</init>
+                                </textureControl>
+                                <texture horizAlign="center" horizPattern="1.0" vertAlign="middle" vertPattern="1.0">
+                                    <textureId>
+                                        <init>-1</init>
+                                    </textureId>
+                                </texture>
+                                <modulate>
+                                    <init>false</init>
+                                </modulate>
+                                <tessellate>
+                                    <init>false</init>
+                                </tessellate>
+                            </properties>
+                        </rectangle>
+                        <referenceContainer oid="98b88694-0ffa-45d9-8d46-f49a2049df39">
+                            <pathFromRoot value="1,0,0"/>
+                            <properties modular="false" name="Slider">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <origin>
+                                    <x>
+                                        <init>-0.5</init>
+                                    </x>
+                                    <y>
+                                        <init>-18.5</init>
+                                    </y>
+                                </origin>
+                                <scale>
+                                    <x>
+                                        <init>1.0</init>
+                                    </x>
+                                    <y>
+                                        <init>1.0</init>
+                                    </y>
+                                </scale>
+                                <rotate>
+                                    <angle>
+                                        <init>0.0</init>
+                                    </angle>
+                                </rotate>
+                                <orientation clockwise="false"/>
+                                <file name="Slider.ogfx" path="."/>
+                                <crc value="0"/>
+                            </properties>
+                            <children/>
+                        </referenceContainer>
+                        <referenceContainer oid="715ef1a6-dd4a-49dd-bc60-ce49c5af8b5a">
+                            <pathFromRoot value="2,0,0"/>
+                            <properties modular="false" name="bouton_commande_moins">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <origin>
+                                    <x>
+                                        <init>-56.0</init>
+                                    </x>
+                                    <y>
+                                        <init>-13.0</init>
+                                    </y>
+                                </origin>
+                                <scale>
+                                    <x>
+                                        <init>1.0</init>
+                                    </x>
+                                    <y>
+                                        <init>1.0</init>
+                                    </y>
+                                </scale>
+                                <rotate>
+                                    <angle>
+                                        <init>0.0</init>
+                                    </angle>
+                                </rotate>
+                                <orientation clockwise="false"/>
+                                <file name="Bouton_commande_checkback.ogfx" path="."/>
+                                <crc value="3259018258"/>
+                                <inputParameters>
+                                    <parameter control="false" name="click_pressed" oid="bbd41ff0-0d62-4e9e-a8f9-a1e9c8bbc4cb" type="bool">
+                                        <init>false</init>
+                                    </parameter>
+                                    <parameter control="false" name="Texte_bouton" oid="bd770e34-5441-4939-93d2-1fba2e2da3f8" representation="as_string" type="char^255">
+                                        <init>[45, 0]</init>
+                                    </parameter>
+                                    <parameter control="false" name="actif" oid="d1d45571-c254-4b1d-be59-f6858ca427d2" type="bool">
+                                        <expr>bouton_moins_actif</expr>
+                                        <init>false</init>
+                                    </parameter>
+                                    <parameter control="false" name="ordre_ok" oid="f5093889-dcf6-4c31-88a0-af1e50af2773" type="bool">
+                                        <expr>bouton_moins_ordre</expr>
+                                        <init>false</init>
+                                    </parameter>
+                                </inputParameters>
+                            </properties>
+                            <children/>
+                        </referenceContainer>
+                        <referenceContainer oid="a1ffbb57-34f7-4ccb-8c00-7424e7f58da5">
+                            <pathFromRoot value="3,0,0"/>
+                            <properties modular="false" name="bouton_commande_plus">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <origin>
+                                    <x>
+                                        <init>56.0</init>
+                                    </x>
+                                    <y>
+                                        <init>-13.0</init>
+                                    </y>
+                                </origin>
+                                <scale>
+                                    <x>
+                                        <init>1.0</init>
+                                    </x>
+                                    <y>
+                                        <init>1.0</init>
+                                    </y>
+                                </scale>
+                                <rotate>
+                                    <angle>
+                                        <init>0.0</init>
+                                    </angle>
+                                </rotate>
+                                <orientation clockwise="false"/>
+                                <file name="Bouton_commande_checkback.ogfx" path="."/>
+                                <crc value="3259018258"/>
+                                <inputParameters>
+                                    <parameter control="false" name="click_pressed" oid="bbd41ff0-0d62-4e9e-a8f9-a1e9c8bbc4cb" type="bool">
+                                        <init>false</init>
+                                    </parameter>
+                                    <parameter control="false" name="Texte_bouton" oid="bd770e34-5441-4939-93d2-1fba2e2da3f8" representation="as_string" type="char^255">
+                                        <init>[43, 0]</init>
+                                    </parameter>
+                                    <parameter control="false" name="actif" oid="d1d45571-c254-4b1d-be59-f6858ca427d2" type="bool">
+                                        <init>false</init>
+                                    </parameter>
+                                    <parameter control="false" name="ordre_ok" oid="f5093889-dcf6-4c31-88a0-af1e50af2773" type="bool">
+                                        <init>false</init>
+                                    </parameter>
+                                </inputParameters>
+                            </properties>
+                            <children/>
+                        </referenceContainer>
+                        <referenceContainer oid="95988d26-a5ca-404b-9e9d-3bb87416928a">
+                            <pathFromRoot value="4,0,0"/>
+                            <properties modular="false" name="Chp_Saisie">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <origin>
+                                    <x>
+                                        <init>-8.0</init>
+                                    </x>
+                                    <y>
+                                        <init>9.0</init>
+                                    </y>
+                                </origin>
+                                <scale>
+                                    <x>
+                                        <init>1.0</init>
+                                    </x>
+                                    <y>
+                                        <init>1.0</init>
+                                    </y>
+                                </scale>
+                                <rotate>
+                                    <angle>
+                                        <init>0.0</init>
+                                    </angle>
+                                </rotate>
+                                <orientation clockwise="false"/>
+                                <file name="Chp_Saisie.ogfx" path="."/>
+                                <crc value="881841535"/>
+                                <inputParameters>
+                                    <parameter control="false" name="Valeur" oid="bf2f3ba5-dccc-4de0-b871-7a1821f3d990" type="real">
+                                        <init>999.900024</init>
+                                    </parameter>
+                                    <parameter control="false" name="Unite" oid="ba02e20c-8592-42b4-9c56-d7daa68c6270" representation="as_string" type="char^5">
+                                        <init>[85, 110, 105, 116, 0]</init>
+                                    </parameter>
+                                </inputParameters>
+                            </properties>
+                            <children/>
+                        </referenceContainer>
+                        <referenceContainer oid="621c4cda-f5bf-497c-b87d-1b498337c4b2">
+                            <pathFromRoot value="5,0,0"/>
+                            <properties modular="false" name="commande_auto_manu_2_boutons">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <origin>
+                                    <x>
+                                        <init>-48.0</init>
+                                    </x>
+                                    <y>
+                                        <init>9.0</init>
+                                    </y>
+                                </origin>
+                                <scale>
+                                    <x>
+                                        <init>1.0</init>
+                                    </x>
+                                    <y>
+                                        <init>1.0</init>
+                                    </y>
+                                </scale>
+                                <rotate>
+                                    <angle>
+                                        <init>0.0</init>
+                                    </angle>
+                                </rotate>
+                                <orientation clockwise="false"/>
+                                <file name="commande_auto_manu_2_boutons.ogfx" path="."/>
+                                <crc value="2481726466"/>
+                                <inputParameters>
+                                    <parameter control="false" name="cercle_visible" oid="32c538e6-8632-410c-99ad-105a0623f09a" type="bool">
+                                        <init>false</init>
+                                    </parameter>
+                                    <parameter control="false" name="index_bouton_manu" oid="44f4e3b0-cf1b-462e-bd76-88d8a1fd452a" representation="index" type="int">
+                                        <init>6</init>
+                                    </parameter>
+                                    <parameter control="false" name="manu_actif" oid="6d16cecf-7763-436f-998e-e3cb4e8f2b76" type="bool">
+                                        <init>true</init>
+                                    </parameter>
+                                    <parameter control="false" name="auto_actif" oid="32f177f1-f408-4dbb-b626-7be71193326f" type="bool">
+                                        <init>false</init>
+                                    </parameter>
+                                    <parameter control="false" name="index_bouton_auto" oid="362751a8-c7ab-4ca2-a6f0-4dae24d2513d" representation="index" type="int">
+                                        <init>5</init>
+                                    </parameter>
+                                    <parameter control="false" name="click_pressed" oid="d6d1f642-0c4b-450a-b4c1-163ab49c107e" type="bool">
+                                        <init>false</init>
+                                    </parameter>
+                                </inputParameters>
+                            </properties>
+                            <children/>
+                        </referenceContainer>
+                    </children>
+                </container>
+            </children>
+        </container>
+    </children>
+</object>
+
+<!-- crc32 : 3453068453 -->
+

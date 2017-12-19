@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project id="1" oid_count="308">
+	<props>
+		<Prop id="1" name="@STUDIO:PRODUCT">
+			<value>DISPLAY</value>
+		</Prop>
+		<Prop id="3" name="@SDY:RELEASE">
+			<value>R18</value>
+		</Prop>
+		<Prop id="4" name="@SDY:RATIO">
+			<value>1.0</value>
+			<value>1.0</value>
+		</Prop>
+		<Prop id="5" name="@SDY:DEFAULTCOLORTABLE">
+			<value>color_ConnexITy.sct</value>
+		</Prop>
+		<Prop id="6" name="@SDY:DEFAULTLWTABLE">
+			<value>line_width_table.swt</value>
+		</Prop>
+		<Prop id="7" name="@SDY:DEFAULTLSTABLE">
+			<value>line_stipple_table.sst</value>
+		</Prop>
+		<Prop id="8" name="@SDY:TEXTURETABLE">
+			<value>texture_table.stt</value>
+		</Prop>
+		<Prop id="9" name="@SDY:FONTTABLE">
+			<value>font_table.sft</value>
+		</Prop>
+		<Prop id="18" name="@SDY:FONTLIBRARY">
+			<value>Fonts.dll</value>
+		</Prop>
+		<Prop id="22" name="@SDY:CONFTARGET">
+			<value>codegen</value>
+			<configuration>21</configuration>
+		</Prop>
+		<Prop id="23" name="CONFIGURATIONS">
+			<value>21</value>
+			<value>28</value>
+			<value>35</value>
+			<value>43</value>
+			<value>51</value>
+			<value>58</value>
+			<value>65</value>
+		</Prop>
+		<Prop id="24" name="@SDY:CONFSOURCE">
+			<configuration>21</configuration>
+		</Prop>
+		<Prop id="25" name="@SDY:KCGTEMPLATE">
+			<configuration>21</configuration>
+		</Prop>
+		<Prop id="26" name="@SDY:CONFOUTPUT">
+			<value>%ModelName%_Code</value>
+			<configuration>21</configuration>
+		</Prop>
+		<Prop id="27" name="@SDY:CODEGENERATOR">
+			<value>KCG66</value>
+			<configuration>21</configuration>
+		</Prop>
+		<Prop id="29" name="@SDY:CONFTARGET">
+			<value>Simulation</value>
+			<configuration>28</configuration>
+		</Prop>
+		<Prop id="30" name="@SDY:CONFSOURCE">
+			<configuration>28</configuration>
+		</Prop>
+		<Prop id="31" name="@SDY:KCGTEMPLATE">
+			<configuration>28</configuration>
+		</Prop>
+		<Prop id="32" name="@SDY:CONFOUTPUT">
+			<value>%ModelName%_Simulation</value>
+			<configuration>28</configuration>
+		</Prop>
+		<Prop id="33" name="@SDY:POINTERID">
+			<value>0</value>
+			<configuration>28</configuration>
+		</Prop>
+		<Prop id="34" name="@SDY:KEYBOARDID">
+			<value>0</value>
+			<configuration>28</configuration>
+		</Prop>
+		<Prop id="36" name="@SDY:CONFTARGET">
+			<value>SuiteCosimulation</value>
+			<configuration>35</configuration>
+		</Prop>
+		<Prop id="37" name="@SDY:CONFSOURCE">
+			<configuration>35</configuration>
+		</Prop>
+		<Prop id="38" name="@SDY:KCGTEMPLATE">
+			<configuration>35</configuration>
+		</Prop>
+		<Prop id="39" name="@SDY:APPPERIODICITY">
+			<value>33</value>
+			<configuration>35</configuration>
+		</Prop>
+		<Prop id="40" name="@SDY:INTEGRATIONMODE">
+			<value>synchronous</value>
+			<configuration>35</configuration>
+		</Prop>
+		<Prop id="41" name="@SDY:POINTERID">
+			<value>0</value>
+			<configuration>35</configuration>
+		</Prop>
+		<Prop id="42" name="@SDY:KEYBOARDID">
+			<value>0</value>
+			<configuration>35</configuration>
+		</Prop>
+		<Prop id="44" name="@SDY:CONFTARGET">
+			<value>Windows</value>
+			<configuration>43</configuration>
+		</Prop>
+		<Prop id="45" name="@SDY:CONFSOURCE">
+			<configuration>43</configuration>
+		</Prop>
+		<Prop id="46" name="@SDY:KCGTEMPLATE">
+			<configuration>43</configuration>
+		</Prop>
+		<Prop id="47" name="@SDY:CONFOUTPUT">
+			<value>%ModelName%_Exe</value>
+			<configuration>43</configuration>
+		</Prop>
+		<Prop id="48" name="@SDY:APPPERIODICITY">
+			<value>33</value>
+			<configuration>43</configuration>
+		</Prop>
+		<Prop id="49" name="@SDY:POINTERID">
+			<value>0</value>
+			<configuration>43</configuration>
+		</Prop>
+		<Prop id="50" name="@SDY:KEYBOARDID">
+			<value>0</value>
+			<configuration>43</configuration>
+		</Prop>
+		<Prop id="52" name="@SDY:CONFTARGET">
+			<value>Android</value>
+			<configuration>51</configuration>
+		</Prop>
+		<Prop id="53" name="@SDY:CONFSOURCE">
+			<configuration>51</configuration>
+		</Prop>
+		<Prop id="54" name="@SDY:KCGTEMPLATE">
+			<configuration>51</configuration>
+		</Prop>
+		<Prop id="55" name="@SDY:CONFOUTPUT">
+			<value>%ModelName%_%Target%</value>
+			<configuration>51</configuration>
+		</Prop>
+		<Prop id="56" name="@SDY:APPPERIODICITY">
+			<value>33</value>
+			<configuration>51</configuration>
+		</Prop>
+		<Prop id="57" name="@SDY:APPORIENTATION">
+			<value>Landscape</value>
+			<configuration>51</configuration>
+		</Prop>
+		<Prop id="59" name="@SDY:CONFTARGET">
+			<value>iOS</value>
+			<configuration>58</configuration>
+		</Prop>
+		<Prop id="60" name="@SDY:CONFSOURCE">
+			<configuration>58</configuration>
+		</Prop>
+		<Prop id="61" name="@SDY:KCGTEMPLATE">
+			<configuration>58</configuration>
+		</Prop>
+		<Prop id="62" name="@SDY:CONFOUTPUT">
+			<value>%ModelName%_%Target%</value>
+			<configuration>58</configuration>
+		</Prop>
+		<Prop id="63" name="@SDY:APPPERIODICITY">
+			<value>33</value>
+			<configuration>58</configuration>
+		</Prop>
+		<Prop id="64" name="@SDY:APPORIENTATION">
+			<value>Landscape</value>
+			<configuration>58</configuration>
+		</Prop>
+		<Prop id="66" name="@SDY:CONFTARGET">
+			<value>FMU</value>
+			<configuration>65</configuration>
+		</Prop>
+		<Prop id="67" name="@SDY:CONFSOURCE">
+			<configuration>65</configuration>
+		</Prop>
+		<Prop id="68" name="@SDY:KCGTEMPLATE">
+			<configuration>65</configuration>
+		</Prop>
+		<Prop id="69" name="@SDY:CONFOUTPUT">
+			<value>%ModelName%_%Target%</value>
+			<configuration>65</configuration>
+		</Prop>
+		<Prop id="70" name="@SDY:APPPERIODICITY">
+			<value>33</value>
+			<configuration>65</configuration>
+		</Prop>
+		<Prop id="72" name="REPCONFIGURATIONS">
+			<value>71</value>
+		</Prop>
+		<Prop id="73" name="@SDYREP:CONFSOURCE">
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="74" name="@SDY:@SDYREP:OUTPUT">
+			<value>%ModelName%_Report</value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="75" name="@SDYREP:INTERNATIONALIZATION">
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="76" name="@SDYREP:AUTHORS">
+			<value>&lt;authors></value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="77" name="@SDYREP:CLASSIFICATION">
+			<value>&lt;document classification></value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="78" name="@SDYREP:COMPANYINFO">
+			<value>&lt;company></value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="79" name="@SDYREP:DISTLIST">
+			<value>&lt;distribution list></value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="80" name="@SDYREP:IMAGEPATH">
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="81" name="@SDYREP:LOGOPATH">
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="82" name="@SDYREP:BANNERPATH">
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="83" name="@SDYREP:SUMMARY">
+			<value>&lt;summary></value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="84" name="@SDYREP:DATE">
+			<value>&lt;date></value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="85" name="@SDYREP:DESCRIPTION">
+			<value>&lt;description></value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="86" name="@SDYREP:INDEX">
+			<value>&lt;index></value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="87" name="@SDYREP:ISSUE">
+			<value>&lt;issue number></value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="88" name="@SDYREP:REFERENCE">
+			<value>&lt;reference></value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="89" name="@SDYREP:REFERENCENB">
+			<value>&lt;reference number></value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="90" name="@SDYREP:SUBTITLE">
+			<value>&lt;subtitle></value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="91" name="@SDYREP:TITLE">
+			<value>&lt;title></value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="92" name="@SDYREP:HEADERLEFT">
+			<value>$(ReferenceNr)
+$(CreatedDate)</value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="93" name="@SDYREP:HEADERCENTER">
+			<value>$(IssueNr)</value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="94" name="@SDYREP:HEADERRIGHT">
+			<value>$(PageNumbering)</value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="95" name="@SDYREP:FOOTERLEFT">
+			<value></value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="96" name="@SDYREP:FOOTERCENTER">
+			<value>&lt;Corporate Info></value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="97" name="@SDYREP:FOOTERRIGHT">
+			<value></value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="98" name="@SDYREP:SUBMODELS">
+			<value>false</value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="99" name="@SDYREP:SYMBOLS">
+			<value>false</value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="100" name="@SDYREP:WIDGETSETS">
+			<value>false</value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="101" name="@SDYREP:SCREENSHOTS">
+			<value>true</value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="102" name="@SDYREP:RESOURCES">
+			<value>$(CONFIG)/default</value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="103" name="@SDYREP:FORMAT">
+			<value>HTML</value>
+			<configuration>71</configuration>
+		</Prop>
+		<Prop id="107" name="@SDY:RULES">
+			<value>container:true</value>
+			<value>conditional_container:true</value>
+			<value>layer_depth:true</value>
+			<value>var_consistency:true</value>
+			<value>layer_ratio:true</value>
+			<value>arc_crown:true</value>
+			<value>identical_objects:true</value>
+			<value>bool_expression_rule:true</value>
+			<value>transfos_optim:true</value>
+			<value>intersection:true</value>
+			<value>static_container:true</value>
+			<value>broken_line:true</value>
+			<value>max_number_of_objects:true</value>
+			<value>widgets_naming_pattern:true</value>
+			<value>contour_color:true</value>
+			<value>lines_optim:true</value>
+			<value>shape:true</value>
+			<value>visibility_object:true</value>
+			<value>widgets_naming_unicity:true</value>
+			<value>containers_optim:true</value>
+			<value>transformation_rule:true</value>
+			<value>useless_masks:true</value>
+			<value>moving_surfaces:true</value>
+			<value>math_expression_rule:true</value>
+			<value>rectangle:true</value>
+			<value>mask_object_checking:true</value>
+		</Prop>
+		<Prop id="108" name="@SDY:NAMERULECHECKPATTERN">
+			<value>false</value>
+		</Prop>
+		<Prop id="109" name="@SDY:NAMERULESUFFIXNBLEADINGCHARS">
+			<value>3</value>
+		</Prop>
+		<Prop id="110" name="@SDY:NAMERULEUNICITY">
+			<value>false</value>
+		</Prop>
+		<Prop id="111" name="@SDY:NAMERULEAUTOCORRECT">
+			<value>false</value>
+		</Prop>
+		<Prop id="112" name="@SDY:NAMERULESUFFIXLEADINGCHARS">
+			<value>0</value>
+		</Prop>
+		<Prop id="113" name="@SDY:NAMERULEPREFIXLIST">
+			<value></value>
+		</Prop>
+		<Prop id="114" name="@SDY:NAMERULEPATTERN">
+			<value>&amp;var;(?_:;&amp;shortcut;)</value>
+		</Prop>
+		<Prop id="115" name="@SDY:NAMERULECHARSET">
+			<value>a-zA-Z0-9_</value>
+		</Prop>
+		<Prop id="116" name="@SDY:NAMERULEISCHARSET">
+			<value>true</value>
+		</Prop>
+		<Prop id="117" name="@SDY:NAMERULESUFFIXCHARSET">
+			<value>0-9</value>
+		</Prop>
+		<Prop id="118" name="@SDY:NAMERULEPREFIXASSOCIATIONS"/>
+	</props>
+	<roots>
+		<Folder id="11" extensions="sct;swt;sst;sft;stt" name="Resource Files">
+			<elements>
+				<FileRef id="13" persistAs=".\line_width_table.swt"/>
+				<FileRef id="14" persistAs=".\line_stipple_table.sst"/>
+				<FileRef id="17" persistAs=".\texture_table.stt"/>
+				<FileRef id="106" persistAs="color_ConnexITy.sct"/>
+				<FileRef id="135" persistAs="font_table.sft"/>
+			</elements>
+		</Folder>
+		<Folder id="19" extensions="sgfx;ogfx;pgfx;asfx" name="Model Files">
+			<elements>
+				<FileRef id="104" persistAs="specification.sgfx"/>
+				<FileRef id="121" persistAs="Capteur_Analogique.ogfx">
+					<props>
+						<Prop id="123" name="@SDY:ANIMATIONFILE">
+							<value>Capteur_Analogique.ogfx.asfx</value>
+						</Prop>
+						<Prop id="124" name="@SDY:MODELDEFINITIONS"/>
+						<Prop id="125" name="@SDY:MODELEXTINCLUDES"/>
+						<Prop id="126" name="@SDY:MODELEXTSOURCES"/>
+						<Prop id="127" name="@SDY:MODELEXTLIBRARIES"/>
+						<Prop id="128" name="@SDY:MODELDYNAMICLIBRARY">
+							<value>%ModelName%.dll</value>
+						</Prop>
+						<Prop id="207" name="@SDY:MODELCATEGORY">
+							<value>__old</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="136" persistAs="RPC.ogfx"/>
+				<FileRef id="137" persistAs="popup.ogfx">
+					<props>
+						<Prop id="157" name="@SDY:MODELCATEGORY">
+							<value>__old</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="138" persistAs="Button.ogfx">
+					<props>
+						<Prop id="158" name="@SDY:MODELCATEGORY">
+							<value>__old</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="139" persistAs="Chp_Saisie.ogfx">
+					<props>
+						<Prop id="156" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="140" persistAs="Afficheur_Ana_Numerique.ogfx">
+					<props>
+						<Prop id="154" name="@SDY:MODELCATEGORY"/>
+					</props>
+				</FileRef>
+				<FileRef id="141" persistAs="interieur_popup_rpc.ogfx">
+					<props>
+						<Prop id="145" name="@SDY:ANIMATIONFILE">
+							<value>interieur_popup_rpc.ogfx.asfx</value>
+						</Prop>
+						<Prop id="205" name="@SDY:MODELCATEGORY">
+							<value>__old</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="146" persistAs="reference_object.ogfx">
+					<props>
+						<Prop id="203" name="@SDY:MODELCATEGORY">
+							<value>__old</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="147" persistAs="Capteur_Analogique_B.ogfx">
+					<props>
+						<Prop id="149" name="@SDY:ANIMATIONFILE">
+							<value>Capteur_Analogique_B.ogfx.asfx</value>
+						</Prop>
+						<Prop id="223" name="@SDY:MODELCATEGORY">
+							<value>__old</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="150" persistAs="commande_v1.ogfx">
+					<props>
+						<Prop id="183" name="@SDY:ANIMATIONFILE">
+							<value>commande_v1.ogfx.asfx</value>
+						</Prop>
+						<Prop id="206" name="@SDY:MODELCATEGORY">
+							<value>__old</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="151" persistAs="bouton_commande_rond_checkback.ogfx">
+					<props>
+						<Prop id="155" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="152" persistAs="diode.ogfx">
+					<props>
+						<Prop id="153" name="@SDY:MODELCATEGORY">
+							<value>__old</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="159" persistAs="bouton_radio.ogfx">
+					<props>
+						<Prop id="160" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="161" persistAs="tracage_courbe.ogfx">
+					<props>
+						<Prop id="162" name="@SDY:MODELCATEGORY">
+							<value>__old</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="163" persistAs="bouton_navigation.ogfx">
+					<props>
+						<Prop id="164" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="165" persistAs="cadenas_essai_consignation.ogfx">
+					<props>
+						<Prop id="166" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="167" persistAs="bouton_texte.ogfx">
+					<props>
+						<Prop id="168" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="169" persistAs="bouton_icone.ogfx">
+					<props>
+						<Prop id="171" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="170" persistAs="bouton_icone_texte.ogfx">
+					<props>
+						<Prop id="172" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="173" persistAs="bouton_toggle.ogfx">
+					<props>
+						<Prop id="174" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="179" persistAs="auto_manu_v2.ogfx">
+					<props>
+						<Prop id="180" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="181" persistAs="commande_auto_manu.ogfx">
+					<props>
+						<Prop id="184" name="@SDY:MODELCATEGORY">
+							<value>__old</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="185" persistAs="medaillon_courbe.ogfx"/>
+				<FileRef id="196" persistAs="Vanne_Stan.ogfx">
+					<props>
+						<Prop id="215" name="@SDY:MODELCATEGORY">
+							<value>__old</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="199" persistAs="commande_auto_manu_2_boutons.ogfx">
+					<props>
+						<Prop id="200" name="@SDY:MODELCATEGORY">
+							<value>COMMANDES</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="201" persistAs="commande_RPC.ogfx">
+					<props>
+						<Prop id="285" name="@SDY:MODELCATEGORY">
+							<value>COMMANDES</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="204" persistAs="commande_vanne_TOR.ogfx">
+					<props>
+						<Prop id="221" name="@SDY:ANIMATIONFILE">
+							<value>commande_vanne_TOR.ogfx.asfx</value>
+						</Prop>
+						<Prop id="238" name="@SDY:MODELCATEGORY">
+							<value>COMMANDES</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="213" persistAs="Vanne_Reglante.ogfx">
+					<props>
+						<Prop id="234" name="@SDY:MODELCATEGORY">
+							<value>__old</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="216" persistAs="Pompe.ogfx">
+					<props>
+						<Prop id="275" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="218" persistAs="Bouton_commande_checkback.ogfx">
+					<props>
+						<Prop id="219" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="222" persistAs="commande_Pompe.ogfx">
+					<props>
+						<Prop id="277" name="@SDY:MODELCATEGORY">
+							<value>COMMANDES</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="224" persistAs="echelle_galvanometre.ogfx">
+					<props>
+						<Prop id="231" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="230" persistAs="specification_2.sgfx"/>
+				<FileRef id="232" persistAs="Vanne_Reglante_Big.ogfx">
+					<props>
+						<Prop id="235" name="@SDY:MODELCATEGORY">
+							<value>VANNES</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="233" persistAs="Vanne_Reglante_Mid.ogfx">
+					<props>
+						<Prop id="236" name="@SDY:MODELCATEGORY">
+							<value>VANNES</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="239" persistAs="Vanne_Reglante_Small.ogfx">
+					<props>
+						<Prop id="242" name="@SDY:MODELCATEGORY">
+							<value>VANNES</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="243" persistAs="Vanne_Trois_Voie_Big.ogfx">
+					<props>
+						<Prop id="250" name="@SDY:MODELCATEGORY">
+							<value>VANNES</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="244" persistAs="indicateur_TTLE.ogfx">
+					<props>
+						<Prop id="245" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="246" persistAs="indicateur_TTLE_b.ogfx">
+					<props>
+						<Prop id="247" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="248" persistAs="Vanne_TOR_big.ogfx">
+					<props>
+						<Prop id="249" name="@SDY:MODELCATEGORY">
+							<value>VANNES</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="255" persistAs="type comande vanne mid.ogfx">
+					<props>
+						<Prop id="256" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="259" persistAs="dessin_vanne.ogfx">
+					<props>
+						<Prop id="260" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="261" persistAs="type commande vanne reglante.ogfx">
+					<props>
+						<Prop id="262" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="267" persistAs="dessin_vanne_defaut.ogfx">
+					<props>
+						<Prop id="268" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="269" persistAs="type commande vanne TOR.ogfx">
+					<props>
+						<Prop id="270" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="271" persistAs="Vanne_TOR_Small.ogfx">
+					<props>
+						<Prop id="272" name="@SDY:MODELCATEGORY">
+							<value>VANNES</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="273" persistAs="Vanne_TOR_Mid.ogfx">
+					<props>
+						<Prop id="274" name="@SDY:MODELCATEGORY">
+							<value>VANNES</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="276" persistAs="Commande_vanne_reglante.ogfx">
+					<props>
+						<Prop id="278" name="@SDY:MODELCATEGORY">
+							<value>COMMANDES</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="279" persistAs="dessin_pompe.ogfx">
+					<props>
+						<Prop id="280" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="281" persistAs="Pompe_Big.ogfx">
+					<props>
+						<Prop id="282" name="@SDY:MODELCATEGORY">
+							<value>POMPES</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="283" persistAs="bouton_toggle_icone_texte.ogfx">
+					<props>
+						<Prop id="284" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="286" persistAs="Slider.ogfx">
+					<props>
+						<Prop id="287" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+			</elements>
+		</Folder>
+		<FileRef id="130" persistAs="../suite/Widget.etp"/>
+	</roots>
+	<configurations>
+		<Configuration id="21" name="Code"/>
+		<Configuration id="28" name="Simulation"/>
+		<Configuration id="35" name="Co-simulation"/>
+		<Configuration id="43" name="Windows"/>
+		<Configuration id="51" name="Android"/>
+		<Configuration id="58" name="iOS"/>
+		<Configuration id="65" name="FMU"/>
+		<Configuration id="71" name="Reporter"/>
+	</configurations>
+</Project>
