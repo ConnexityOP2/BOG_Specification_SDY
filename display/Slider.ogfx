@@ -7,18 +7,54 @@
         <ratio horizontal="1" vertical="1"/>
         <project path="ConnexITy.etp"/>
         <preview height="49" width="128">
-            <raw numberOfBytes="1269">
--119,80,78,71,13,10,26,10,0,0,0,13,73,72,68,82,0,0,0,-128,0,0,0,49,8,2,0,0,0,-99,-54,54,76,0,0,4,-68,73,68,65,84,120,-38,-19,-104,-39,75,99,87,28,-57,-3,31,-90,-99,-10,101,-90,20,41,-66,-88,79,-126,66,-11,77,-23,67,-11,65,113,11,10,90,-60,5,81,4,65,112,-117,33,78,98,-60,93,-29,-114,11,-122,26,-75,-88,-8,-30,82,17,117,18,10,9,58,62,-72,69,-87,26,-41,-104,-22,104,98,76,110,98,50,-102,126,-101,-108,118,-58,-101,105,-99,114,111,-68,-87,-25,75,30,110,-50,57,55,-65,123,127,-97,115,126,75,-4,-20,68,-113,42,63,-30,2,2,-128,0,32,34,0,8,0,34,2,-128,0,32,34,0,8,0,34,2,-128,0,32,34,0,8,0,34,2,-128,0,32,34,0,8,0,34,2,-32,73,1,-80,-39,108,90,-83,118,112,112,112,114,114,-14,-14,-14,-110,113,123,20,69,-115,-115,-115,-3,-24,-46,-23,-23,41,12,-115,-116,-116,-100,-97,-97,51,104,2,-81,-96,80,40,14,14,14,12,6,-61,-44,-44,-108,92,46,-33,-39,-39,57,59,59,-101,-104,-104,24,26,26,58,60,60,-60,2,-18,2,-128,47,-22,-22,-22,74,74,74,4,2,-63,-16,-16,48,-29,-10,-32,-102,-94,-94,-94,-14,-14,114,62,-97,-33,-40,-40,8,67,
-101,101,101,-19,-19,-19,12,-102,88,90,90,74,72,72,-104,-99,-99,29,31,31,-81,-88,-88,40,45,45,-83,-83,-83,109,106,106,-126,81,92,-41,-41,-41,3,12,119,1,-20,-19,-19,-59,-60,-60,92,95,95,-85,84,-86,-44,-44,84,-58,-19,-27,-27,-27,73,36,-110,-34,-34,94,-67,94,31,18,18,98,52,26,-79,55,-61,-62,-62,24,52,-79,-80,-80,16,29,29,61,51,51,-109,-99,-99,-67,-72,-72,120,117,117,-107,-108,-108,20,20,20,-76,-70,-70,10,115,81,81,81,58,-99,-114,-69,0,112,90,-15,-120,-72,88,89,89,-119,-113,-113,103,-36,30,92,-113,-51,88,-21,82,64,64,-128,-43,106,5,-20,-32,-32,96,102,-83,-28,-26,-26,2,64,122,122,58,14,28,-66,-58,-58,-58,-6,-5,-5,111,110,110,-30,58,34,34,-30,-28,-28,-124,-45,39,0,-37,-57,108,54,-85,-43,-22,-108,-108,20,-58,-19,33,-12,95,92,92,-32,34,60,60,60,48,48,16,-37,19,65,47,52,52,-108,13,0,89,89,89,56,1,38,-109,41,49,49,17,-74,-42,-42,-42,112,29,25,25,-55,-23,19,-128,-128,32,18,-119,-86,-85,-85,-59,98,113,127,127,63,-29,-10,16,-18,17,-6,91,90,90,-112,105,-2,50,84,83,83,-61,6,0,100,120,-124,-69,-86,-86,
-42,-111,75,-80,-27,-66,102,-93,-72,96,12,0,98,2,118,10,60,-46,-45,-45,115,116,116,100,98,90,8,-3,-99,-99,-99,13,13,13,-88,82,80,110,1,3,-78,-30,-2,-2,62,-77,86,70,71,71,17,-15,-113,-113,-113,101,50,89,115,115,-13,-58,-58,6,42,-82,-127,-127,1,-87,84,-70,-69,-69,-53,-23,42,8,-69,-93,-81,-81,15,-69,82,-14,-95,-80,119,-60,46,73,104,114,-113,99,-63,127,-104,-14,56,-114,77,74,31,119,63,0,-3,-89,62,54,-18,-98,-22,-24,-24,0,6,95,-22,3,16,31,-13,-13,-13,81,-79,-55,62,84,87,87,87,65,65,65,102,102,-90,-116,38,20,54,57,57,57,88,64,-97,66,26,44,44,44,-20,-18,-18,-90,79,-15,120,60,76,97,87,-66,63,-120,-96,7,-45,113,113,113,-12,-11,66,-95,48,57,57,-71,-75,-75,-11,-34,56,28,-99,-111,-111,81,89,89,73,-65,5,96,-16,96,-18,-36,-21,51,0,112,84,-31,2,4,80,122,127,0,103,-95,-128,-95,-1,4,-126,85,91,91,27,-110,7,125,10,-34,65,-17,-29,-50,-70,-9,-124,-14,31,83,55,55,55,-17,15,34,-7,-61,52,72,-45,-41,35,-99,-94,105,64,27,69,-81,-6,17,-60,-108,74,37,-3,22,84,-46,120,23,-115,70,-13,127,0,-128,98,17,-71,97,121,121,
--7,-109,0,-64,5,-40,-128,112,-21,3,1,32,3,33,70,-49,-49,-49,63,28,0,-114,44,24,-48,-57,125,21,0,114,0,-4,-126,38,-64,99,-117,-17,49,125,-51,-51,-51,77,79,79,123,108,47,63,118,11,36,111,21,41,21,-117,-9,0,64,24,1,6,-6,-6,-11,-11,117,84,53,116,-52,88,15,19,-12,-33,-127,-74,-73,-73,-15,46,40,37,124,9,0,94,30,125,-54,39,53,-21,-120,78,-16,-117,71,-81,-3,-125,-12,-115,-33,-67,61,-39,125,-8,122,116,12,120,48,-118,-94,30,126,11,-54,33,-36,-30,-15,-4,-111,127,67,-19,119,-30,-81,-19,6,-99,-3,-55,-117,0,-32,24,0,36,91,-83,87,-12,-18,-43,87,7,-102,55,94,48,100,52,26,61,102,8,46,2,64,54,-37,-38,-38,42,46,46,78,103,95,-26,-78,47,-13,126,-32,-79,109,5,-83,6,106,33,-117,-59,-30,51,0,80,108,-96,-37,-6,-98,125,93,-105,60,-25,-59,68,-79,109,37,45,45,13,45,2,-105,-13,-80,-33,-67,-110,14,101,40,-54,-22,95,-40,-105,67,-8,82,61,63,-55,-74,21,-75,90,-83,-41,-21,57,-11,-25,-49,-65,-28,0,48,-96,-40,-105,117,-29,-25,-69,-54,23,54,-107,-116,-94,44,108,-37,-30,-78,-9,31,-83,10,-70,-107,37,57,5,-49,-17,-92,17,118,
--77,-63,-2,-76,-11,8,0,28,111,-28,-50,42,127,39,-1,-103,83,-16,-59,-69,-41,-51,4,-128,119,117,-87,-69,-107,126,-21,-84,-8,-4,15,0,-4,103,119,-110,111,-20,-65,-3,74,0,120,113,-5,-49,8,-99,-107,47,-36,-34,119,125,62,-69,-3,41,-121,0,-16,-94,-76,42,-121,-78,-51,-15,-70,-59,-95,-8,-13,99,-41,-52,18,0,94,-108,-115,-78,91,76,118,-53,-43,-33,31,-85,-123,0,32,34,0,8,0,34,2,-32,41,-22,119,9,13,-56,-115,118,108,48,104,0,0,0,0,73,69,78,68,-82,66,96,-126</raw>
+            <raw numberOfBytes="1244">
+-119,80,78,71,13,10,26,10,0,0,0,13,73,72,68,82,0,0,0,-128,0,0,0,49,8,2,0,0,0,-99,-54,54,76,0,0,4,-93,73,68,65,84,120,-38,-19,-104,-37,47,-93,105,28,-57,-25,127,-40,-67,-40,-51,92,-70,104,54,-63,-107,9,23,-36,49,-55,38,92,16,-57,112,33,17,-121,-75,-60,68,34,51,74,25,-121,-86,56,-44,-7,24,-121,104,40,-78,-120,-117,113,-120,17,-92,110,8,49,27,-76,-58,110,-43,-7,16,-86,-43,-22,20,117,-24,126,-73,-51,110,102,60,-107,-80,121,95,-38,-11,-5,-90,23,111,-97,-25,121,-5,123,-33,-33,-25,121,126,-121,-66,-80,-112,-98,84,47,-56,5,4,-128,0,-112,8,0,1,32,17,0,2,64,34,0,4,-128,68,0,8,0,-119,0,16,0,18,1,32,0,36,2,64,0,72,4,-32,89,1,56,63,63,95,95,95,-17,-22,-22,26,26,26,-46,-23,116,-100,-37,51,-101,-51,-3,-3,-3,-99,54,-19,-17,-17,-61,80,111,111,-17,-47,-47,17,-121,38,-16,10,10,-123,98,115,115,83,-81,-41,15,15,15,-53,-27,114,-75,90,125,120,120,56,56,56,-40,-35,-35,-67,-75,-75,-123,5,-50,11,0,-66,40,43,43,-53,-52,-52,-52,-51,-51,-19,-23,-23,-31,-36,30,92,-109,-111,-111,-111,-99,-99,45,18,-119,42,42,42,96,40,
+43,43,-85,-66,-66,-98,67,19,115,115,115,97,97,97,99,99,99,3,3,3,57,57,57,66,-95,-80,-76,-76,-76,-78,-78,18,70,113,93,94,94,14,48,-50,11,64,-93,-47,4,5,5,-99,-98,-98,-50,-52,-52,-60,-60,-60,112,110,47,37,37,69,34,-111,-76,-74,-74,30,28,28,120,121,121,-99,-100,-100,96,111,-6,-8,-8,112,104,98,114,114,50,48,48,112,116,116,52,49,49,113,106,106,-54,96,48,68,68,68,120,120,120,44,46,46,-62,92,64,64,-64,-34,-34,-98,-13,2,-64,105,-59,35,-30,98,97,97,33,52,52,-108,115,123,112,61,54,99,-87,77,2,-127,-32,-20,-20,12,-80,61,61,61,-71,-75,-110,-100,-100,12,0,-79,-79,-79,56,112,-8,26,28,28,-20,-26,-26,-90,82,-87,112,-19,-25,-25,-73,-69,-69,-21,-44,39,0,-37,-57,100,50,-51,-50,-50,70,71,71,115,110,15,-95,-1,-8,-8,24,23,-66,-66,-66,-18,-18,-18,-40,-98,8,122,-34,-34,-34,124,0,72,72,72,-64,9,48,26,-115,-31,-31,-31,-80,-75,-76,-76,-124,107,127,127,127,-89,62,1,8,8,-123,-123,-123,-59,-59,-59,98,-79,-72,-67,-67,-99,115,123,8,-9,8,-3,-43,-43,-43,-56,52,-1,26,42,41,41,-31,3,0,50,60,-62,93,81,81,81,-95,77,-80,101,
+-65,-26,-93,-72,-32,12,0,98,2,118,10,60,-46,-46,-46,-78,-67,-67,109,-28,90,8,-3,-115,-115,-115,82,-87,20,85,10,-54,45,96,64,86,-36,-40,-40,-32,-42,74,95,95,31,34,-2,-50,-50,-114,76,38,-85,-86,-86,82,42,-107,-88,-72,58,58,58,106,106,106,-42,-42,-42,-100,-70,10,-62,-18,104,107,107,-61,-82,-108,124,43,-20,29,-79,77,18,70,-10,113,44,-8,15,83,14,-57,-79,73,-39,113,-5,3,-80,63,117,-41,-72,125,-86,-95,-95,1,24,92,-87,15,64,124,76,77,77,69,-59,38,-5,86,77,77,77,105,105,105,-15,-15,-15,50,70,40,108,-110,-110,-110,-80,-128,-99,66,26,76,79,79,111,110,110,102,-89,-94,-94,-94,48,-123,93,-7,-11,32,-126,30,76,-121,-124,-124,-80,-21,-13,-14,-14,34,35,35,107,107,107,111,-115,-61,-47,113,113,113,-7,-7,-7,-20,45,0,-125,7,-77,-25,94,-105,1,-128,-93,10,23,32,-128,-78,-3,1,-100,-123,2,-122,-3,9,4,-85,-70,-70,58,36,15,118,10,-34,65,-17,99,-49,-70,-73,-124,-14,31,83,23,23,23,95,15,34,-7,-61,52,72,-77,-21,-111,78,-47,52,-96,-115,98,-85,126,4,-79,-23,-23,105,-10,22,84,-46,120,-105,-107,-107,-107,-1,3,0,20,-117,
+-56,13,-13,-13,-13,15,2,0,23,96,3,-62,-83,-9,4,-128,12,-124,24,61,49,49,113,127,0,56,-78,96,-64,-114,-69,42,0,-28,0,-8,5,77,-128,-61,22,-33,97,-6,26,31,31,31,25,25,113,-40,94,-34,117,11,36,-105,-53,-79,109,111,1,-128,48,2,12,-20,-6,-27,-27,101,84,53,44,102,-84,-121,9,-10,119,-96,-43,-43,85,-68,11,74,9,87,2,-128,-105,71,-97,-14,-96,102,29,-47,9,126,113,-24,-75,59,-91,-37,-34,-3,60,-81,-43,62,-32,47,32,116,12,120,48,-77,-39,124,-1,91,80,14,-31,22,-121,-25,-17,-71,-1,27,122,-11,81,124,53,36,-76,-100,125,-95,127,67,-97,6,-64,117,103,-12,117,75,-96,-59,124,74,0,8,-128,-109,1,-48,106,-75,-24,78,127,-27,89,-65,-65,-11,-4,-29,-35,79,111,82,126,-31,-37,80,65,65,1,-38,108,87,2,-128,116,42,18,-119,66,121,-42,-20,27,-63,114,-70,91,84,88,8,-33,-122,-48,-21,-87,-43,106,87,2,-128,50,67,-93,-47,40,121,-106,-95,-10,103,-109,-44,87,-75,-8,-119,111,67,-16,62,58,24,-54,1,76,14,104,120,125,35,125,101,49,27,41,7,60,1,-128,75,-11,-12,-115,68,96,125,-1,-29,-91,114,-40,-30,-88,-127,34,0,60,55,1,-65,37,-61,-5,86,
+-47,119,-41,29,-31,-106,-117,115,2,-16,-72,-37,-1,79,-59,77,-119,-69,85,-12,61,0,88,-13,94,94,-86,70,8,-64,-29,110,-1,-50,24,-21,-5,31,-2,-10,-66,-19,115,-45,-8,-102,0,60,-18,9,80,-44,93,125,16,94,125,120,103,-1,92,126,44,34,0,-113,-85,47,6,-117,73,111,49,-23,-2,-7,-24,9,0,-119,0,16,0,18,1,120,-90,-6,11,-5,-68,1,126,-3,62,27,-3,0,0,0,0,73,69,78,68,-82,66,96,-126</raw>
         </preview>
     </IDE>
     <symbology>
         <dimension height="256" width="256"/>
     </symbology>
-    <declaration/>
+    <declaration>
+        <constants>
+            <constant name="min" oid="eeec271c-1999-449c-b7b9-03723819a8d1" type="real">
+                <init>0.0</init>
+            </constant>
+            <constant name="Max" oid="513b7461-5bb9-4af0-abd4-57e872d2b21d" type="real">
+                <init>100.0</init>
+            </constant>
+        </constants>
+        <inputs>
+            <input name="Value_In" oid="d1c57493-6b5a-459d-9f02-8684ff3bfe6e" type="real">
+                <init>0.0</init>
+            </input>
+            <input name="SetValue" oid="f97e81f5-3f9d-41db-99ac-4a82a7ba9114" type="bool">
+                <init>false</init>
+            </input>
+        </inputs>
+        <outputs>
+            <output memory="true" name="Value" oid="46690313-a477-4323-804f-a8b22b158c95" type="real">
+                <init>50.0</init>
+            </output>
+            <output memory="true" name="upValue" oid="87c80f1b-563d-42ce-96fe-22208c03ba3f" type="bool">
+                <init>false</init>
+            </output>
+        </outputs>
+        <locals>
+            <local memory="true" name="Inside" oid="76653f99-e2ae-45f1-bbba-cd36984fa0c7" type="bool">
+                <init>false</init>
+            </local>
+            <local memory="true" name="Width" oid="c329aace-bc47-43ce-9a45-db8d4d7b3f2b" type="real">
+                <init>0.5</init>
+            </local>
+            <local memory="true" name="Released" oid="c9de8e84-9a71-4894-a7d9-a6c4342f60b8" type="bool">
+                <init>false</init>
+            </local>
+        </locals>
+    </declaration>
     <children>
         <container oid="ba8e508d-6ed0-4cab-8277-f0167daf03e8">
             <pathFromRoot value="0"/>
@@ -56,8 +92,63 @@
                 </static>
             </properties>
             <children>
-                <line oid="97ccde65-4a68-4fab-b1e4-58714098266c">
+                <rectangleArea oid="df314d1c-385b-44a5-a6b0-1b8f88c0828f">
                     <pathFromRoot value="0,0"/>
+                    <properties name="rectangle area">
+                        <enable>
+                            <init>true</init>
+                        </enable>
+                        <pointerId>
+                            <init>-1</init>
+                        </pointerId>
+                        <firstPoint>
+                            <x>
+                                <init>-35.0</init>
+                            </x>
+                            <y>
+                                <init>0.25</init>
+                            </y>
+                        </firstPoint>
+                        <thirdPoint>
+                            <x>
+                                <init>35.875</init>
+                            </x>
+                            <y>
+                                <init>11.25</init>
+                            </y>
+                        </thirdPoint>
+                        <output>
+                            <inside>
+                                <expr>Inside</expr>
+                            </inside>
+                            <percentWidth>
+                                <expr>Width</expr>
+                            </percentWidth>
+                        </output>
+                    </properties>
+                </rectangleArea>
+                <pointerEventListener oid="e0adbd35-66a9-47af-9fca-c7adc77e3c36">
+                    <pathFromRoot value="1,0"/>
+                    <properties name="pointer event listener">
+                        <enable>
+                            <init>true</init>
+                        </enable>
+                        <eventId>
+                            <init>0</init>
+                        </eventId>
+                        <relative>
+                            <init>false</init>
+                        </relative>
+                        <output>
+                            <released>
+                                <expr>Released</expr>
+                            </released>
+                            <pointerPosition/>
+                        </output>
+                    </properties>
+                </pointerEventListener>
+                <line oid="97ccde65-4a68-4fab-b1e4-58714098266c">
+                    <pathFromRoot value="2,0"/>
                     <properties name="base line">
                         <visible>
                             <init>true</init>
@@ -103,102 +194,248 @@
                         </outlineOpacity>
                     </properties>
                 </line>
-                <shape oid="3a6fe383-4d63-4ad8-83dc-b79959694983">
-                    <pathFromRoot value="1,0"/>
-                    <properties name="selecteur">
+                <assignment oid="96f7ddb9-710f-4f57-a23a-c6d7e5e29374">
+                    <pathFromRoot value="3,0"/>
+                    <properties name="assignment">
+                        <enable>
+                            <init>true</init>
+                        </enable>
+                        <input>
+                            <init>0.0</init>
+                            <expr>(Released and Inside) ? (Width * (Max - min)) : Value</expr>
+                        </input>
+                        <output>
+                            <expr>Value</expr>
+                        </output>
+                    </properties>
+                </assignment>
+                <assignment oid="5ac927cc-54aa-45b8-a868-d41e349852ce">
+                    <pathFromRoot value="4,0"/>
+                    <properties name="assignment">
+                        <enable>
+                            <init>true</init>
+                        </enable>
+                        <input>
+                            <init>0.0</init>
+                            <expr>SetValue ? Value_In : Value</expr>
+                        </input>
+                        <output>
+                            <expr>Value</expr>
+                        </output>
+                    </properties>
+                </assignment>
+                <assignment oid="aef55bbd-3a20-49fc-84f8-d14251650332">
+                    <pathFromRoot value="5,0"/>
+                    <properties name="assignment">
+                        <enable>
+                            <init>true</init>
+                        </enable>
+                        <input>
+                            <init>false</init>
+                            <expr>Released and Inside</expr>
+                        </input>
+                        <output>
+                            <expr>upValue</expr>
+                        </output>
+                    </properties>
+                </assignment>
+                <translationContainer oid="8b72b0de-d505-441e-b5fb-a3504e5effc3">
+                    <pathFromRoot value="6,0"/>
+                    <properties name="translate group">
                         <visible>
                             <init>true</init>
                         </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>0.525003</init>
-                                </x>
-                                <y>
-                                    <init>6.025002</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>0.525003</init>
-                                </x>
-                                <y>
-                                    <init>-0.974998</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-2.274998</init>
-                                </x>
-                                <y>
-                                    <init>-5.874997</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>3.325003</init>
-                                </x>
-                                <y>
-                                    <init>-5.874997</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>0.525003</init>
-                                </x>
-                                <y>
-                                    <init>-0.974998</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>0</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>75</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>9</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                        <fillColor>
-                            <init>9</init>
-                        </fillColor>
-                        <fillOpacity>
-                            <init>255</init>
-                        </fillOpacity>
-                        <polygonSmooth>
-                            <init>false</init>
-                        </polygonSmooth>
-                        <textureControl>
-                            <init>false</init>
-                        </textureControl>
-                        <texture horizAlign="center" horizPattern="1.0" vertAlign="middle" vertPattern="1.0">
-                            <textureId>
-                                <init>-1</init>
-                            </textureId>
-                        </texture>
-                        <modulate>
-                            <init>false</init>
-                        </modulate>
-                        <tessellate>
+                        <origin>
+                            <x>
+                                <init>0.0</init>
+                            </x>
+                            <y>
+                                <init>0.0</init>
+                            </y>
+                        </origin>
+                        <priority>
+                            <init>-1</init>
+                        </priority>
+                        <refPoint>
+                            <x>
+                                <init>0.0</init>
+                            </x>
+                            <y>
+                                <init>-0.0</init>
+                            </y>
+                        </refPoint>
+                        <startTranslationPoint>
+                            <x>
+                                <init>-35.0</init>
+                            </x>
+                            <y>
+                                <init>0.0</init>
+                            </y>
+                        </startTranslationPoint>
+                        <endTranslationPoint>
+                            <x>
+                                <init>35.0</init>
+                            </x>
+                            <y>
+                                <init>0.0</init>
+                            </y>
+                        </endTranslationPoint>
+                        <startTranslationValue>
+                            <init>0.0</init>
+                            <expr>min</expr>
+                        </startTranslationValue>
+                        <endTranslationValue>
+                            <init>1.0</init>
+                            <expr>Max</expr>
+                        </endTranslationValue>
+                        <startTranslationLocked>
                             <init>true</init>
-                        </tessellate>
+                        </startTranslationLocked>
+                        <endTranslationLocked>
+                            <init>true</init>
+                        </endTranslationLocked>
+                        <functionalTranslationValue>
+                            <init>0.0</init>
+                            <expr>Value</expr>
+                        </functionalTranslationValue>
                     </properties>
-                </shape>
+                    <children>
+                        <container oid="5c82f034-583b-4553-b0ad-171122baa9ae">
+                            <pathFromRoot value="0,6,0"/>
+                            <properties name="group">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <origin>
+                                    <x>
+                                        <init>0.0</init>
+                                    </x>
+                                    <y>
+                                        <init>0.0</init>
+                                    </y>
+                                </origin>
+                                <priority>
+                                    <init>-1</init>
+                                </priority>
+                                <scale>
+                                    <x>
+                                        <init>1.0</init>
+                                    </x>
+                                    <y>
+                                        <init>1.0</init>
+                                    </y>
+                                </scale>
+                                <rotate>
+                                    <angle>
+                                        <init>0.0</init>
+                                    </angle>
+                                </rotate>
+                                <orientation clockwise="false"/>
+                                <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                                    <init>false</init>
+                                </static>
+                            </properties>
+                            <children>
+                                <shape oid="3a6fe383-4d63-4ad8-83dc-b79959694983">
+                                    <pathFromRoot value="0,0,6,0"/>
+                                    <properties name="selecteur">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <points>
+                                            <point>
+                                                <x>
+                                                    <init>0.0</init>
+                                                </x>
+                                                <y>
+                                                    <init>5.0</init>
+                                                </y>
+                                            </point>
+                                            <point>
+                                                <x>
+                                                    <init>0.0</init>
+                                                </x>
+                                                <y>
+                                                    <init>-1.0</init>
+                                                </y>
+                                            </point>
+                                            <point>
+                                                <x>
+                                                    <init>-2.5</init>
+                                                </x>
+                                                <y>
+                                                    <init>-6.0</init>
+                                                </y>
+                                            </point>
+                                            <point>
+                                                <x>
+                                                    <init>2.5</init>
+                                                </x>
+                                                <y>
+                                                    <init>-6.0</init>
+                                                </y>
+                                            </point>
+                                            <point>
+                                                <x>
+                                                    <init>0.0</init>
+                                                </x>
+                                                <y>
+                                                    <init>-1.0</init>
+                                                </y>
+                                            </point>
+                                        </points>
+                                        <lineWidth>
+                                            <init>0</init>
+                                        </lineWidth>
+                                        <lineStipple>
+                                            <init>0</init>
+                                        </lineStipple>
+                                        <lineCap>
+                                            <init>round</init>
+                                        </lineCap>
+                                        <haloing>
+                                            <init>false</init>
+                                        </haloing>
+                                        <haloColor>
+                                            <init>75</init>
+                                        </haloColor>
+                                        <outlineColor>
+                                            <init>9</init>
+                                        </outlineColor>
+                                        <outlineOpacity>
+                                            <init>255</init>
+                                        </outlineOpacity>
+                                        <fillColor>
+                                            <init>9</init>
+                                        </fillColor>
+                                        <fillOpacity>
+                                            <init>255</init>
+                                        </fillOpacity>
+                                        <polygonSmooth>
+                                            <init>false</init>
+                                        </polygonSmooth>
+                                        <textureControl>
+                                            <init>false</init>
+                                        </textureControl>
+                                        <texture horizAlign="center" horizPattern="1.0" vertAlign="middle" vertPattern="1.0">
+                                            <textureId>
+                                                <init>-1</init>
+                                            </textureId>
+                                        </texture>
+                                        <modulate>
+                                            <init>false</init>
+                                        </modulate>
+                                        <tessellate>
+                                            <init>true</init>
+                                        </tessellate>
+                                    </properties>
+                                </shape>
+                            </children>
+                        </container>
+                    </children>
+                </translationContainer>
                 <line oid="e24f9493-ba4a-4613-991a-54b58ed10a11">
-                    <pathFromRoot value="2,0"/>
+                    <pathFromRoot value="7,0"/>
                     <properties name="base line haute">
                         <visible>
                             <init>true</init>
@@ -245,7 +482,7 @@
                     </properties>
                 </line>
                 <line oid="cbf42ac1-08a3-4958-b37b-f24d09a17276">
-                    <pathFromRoot value="3,0"/>
+                    <pathFromRoot value="8,0"/>
                     <properties name="tick long">
                         <visible>
                             <init>true</init>
@@ -292,7 +529,7 @@
                     </properties>
                 </line>
                 <line oid="d30f431f-1432-4b99-8efa-a508dff12287">
-                    <pathFromRoot value="4,0"/>
+                    <pathFromRoot value="9,0"/>
                     <properties name="tick long">
                         <visible>
                             <init>true</init>
@@ -339,7 +576,7 @@
                     </properties>
                 </line>
                 <line oid="10991b8b-ff5a-4935-93a0-dd6ba45af6f5">
-                    <pathFromRoot value="5,0"/>
+                    <pathFromRoot value="10,0"/>
                     <properties name="tick long">
                         <visible>
                             <init>true</init>
@@ -386,7 +623,7 @@
                     </properties>
                 </line>
                 <line oid="c7342c32-1b41-4229-b063-341b673f6253">
-                    <pathFromRoot value="6,0"/>
+                    <pathFromRoot value="11,0"/>
                     <properties name="tick long">
                         <visible>
                             <init>true</init>
@@ -433,7 +670,7 @@
                     </properties>
                 </line>
                 <line oid="e5bd4e16-d43b-4bcd-89e1-ce47baaec9ef">
-                    <pathFromRoot value="7,0"/>
+                    <pathFromRoot value="12,0"/>
                     <properties name="tick long">
                         <visible>
                             <init>true</init>
@@ -480,7 +717,7 @@
                     </properties>
                 </line>
                 <line oid="f71d5c5c-8156-4f54-be65-11e9384a9d7e">
-                    <pathFromRoot value="8,0"/>
+                    <pathFromRoot value="13,0"/>
                     <properties name="tick court">
                         <visible>
                             <init>true</init>
@@ -527,7 +764,7 @@
                     </properties>
                 </line>
                 <line oid="8bbad3bf-ef9e-491a-86f8-84f84ec4d0f7">
-                    <pathFromRoot value="9,0"/>
+                    <pathFromRoot value="14,0"/>
                     <properties name="tick court">
                         <visible>
                             <init>true</init>
@@ -574,7 +811,7 @@
                     </properties>
                 </line>
                 <line oid="ba2234a4-8165-429b-9f36-da05d9c50301">
-                    <pathFromRoot value="10,0"/>
+                    <pathFromRoot value="15,0"/>
                     <properties name="tick court">
                         <visible>
                             <init>true</init>
@@ -621,7 +858,7 @@
                     </properties>
                 </line>
                 <line oid="7c1755b4-3ca2-4608-8e0c-bcc4db4a6fe6">
-                    <pathFromRoot value="11,0"/>
+                    <pathFromRoot value="16,0"/>
                     <properties name="tick court">
                         <visible>
                             <init>true</init>
@@ -668,7 +905,7 @@
                     </properties>
                 </line>
                 <biFont oid="bdc3cb39-458f-4f29-9a12-04ceb84e4ce8">
-                    <pathFromRoot value="12,0"/>
+                    <pathFromRoot value="17,0"/>
                     <properties name="bi-font">
                         <visible>
                             <init>true</init>
@@ -683,6 +920,7 @@
                         </position>
                         <value>
                             <init>0.0</init>
+                            <expr>min</expr>
                         </value>
                         <format separator="46">
                             <integralPart>
@@ -731,7 +969,7 @@
                     </properties>
                 </biFont>
                 <biFont oid="74a2eac4-55ae-407e-b188-57a2ee23feaa">
-                    <pathFromRoot value="13,0"/>
+                    <pathFromRoot value="18,0"/>
                     <properties name="bi-font">
                         <visible>
                             <init>true</init>
@@ -746,6 +984,7 @@
                         </position>
                         <value>
                             <init>50.0</init>
+                            <expr>(Max - min) / 2.0</expr>
                         </value>
                         <format separator="46">
                             <integralPart>
@@ -794,7 +1033,7 @@
                     </properties>
                 </biFont>
                 <biFont oid="6999d7db-7848-490e-8918-c5aab76aa663">
-                    <pathFromRoot value="14,0"/>
+                    <pathFromRoot value="19,0"/>
                     <properties name="bi-font">
                         <visible>
                             <init>true</init>
@@ -809,6 +1048,7 @@
                         </position>
                         <value>
                             <init>100.0</init>
+                            <expr>Max</expr>
                         </value>
                         <format separator="46">
                             <integralPart>
@@ -861,5 +1101,5 @@
     </children>
 </object>
 
-<!-- crc32 : 3862084335 -->
+<!-- crc32 : 2881058799 -->
 

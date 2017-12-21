@@ -10,7 +10,8 @@
     <fontDefinition index="5" path="../fonts/arial12.nfd"/>
     <fontDefinition index="6" path="../fonts/arial10.nfd"/>
     <fontDefinition index="7" path="../fonts/arial8.nfd"/>
+    <fontDefinition index="8" path="../fonts/stan_symbol_10px.nfd"/>
 </fontTable>
 
-<!-- crc32 : 3722507373 -->
+<!-- crc32 : 2021114481 -->
 

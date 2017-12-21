@@ -7,13 +7,13 @@
         <ratio horizontal="1" vertical="1"/>
         <project path="ConnexITy.etp"/>
         <preview height="44" width="128">
-            <raw numberOfBytes="1563">
--119,80,78,71,13,10,26,10,0,0,0,13,73,72,68,82,0,0,0,-128,0,0,0,44,8,2,0,0,0,34,-126,39,9,0,0,5,-30,73,68,65,84,120,-38,-19,-102,91,79,83,75,20,-57,-3,30,-6,65,-12,3,-120,62,41,-119,-47,-128,70,-63,-53,3,-119,-63,-122,16,-59,4,-115,22,2,-58,43,68,12,1,-84,5,42,96,65,90,-112,-94,-27,-90,-92,45,-112,86,-108,-42,114,41,106,75,-83,82,40,-9,114,-85,101,-49,108,-16,-65,-69,-95,32,-27,28,-115,-62,57,60,-84,127,38,-51,-52,-20,-75,-26,97,-3,102,-42,-52,-98,-18,61,2,-23,127,-43,30,10,1,1,32,0,36,2,64,0,72,4,-128,0,-112,8,0,1,32,17,0,2,64,34,0,49,-102,-98,-98,-42,-23,116,-123,-123,-123,62,-97,47,51,51,51,61,61,-3,-7,-13,-25,38,-109,73,-95,80,100,100,100,-12,-10,-10,58,-99,-50,-92,-92,36,-12,104,-75,90,-105,-53,69,0,-74,89,-33,-66,125,107,108,108,-68,123,-9,110,87,87,87,109,109,109,48,24,84,42,-107,-39,-39,-39,51,51,51,-35,-35,-35,85,85,85,70,-93,49,62,62,62,43,43,-21,-2,-3,-5,-93,-93,-93,4,96,-5,53,50,50,2,0,22,-117,-59,96,48,-96,121,45,34,84,6,6,6,74,75,75,65,2,75,4,-47,7,-122,-108,-108,20,2,-80,
-83,0,-112,94,114,115,115,53,26,77,113,113,113,117,117,-75,74,-91,122,-8,-16,-95,-39,108,-122,-127,-41,-21,85,-85,-43,73,17,17,-128,63,-47,-28,-28,-28,-48,-48,16,-26,-14,-106,79,23,22,22,-36,110,-9,-30,-30,-94,-35,110,71,-82,71,-98,-63,-58,-128,-118,-51,102,-101,-97,-97,-121,-63,-44,-44,-108,-33,-17,-9,120,60,-97,63,127,-114,117,103,78,39,43,42,-30,15,30,8,118,-69,16,10,17,-128,-97,-76,-76,-76,-124,-23,-100,-109,-109,19,23,23,-121,95,-60,-6,-105,46,-77,-77,-126,-61,-63,-84,86,-10,27,-74,-126,48,52,-60,83,82,-40,-117,23,-84,-67,-99,-89,-91,49,-67,-98,0,-4,-92,55,111,-34,-108,-108,-108,96,95,77,75,75,75,77,77,69,-110,25,27,27,-61,89,70,-83,102,-63,-32,102,-29,112,88,64,36,47,94,-28,-73,110,-15,-36,92,126,-31,2,-81,-87,97,-24,-36,36,56,-62,93,58,16,-51,-49,-13,107,-41,-8,-93,71,-52,98,-111,-118,70,-61,-109,-109,-123,-71,57,2,-80,62,-3,43,43,43,43,42,42,-14,-14,-14,-64,-32,-26,-51,-101,72,-27,-17,-33,-65,-41,-21,-39,-2,-3,-30,-27,-53,-36,-19,-122,-51,-70,-3,-8,-72,112,-14,-92,104,54,51,-81,
-87,42,-99,-99,-20,-40,49,-47,-25,-37,56,-96,0,23,56,-62,29,-125,8,30,15,79,76,68,-2,97,-59,-59,-14,47,63,125,90,-24,-23,33,0,-85,122,-3,-6,-11,-19,-37,-73,7,7,7,-105,-105,-105,87,86,86,68,81,-60,-87,6,0,48,-51,79,-100,16,-49,-98,-27,-121,14,-119,109,109,44,-54,-64,104,100,7,15,-118,55,110,-16,104,65,-77,-95,-127,69,-93,15,99,-72,-64,17,-18,24,-124,-71,-35,92,-87,-108,22,-114,-57,-125,20,4,27,94,80,-128,-28,69,0,86,-123,108,115,-17,-34,61,28,114,86,-42,84,86,86,22,5,-128,-28,113,-27,10,63,122,84,-68,126,-99,-53,-25,-5,-23,105,65,-95,-32,-47,-77,62,42,104,-94,83,-82,-61,12,-58,112,-127,-29,38,0,-52,-31,-32,79,-97,18,-128,45,-124,19,-28,-99,59,119,-64,32,16,8,-32,36,35,-17,1,81,0,40,87,-81,-14,-124,4,-15,-36,57,-47,110,103,56,-62,60,126,44,109,-88,-78,47,42,104,-94,19,-113,96,0,51,24,-53,94,-21,0,-80,3,35,25,105,-75,-84,-68,-100,-43,-43,113,-123,66,-80,-39,8,-64,79,-62,33,-14,86,68,72,71,-14,41,104,35,0,-71,-92,-90,74,-39,6,-103,60,16,16,-46,-45,57,54,3,20,84,-48,68,39,30,-63,96,-93,-67,12,
-0,-5,45,107,105,-31,58,93,-76,72,-89,-96,-40,-51,-99,-34,3,54,41,22,-128,-100,-114,18,18,36,18,74,37,-81,-88,96,40,-88,-96,-119,78,57,-19,108,1,-128,94,-60,-74,17,0,74,102,38,78,49,-46,82,56,124,88,42,-88,-96,-119,-50,88,75,2,-80,35,0,-28,114,-23,18,-33,-69,119,121,-33,-66,101,84,-2,-55,-122,0,-20,-44,10,72,78,-26,-57,-113,75,-63,69,65,5,77,90,1,-1,17,0,-100,112,18,19,-91,-73,-33,15,31,86,35,-117,10,-102,-24,-116,30,126,8,-64,78,1,64,-74,65,-58,47,40,-32,-79,-58,-24,-60,-93,77,-23,-120,0,108,27,0,-52,-18,83,-89,-60,51,103,68,-85,-107,109,121,-107,-119,78,60,-126,1,-52,54,-67,7,16,-128,-65,5,-128,-128,30,57,34,93,10,-7,-3,-65,112,-127,1,-52,96,44,51,32,0,-37,0,-32,-4,121,30,23,39,54,53,-79,-115,-9,113,-1,122,-75,39,-64,24,46,112,36,0,127,37,-67,-98,29,56,32,42,20,-68,-65,95,-8,-51,-24,71,25,-64,5,-114,112,-105,110,67,9,-64,-97,-87,-81,79,40,44,92,-67,101,-5,3,-63,17,-18,24,-124,0,-112,118,61,-128,-4,-4,124,-107,74,85,85,85,53,51,51,51,49,49,81,93,93,-83,-43,106,3,-127,-64,-85,87,-81,-126,
--111,91,-77,-50,-50,78,-81,-41,43,68,-2,59,43,45,45,109,108,108,28,30,30,-42,-23,116,-27,-27,-27,86,-85,-11,-29,-57,-113,-88,-64,-27,-53,-105,47,109,109,109,48,120,-7,-14,-27,92,-28,63,-81,-2,-2,126,-121,-61,-127,10,-122,-83,-83,-83,-59,-45,-17,-33,-65,-121,66,-95,-26,-26,-26,-32,46,-72,-113,-37,45,0,74,74,74,22,22,22,0,64,14,-21,-40,-40,-104,55,34,-109,-55,-12,-23,-45,-89,-91,-91,-91,103,-49,-98,-55,-1,-68,-85,-43,-22,-15,-15,-15,-102,-102,26,32,-87,-85,-85,67,29,-31,-122,-117,-57,-29,113,58,-99,77,77,77,79,-98,60,65,39,96,-56,95,7,1,3,-116,49,66,119,68,122,-67,126,118,118,118,114,114,-78,-66,-66,30,36,8,-64,-86,-78,-78,-78,-118,-118,-118,52,26,-51,-30,-30,34,66,-116,95,-16,-104,-102,-102,-6,-6,-11,-85,-47,104,124,-5,-10,109,71,71,-121,108,-119,88,99,-83,32,-54,0,-93,-118,-88,-95,-95,-31,-35,-69,119,-59,17,-127,1,-62,45,27,76,-81,-19,30,-96,56,56,56,8,-124,88,82,3,3,3,22,-117,-91,-75,-75,-75,-73,-73,-105,82,-48,-70,16,50,68,-36,96,48,96,-18,119,117,117,33,-96,72,50,46,-105,43,28,14,99,
-46,3,9,-26,-84,108,-119,56,34,-54,88,43,-80,-63,44,70,122,-87,-84,-84,108,105,105,65,19,-127,110,111,111,-57,35,24,-96,19,67,-55,46,88,73,-16,66,-2,-63,104,-104,-11,24,13,-117,38,-76,59,-66,76,-39,45,0,48,49,-15,-117,-4,-125,76,-115,24,33,-83,35,-78,-31,-56,-105,14,62,-97,-49,110,-73,-121,-41,-66,122,-64,-102,48,-101,-51,-80,7,-80,-66,-66,62,-44,-3,126,63,-78,10,50,-110,-51,102,67,-62,-127,61,58,101,120,-78,11,44,123,122,122,70,70,70,-28,-90,43,34,-38,-124,73,4,-128,0,-112,126,0,119,-38,127,-77,-35,-16,-110,9,0,0,0,0,73,69,78,68,-82,66,96,-126</raw>
+            <raw numberOfBytes="1526">
+-119,80,78,71,13,10,26,10,0,0,0,13,73,72,68,82,0,0,0,-128,0,0,0,44,8,2,0,0,0,34,-126,39,9,0,0,5,-67,73,68,65,84,120,-38,-19,-102,91,79,19,91,24,-122,-3,31,-6,67,-12,7,120,-72,82,18,-93,1,-115,-126,-121,11,18,-93,-115,33,-118,9,24,82,72,-16,-62,104,-116,24,2,88,74,-88,90,-53,-95,45,-108,67,-95,16,26,90,32,-83,24,90,-54,-95,-88,-83,-75,64,17,91,-127,2,5,-53,-84,53,102,-65,51,3,5,10,123,111,-126,-80,55,23,-33,-101,-107,102,-83,53,-17,55,23,-33,51,-21,-101,53,-45,57,38,-112,-2,87,29,-93,20,16,0,2,64,34,0,4,-128,68,0,8,0,-119,0,16,0,18,1,32,0,36,2,-80,67,-13,-13,-13,70,-93,-79,-68,-68,60,28,14,23,20,20,-28,-27,-27,53,52,52,-12,-10,-10,-86,84,-86,-4,-4,-4,-111,-111,17,-97,-49,-105,-99,-99,-115,25,-125,-63,-32,-9,-5,9,-64,1,107,106,106,-86,-75,-75,-11,-23,-45,-89,3,3,3,-115,-115,-115,-15,120,92,-83,86,-105,-108,-108,44,44,44,12,14,14,-22,-11,122,-85,-43,-102,-111,-111,81,92,92,-4,-20,-39,-77,-17,-33,-65,19,-128,-125,-41,-52,-52,12,0,56,-99,-50,-106,-106,22,12,11,101,-95,51,62,62,94,83,83,3,18,
+88,34,-56,62,48,-28,-26,-26,18,-128,-61,2,-128,-14,82,90,90,-86,-45,-23,42,43,43,-21,-22,-22,52,26,-51,-53,-105,47,29,14,7,12,-95,80,72,-85,-43,102,-53,34,0,-5,-47,-30,-30,34,-86,-57,-14,-14,-14,-82,71,19,-119,68,32,16,88,89,89,-15,120,60,-88,-11,112,-30,-58,-128,-114,-37,-19,86,66,-26,-26,-26,34,-111,72,48,24,-4,-14,-27,-53,-50,112,-26,-13,-79,-118,10,-2,-4,-71,-32,-15,8,-85,-85,4,32,93,-88,45,40,-18,69,69,69,-88,36,123,-93,37,120,-67,-52,-27,98,-119,-60,30,-36,95,-65,-14,-36,92,-42,-36,-52,-20,118,126,-1,62,51,-103,8,-64,54,13,15,15,-37,108,54,-36,75,81,82,-86,-86,-86,-52,102,51,110,-77,-40,-53,104,-75,44,30,79,55,39,-109,2,50,121,-25,14,127,-14,-124,-105,-106,-14,-37,-73,121,125,61,-61,100,-102,16,-120,112,105,67,-76,-68,-52,11,11,-7,-85,87,-52,-23,-108,-102,78,-57,115,114,-124,-91,37,2,-80,-19,-14,-73,-37,-19,-56,-69,94,86,87,87,23,-54,-120,-55,-60,78,-98,20,31,60,-32,-127,-128,-80,-74,-74,105,-114,70,-123,43,87,68,-121,-125,-123,66,82,-21,-17,103,23,47,-118,-31,-16,-90,1,102,-124,
+32,16,-31,56,-119,16,12,-14,-84,44,-44,31,86,89,-87,-4,-14,107,-41,-124,-95,33,2,-80,46,108,-31,81,118,-62,91,82,-88,0,-64,101,126,-7,-78,120,-29,6,63,123,86,-20,-18,102,41,6,86,43,59,125,90,44,42,-30,-87,-122,-95,-59,-62,82,-39,-121,25,33,8,68,56,78,-62,2,1,-82,86,75,11,39,24,68,9,-126,-121,-105,-107,-95,120,17,-128,117,45,45,45,89,44,-106,88,44,-74,43,0,20,-113,-121,15,-7,-123,11,-30,-29,-57,92,-39,-33,-49,-49,11,42,21,79,-19,-11,-47,-63,16,-109,74,31,54,-104,17,-126,-64,52,0,-52,-21,-27,111,-34,16,-128,93,-124,13,76,115,115,115,76,86,52,26,109,106,106,-62,-114,40,5,0,-19,-47,35,-98,-103,41,-34,-68,41,122,60,12,91,-104,-41,-81,-91,27,-86,18,-117,14,-122,-104,-60,33,24,96,-125,89,-119,-38,4,-128,59,48,-118,-111,-63,-64,106,107,-103,-39,-52,85,42,-63,-19,38,0,-37,-124,-3,101,-125,-84,-44,46,104,43,0,-91,-35,-67,43,85,27,84,-14,-39,89,33,47,-113,-29,102,-128,-122,14,-122,-104,-60,33,24,-74,-6,21,0,88,98,-52,102,-29,70,99,-86,73,-69,-96,-99,55,119,122,14,72,-45,78,0,74,57,-54,-52,-108,72,
+-88,-43,-4,-19,91,-122,-122,14,-122,-104,84,-54,-50,46,0,-24,65,-20,0,1,-96,21,20,96,23,35,45,-123,115,-25,-92,-122,14,-122,-104,-36,-23,36,0,-121,2,64,105,-9,-18,-15,-29,-57,127,-97,56,-15,27,-99,-65,-13,16,-128,-61,90,1,57,57,-4,-46,37,41,-71,104,-24,96,72,43,-32,63,2,-128,29,78,86,-106,-12,-12,59,60,-52,54,-98,-94,25,-122,-104,76,109,126,8,-64,97,1,64,-75,65,-59,47,43,-29,59,-51,-104,-60,-95,-76,114,68,0,14,12,0,-82,-18,-85,87,-59,-21,-41,69,-105,-117,-19,-6,42,19,-109,56,4,3,108,105,-49,1,4,-32,79,1,32,-95,-25,-49,75,47,-123,34,-111,127,9,-127,1,54,-104,21,6,4,-32,0,0,-36,-70,-59,-49,-100,17,59,58,-40,-42,-9,113,-1,32,-40,96,70,8,2,9,-64,31,-55,100,98,-89,78,-119,42,21,31,27,19,-10,-104,-3,20,3,-124,32,16,-31,-46,-37,80,2,-80,63,-115,-114,10,-27,-27,-21,111,-39,-10,33,4,34,28,39,33,0,-92,35,15,-32,-59,-117,23,26,-115,70,-81,-41,47,44,44,-60,98,-79,-70,-70,58,-125,-63,48,59,59,-37,-34,-34,30,-105,-33,-102,-11,-9,-9,-121,66,33,116,122,122,122,106,106,106,90,91,91,-89,-89,-89,-115,70,
+99,109,109,-83,-53,-27,-6,-12,-23,19,58,8,-7,-10,-19,91,119,119,55,12,109,109,109,75,-14,127,94,99,99,99,94,-81,23,29,-100,-74,-79,-79,17,71,127,-3,-6,-75,-70,-70,-38,-39,-39,25,63,2,-17,-29,-114,10,-128,-86,-86,-86,68,34,1,0,74,90,127,-4,-8,17,-110,-43,-37,-37,-5,-7,-13,-25,-75,-75,-75,-9,-17,-33,43,-1,-68,107,-75,-38,104,52,90,95,95,15,36,102,-77,25,125,-92,27,33,-63,96,-48,-25,-13,117,116,116,84,87,87,99,18,48,-108,-81,-125,-128,1,102,-100,97,80,-106,-55,100,90,92,92,-4,-7,-13,103,83,83,19,72,16,-128,117,21,23,23,87,84,84,-24,116,-70,-107,-107,21,-92,24,-65,-32,49,55,55,55,57,57,105,-75,90,63,124,-8,-48,-41,-41,-89,56,-111,107,-84,21,100,25,96,52,-78,44,22,-53,-57,-113,31,43,101,-127,1,-46,-83,24,-26,55,-18,30,-96,56,49,49,1,-124,88,82,-29,-29,-29,78,-89,-77,-85,-85,107,100,100,-124,74,-48,-90,-112,50,100,-68,-91,-91,5,-41,-2,-64,-64,0,18,-118,34,-29,-9,-5,-109,-55,36,-82,101,32,-63,53,-85,56,-111,71,100,25,107,5,30,92,-59,40,47,-17,-34,-67,-77,-39,108,24,34,-47,118,-69,29,-121,96,-64,
+36,78,-91,-124,96,37,33,10,-11,7,103,-61,85,-113,-77,97,-47,-84,30,-115,47,83,-114,10,0,92,-104,-8,69,-3,65,-91,70,-114,80,-42,-111,-39,-92,-4,-91,67,56,28,-10,120,60,-55,-115,-81,30,-80,38,28,14,7,-4,0,54,58,58,-118,126,36,18,65,85,65,69,114,-69,-35,40,56,-16,99,82,-127,-89,-124,-64,57,52,52,52,51,51,-93,12,-3,-78,-24,38,76,34,0,4,-128,-12,23,-89,-84,-117,-56,-39,-102,-91,-50,0,0,0,0,73,69,78,68,-82,66,96,-126</raw>
         </preview>
     </IDE>
     <symbology>
@@ -22,12 +22,17 @@
     <declaration>
         <inputs>
             <input name="Orientation" oid="2d7a0d17-1527-48a2-b2b3-0595450e8e67" representation="index" type="int">
-                <init>0</init>
+                <init>1</init>
             </input>
             <input name="Defaut" oid="cbe73ddd-3ab3-444d-8417-22acbf3f7ba1" type="bool">
                 <init>false</init>
             </input>
         </inputs>
+        <outputs>
+            <output memory="true" name="Inside" oid="b5de3388-57c0-43df-ba90-2085794ec6a5" type="bool">
+                <init>false</init>
+            </output>
+        </outputs>
     </declaration>
     <children>
         <container oid="659bac5b-a970-4864-81b7-bdfe161bc23d">
@@ -66,8 +71,40 @@
                 </static>
             </properties>
             <children>
-                <condContainer oid="bd522f4b-e6f1-4e5f-a53b-a093b03b086f">
+                <rectangleArea oid="1c628736-5c49-4270-a57a-91659344c8fa">
                     <pathFromRoot value="0,0"/>
+                    <properties name="rectangle area">
+                        <enable>
+                            <init>true</init>
+                        </enable>
+                        <pointerId>
+                            <init>-1</init>
+                        </pointerId>
+                        <firstPoint>
+                            <x>
+                                <init>-20.0</init>
+                            </x>
+                            <y>
+                                <init>-20.0</init>
+                            </y>
+                        </firstPoint>
+                        <thirdPoint>
+                            <x>
+                                <init>20.0</init>
+                            </x>
+                            <y>
+                                <init>20.0</init>
+                            </y>
+                        </thirdPoint>
+                        <output>
+                            <inside>
+                                <expr>Inside</expr>
+                            </inside>
+                        </output>
+                    </properties>
+                </rectangleArea>
+                <condContainer oid="bd522f4b-e6f1-4e5f-a53b-a093b03b086f">
+                    <pathFromRoot value="1,0"/>
                     <properties name="Orientation">
                         <visible>
                             <init>true</init>
@@ -109,7 +146,7 @@
                     </properties>
                     <children>
                         <container oid="a281b976-4553-4312-ab27-e81562c7b4b7">
-                            <pathFromRoot value="0,0,0"/>
+                            <pathFromRoot value="0,1,0"/>
                             <properties name="vanne horizontale">
                                 <visible>
                                     <init>true</init>
@@ -145,7 +182,7 @@
                             </properties>
                             <children>
                                 <text oid="676f758b-9103-4ebe-abca-e36c1118a6da">
-                                    <pathFromRoot value="0,0,0,0"/>
+                                    <pathFromRoot value="0,0,1,0"/>
                                     <properties name="indicateur_position">
                                         <visible>
                                             <init>true</init>
@@ -188,7 +225,7 @@
                                     </properties>
                                 </text>
                                 <text oid="8fe84968-8439-46f4-9a14-cef1a3e1f56a">
-                                    <pathFromRoot value="1,0,0,0"/>
+                                    <pathFromRoot value="1,0,1,0"/>
                                     <properties name="Code_ECS">
                                         <visible>
                                             <init>true</init>
@@ -231,7 +268,7 @@
                                     </properties>
                                 </text>
                                 <referenceContainer oid="93eb1c1e-d486-4dbf-bc12-df736dad7bc1">
-                                    <pathFromRoot value="2,0,0,0"/>
+                                    <pathFromRoot value="2,0,1,0"/>
                                     <properties modular="false" name="cadenas_essai_consignation">
                                         <visible>
                                             <init>true</init>
@@ -264,7 +301,7 @@
                                     <children/>
                                 </referenceContainer>
                                 <referenceContainer oid="885052fd-abfd-4f95-b7b9-bdde90893348">
-                                    <pathFromRoot value="3,0,0,0"/>
+                                    <pathFromRoot value="3,0,1,0"/>
                                     <properties modular="false" name="auto_manu_v2">
                                         <visible>
                                             <init>true</init>
@@ -292,20 +329,20 @@
                                         </rotate>
                                         <orientation clockwise="false"/>
                                         <file name="auto_manu_v2.ogfx" path="."/>
-                                        <crc value="3953435688"/>
+                                        <crc value="3844032979"/>
                                         <inputParameters>
-                                            <parameter control="false" name="highlight_visible" oid="2d8cdbe3-0336-461c-a2ee-7b1cdba35d85" type="bool">
-                                                <init>false</init>
-                                            </parameter>
                                             <parameter control="false" name="index" oid="2f564d30-eb51-4f44-8e13-3b4ed17795a1" representation="index" type="int">
                                                 <init>4</init>
+                                            </parameter>
+                                            <parameter control="false" name="highlight" oid="6b450194-c564-442c-b368-4ed60317afe8" type="bool">
+                                                <init>false</init>
                                             </parameter>
                                         </inputParameters>
                                     </properties>
                                     <children/>
                                 </referenceContainer>
                                 <condContainer oid="517bb739-efd9-4279-b193-64f67ff08a6d">
-                                    <pathFromRoot value="4,0,0,0"/>
+                                    <pathFromRoot value="4,0,1,0"/>
                                     <properties name="TTLE">
                                         <visible>
                                             <init>false</init>
@@ -345,7 +382,7 @@
                                     </properties>
                                     <children>
                                         <referenceContainer oid="57194414-4b4f-4437-a673-a7ee1d6bb2d7">
-                                            <pathFromRoot value="0,4,0,0,0"/>
+                                            <pathFromRoot value="0,4,0,1,0"/>
                                             <properties modular="false" name="indicateur_TTLE">
                                                 <visible>
                                                     <init>true</init>
@@ -378,7 +415,7 @@
                                             <children/>
                                         </referenceContainer>
                                         <referenceContainer oid="6ce81c71-f86c-44a3-8dbb-ceb8f62a1760">
-                                            <pathFromRoot value="1,4,0,0,0"/>
+                                            <pathFromRoot value="1,4,0,1,0"/>
                                             <properties modular="false" name="indicateur_TTLE_b">
                                                 <visible>
                                                     <init>true</init>
@@ -413,7 +450,7 @@
                                     </children>
                                 </condContainer>
                                 <referenceContainer oid="aeef2496-b184-436a-a60d-c0dc06c407ed">
-                                    <pathFromRoot value="5,0,0,0"/>
+                                    <pathFromRoot value="5,0,1,0"/>
                                     <properties modular="false" name="Dessin defaut">
                                         <visible>
                                             <init>false</init>
@@ -455,7 +492,7 @@
                                     <children/>
                                 </referenceContainer>
                                 <referenceContainer oid="9894ca82-cfa3-4cba-b470-48b6b6b125dd">
-                                    <pathFromRoot value="6,0,0,0"/>
+                                    <pathFromRoot value="6,0,1,0"/>
                                     <properties modular="false" name="Type commande">
                                         <visible>
                                             <init>true</init>
@@ -496,7 +533,7 @@
                                     <children/>
                                 </referenceContainer>
                                 <referenceContainer oid="bc0aa382-043b-4c39-aa17-5176a6fdfbb5">
-                                    <pathFromRoot value="7,0,0,0"/>
+                                    <pathFromRoot value="7,0,1,0"/>
                                     <properties modular="false" name="Dessin Vanne">
                                         <visible>
                                             <init>true</init>
@@ -524,7 +561,7 @@
                                         </rotate>
                                         <orientation clockwise="false"/>
                                         <file name="dessin_vanne.ogfx" path="."/>
-                                        <crc value="1278775736"/>
+                                        <crc value="2824457543"/>
                                         <inputParameters>
                                             <parameter control="false" name="Position" oid="e6f4b13a-19b7-4652-8ee0-38fffc24ecbb" representation="index" type="int">
                                                 <init>1</init>
@@ -535,6 +572,10 @@
                                             <parameter control="false" name="Orientation" oid="4976ed97-cfe3-4374-8167-fff1ffd5efe6" representation="index" type="int">
                                                 <init>1</init>
                                             </parameter>
+                                            <parameter control="false" name="highlight" oid="3eb115b9-ccba-4224-8b7b-702f9d455dca" type="bool">
+                                                <expr>Inside</expr>
+                                                <init>false</init>
+                                            </parameter>
                                         </inputParameters>
                                     </properties>
                                     <children/>
@@ -542,7 +583,7 @@
                             </children>
                         </container>
                         <container oid="44175812-b8b0-4cb3-9454-9d3124c6782e">
-                            <pathFromRoot value="1,0,0"/>
+                            <pathFromRoot value="1,1,0"/>
                             <properties name="vanne verticale droit">
                                 <visible>
                                     <init>true</init>
@@ -578,7 +619,7 @@
                             </properties>
                             <children>
                                 <line oid="2e6e637d-bc9b-4114-b373-5c19644c1285">
-                                    <pathFromRoot value="0,1,0,0"/>
+                                    <pathFromRoot value="0,1,1,0"/>
                                     <properties name="tuyau">
                                         <visible>
                                             <init>false</init>
@@ -625,7 +666,7 @@
                                     </properties>
                                 </line>
                                 <text oid="b5c7157b-d0c6-47b7-859d-b15133d477c6">
-                                    <pathFromRoot value="1,1,0,0"/>
+                                    <pathFromRoot value="1,1,1,0"/>
                                     <properties name="Position">
                                         <visible>
                                             <init>true</init>
@@ -668,7 +709,7 @@
                                     </properties>
                                 </text>
                                 <text oid="a0954623-99c3-4a84-a9b7-df2502966046">
-                                    <pathFromRoot value="2,1,0,0"/>
+                                    <pathFromRoot value="2,1,1,0"/>
                                     <properties name="Code_ECS">
                                         <visible>
                                             <init>true</init>
@@ -711,7 +752,7 @@
                                     </properties>
                                 </text>
                                 <referenceContainer oid="51cd2e23-9650-49fa-9936-34e11500f7fc">
-                                    <pathFromRoot value="3,1,0,0"/>
+                                    <pathFromRoot value="3,1,1,0"/>
                                     <properties modular="false" name="cadenas_essai_consignation">
                                         <visible>
                                             <init>true</init>
@@ -744,7 +785,7 @@
                                     <children/>
                                 </referenceContainer>
                                 <referenceContainer oid="2e45191e-c49d-44d9-89d7-376fa9be364c">
-                                    <pathFromRoot value="4,1,0,0"/>
+                                    <pathFromRoot value="4,1,1,0"/>
                                     <properties modular="false" name="icone auto-manu">
                                         <visible>
                                             <init>true</init>
@@ -772,20 +813,20 @@
                                         </rotate>
                                         <orientation clockwise="false"/>
                                         <file name="auto_manu_v2.ogfx" path="."/>
-                                        <crc value="3953435688"/>
+                                        <crc value="3844032979"/>
                                         <inputParameters>
-                                            <parameter control="false" name="highlight_visible" oid="2d8cdbe3-0336-461c-a2ee-7b1cdba35d85" type="bool">
-                                                <init>false</init>
-                                            </parameter>
                                             <parameter control="false" name="index" oid="2f564d30-eb51-4f44-8e13-3b4ed17795a1" representation="index" type="int">
                                                 <init>1</init>
+                                            </parameter>
+                                            <parameter control="false" name="highlight" oid="6b450194-c564-442c-b368-4ed60317afe8" type="bool">
+                                                <init>false</init>
                                             </parameter>
                                         </inputParameters>
                                     </properties>
                                     <children/>
                                 </referenceContainer>
                                 <condContainer oid="a98c5b26-d2b5-4bba-878b-3739943306ee">
-                                    <pathFromRoot value="5,1,0,0"/>
+                                    <pathFromRoot value="5,1,1,0"/>
                                     <properties name="TTLE">
                                         <visible>
                                             <init>false</init>
@@ -825,7 +866,7 @@
                                     </properties>
                                     <children>
                                         <referenceContainer oid="ccdb47cb-edd7-4f4b-b6c3-b2650666d88c">
-                                            <pathFromRoot value="0,5,1,0,0"/>
+                                            <pathFromRoot value="0,5,1,1,0"/>
                                             <properties modular="false" name="indicateur_TTLE">
                                                 <visible>
                                                     <init>true</init>
@@ -858,7 +899,7 @@
                                             <children/>
                                         </referenceContainer>
                                         <referenceContainer oid="88cf122e-7022-49c2-b942-9b8ecb4efbd8">
-                                            <pathFromRoot value="1,5,1,0,0"/>
+                                            <pathFromRoot value="1,5,1,1,0"/>
                                             <properties modular="false" name="indicateur_TTLE_b">
                                                 <visible>
                                                     <init>true</init>
@@ -893,7 +934,7 @@
                                     </children>
                                 </condContainer>
                                 <referenceContainer oid="852823c9-8219-410b-9de1-919ecc03eccb">
-                                    <pathFromRoot value="6,1,0,0"/>
+                                    <pathFromRoot value="6,1,1,0"/>
                                     <properties modular="false" name="Dessin defaut">
                                         <visible>
                                             <init>false</init>
@@ -935,7 +976,7 @@
                                     <children/>
                                 </referenceContainer>
                                 <referenceContainer oid="3d5e0631-d123-43c5-a190-ffe2dd2fc9ef">
-                                    <pathFromRoot value="7,1,0,0"/>
+                                    <pathFromRoot value="7,1,1,0"/>
                                     <properties modular="false" name="Type commande">
                                         <visible>
                                             <init>true</init>
@@ -976,7 +1017,7 @@
                                     <children/>
                                 </referenceContainer>
                                 <referenceContainer oid="b5e20bc0-fdd2-4a0c-8da5-5031fb24e4cc">
-                                    <pathFromRoot value="8,1,0,0"/>
+                                    <pathFromRoot value="8,1,1,0"/>
                                     <properties modular="false" name="Dessin Vanne">
                                         <visible>
                                             <init>true</init>
@@ -1004,7 +1045,7 @@
                                         </rotate>
                                         <orientation clockwise="false"/>
                                         <file name="dessin_vanne.ogfx" path="."/>
-                                        <crc value="1278775736"/>
+                                        <crc value="2824457543"/>
                                         <inputParameters>
                                             <parameter control="false" name="Position" oid="e6f4b13a-19b7-4652-8ee0-38fffc24ecbb" representation="index" type="int">
                                                 <init>1</init>
@@ -1015,6 +1056,9 @@
                                             <parameter control="false" name="Orientation" oid="4976ed97-cfe3-4374-8167-fff1ffd5efe6" representation="index" type="int">
                                                 <init>2</init>
                                             </parameter>
+                                            <parameter control="false" name="highlight" oid="3eb115b9-ccba-4224-8b7b-702f9d455dca" type="bool">
+                                                <init>false</init>
+                                            </parameter>
                                         </inputParameters>
                                     </properties>
                                     <children/>
@@ -1022,7 +1066,7 @@
                             </children>
                         </container>
                         <container oid="feef2572-aa73-47f6-be8b-453686b19b08">
-                            <pathFromRoot value="2,0,0"/>
+                            <pathFromRoot value="2,1,0"/>
                             <properties name="vanne verticale gauche">
                                 <visible>
                                     <init>true</init>
@@ -1058,7 +1102,7 @@
                             </properties>
                             <children>
                                 <line oid="1280e4f4-e22a-4682-94c3-a096f1ec43f0">
-                                    <pathFromRoot value="0,2,0,0"/>
+                                    <pathFromRoot value="0,2,1,0"/>
                                     <properties name="tuyau">
                                         <visible>
                                             <init>false</init>
@@ -1105,7 +1149,7 @@
                                     </properties>
                                 </line>
                                 <text oid="13109317-73be-4036-b932-701779bec933">
-                                    <pathFromRoot value="1,2,0,0"/>
+                                    <pathFromRoot value="1,2,1,0"/>
                                     <properties name="Position">
                                         <visible>
                                             <init>true</init>
@@ -1148,7 +1192,7 @@
                                     </properties>
                                 </text>
                                 <text oid="5d879ed1-a754-4c57-8ded-35bfddaae696">
-                                    <pathFromRoot value="2,2,0,0"/>
+                                    <pathFromRoot value="2,2,1,0"/>
                                     <properties name="Code_ECS">
                                         <visible>
                                             <init>true</init>
@@ -1191,7 +1235,7 @@
                                     </properties>
                                 </text>
                                 <referenceContainer oid="34977856-1201-425e-a564-9bc0ec29372d">
-                                    <pathFromRoot value="3,2,0,0"/>
+                                    <pathFromRoot value="3,2,1,0"/>
                                     <properties modular="false" name="cadenas_essai_consignation">
                                         <visible>
                                             <init>true</init>
@@ -1224,7 +1268,7 @@
                                     <children/>
                                 </referenceContainer>
                                 <referenceContainer oid="617c22b8-1d1d-4588-a020-c0f3c6f47d4b">
-                                    <pathFromRoot value="4,2,0,0"/>
+                                    <pathFromRoot value="4,2,1,0"/>
                                     <properties modular="false" name="icone auto-manu">
                                         <visible>
                                             <init>true</init>
@@ -1252,20 +1296,20 @@
                                         </rotate>
                                         <orientation clockwise="false"/>
                                         <file name="auto_manu_v2.ogfx" path="."/>
-                                        <crc value="3953435688"/>
+                                        <crc value="3844032979"/>
                                         <inputParameters>
-                                            <parameter control="false" name="highlight_visible" oid="2d8cdbe3-0336-461c-a2ee-7b1cdba35d85" type="bool">
-                                                <init>false</init>
-                                            </parameter>
                                             <parameter control="false" name="index" oid="2f564d30-eb51-4f44-8e13-3b4ed17795a1" representation="index" type="int">
                                                 <init>1</init>
+                                            </parameter>
+                                            <parameter control="false" name="highlight" oid="6b450194-c564-442c-b368-4ed60317afe8" type="bool">
+                                                <init>false</init>
                                             </parameter>
                                         </inputParameters>
                                     </properties>
                                     <children/>
                                 </referenceContainer>
                                 <condContainer oid="a5438927-926b-4f2b-9465-7f80e178169b">
-                                    <pathFromRoot value="5,2,0,0"/>
+                                    <pathFromRoot value="5,2,1,0"/>
                                     <properties name="TTLE">
                                         <visible>
                                             <init>false</init>
@@ -1305,7 +1349,7 @@
                                     </properties>
                                     <children>
                                         <referenceContainer oid="826a48a9-4f98-425d-95bf-e0b5d2fc5b75">
-                                            <pathFromRoot value="0,5,2,0,0"/>
+                                            <pathFromRoot value="0,5,2,1,0"/>
                                             <properties modular="false" name="indicateur_TTLE">
                                                 <visible>
                                                     <init>true</init>
@@ -1338,7 +1382,7 @@
                                             <children/>
                                         </referenceContainer>
                                         <referenceContainer oid="6428ac8a-2fa9-4c5b-b9b1-bdc4bb76c702">
-                                            <pathFromRoot value="1,5,2,0,0"/>
+                                            <pathFromRoot value="1,5,2,1,0"/>
                                             <properties modular="false" name="indicateur_TTLE_b">
                                                 <visible>
                                                     <init>true</init>
@@ -1373,7 +1417,7 @@
                                     </children>
                                 </condContainer>
                                 <referenceContainer oid="85536f2a-9dbb-4b7a-bd07-2c6db1a5d289">
-                                    <pathFromRoot value="6,2,0,0"/>
+                                    <pathFromRoot value="6,2,1,0"/>
                                     <properties modular="false" name="Dessin defaut">
                                         <visible>
                                             <init>false</init>
@@ -1416,7 +1460,7 @@
                                     <children/>
                                 </referenceContainer>
                                 <referenceContainer oid="d6b8ef7f-3fab-48f1-a46a-03633b6627c9">
-                                    <pathFromRoot value="7,2,0,0"/>
+                                    <pathFromRoot value="7,2,1,0"/>
                                     <properties modular="false" name="Type commande">
                                         <visible>
                                             <init>true</init>
@@ -1457,7 +1501,7 @@
                                     <children/>
                                 </referenceContainer>
                                 <referenceContainer oid="850439f5-766a-49ae-a493-d6dd514edf62">
-                                    <pathFromRoot value="8,2,0,0"/>
+                                    <pathFromRoot value="8,2,1,0"/>
                                     <properties modular="false" name="Dessin Vanne">
                                         <visible>
                                             <init>true</init>
@@ -1485,7 +1529,7 @@
                                         </rotate>
                                         <orientation clockwise="false"/>
                                         <file name="dessin_vanne.ogfx" path="."/>
-                                        <crc value="1278775736"/>
+                                        <crc value="2824457543"/>
                                         <inputParameters>
                                             <parameter control="false" name="Position" oid="e6f4b13a-19b7-4652-8ee0-38fffc24ecbb" representation="index" type="int">
                                                 <init>1</init>
@@ -1495,6 +1539,9 @@
                                             </parameter>
                                             <parameter control="false" name="Orientation" oid="4976ed97-cfe3-4374-8167-fff1ffd5efe6" representation="index" type="int">
                                                 <init>2</init>
+                                            </parameter>
+                                            <parameter control="false" name="highlight" oid="3eb115b9-ccba-4224-8b7b-702f9d455dca" type="bool">
+                                                <init>false</init>
                                             </parameter>
                                         </inputParameters>
                                     </properties>
@@ -1509,5 +1556,5 @@
     </children>
 </object>
 
-<!-- crc32 : 3644938686 -->
+<!-- crc32 : 317935136 -->
 

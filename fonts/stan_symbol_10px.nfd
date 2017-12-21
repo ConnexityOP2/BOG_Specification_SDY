@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<font author="" company="" date="Tue Dec 19 16:43:19 CET 2017"
+    default_char_index="0" imported="true" name="Stan symbols"
+    ratio_x="1.0" ratio_y="1.0" stroke_y="0.0" underline_y="0.0" version="">
+    <description/>
+    <sample>am</sample>
+    <line_widths>3</line_widths>
+    <characters>
+        <character code_point="0" height="0.0" horizontal_advance="11.0"
+            index="0" name="" vertical_advance="0.0" width="16.0">
+            <lines/>
+            <bitmaps>
+                <bitmap bbox_height="0" bbox_width="0" bbox_x="0"
+                    bbox_y="0" line_width="3"/>
+            </bitmaps>
+        </character>
+        <character code_point="65" height="11.0"
+            horizontal_advance="11.0" index="65" name=""
+            vertical_advance="0.0" width="16.0">
+            <lines/>
+            <bitmaps>
+                <bitmap bbox_height="11" bbox_width="11" bbox_x="0"
+                    bbox_y="0" line_width="3">0 0 15 15 15 15 15 15 0 0 15 0 15 0 0 0 0 0 0 15 0 15 15 0 0 0 0 0 0 0 0 15 15 15 0 0 0 0 0 0 15 15 15 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 15 15 15 15 0 0 0 0 0 0 15 15 15 0 0 0 0 0 0 0 0 15 15 0 15 0 0 0 0 0 0 15 0 15 0 0 15 15 15 15 15 15 0 0</bitmap>
+            </bitmaps>
+        </character>
+        <character code_point="97" height="10.0"
+            horizontal_advance="11.0" index="97" name=""
+            vertical_advance="0.0" width="16.0">
+            <lines/>
+            <bitmaps>
+                <bitmap bbox_height="10" bbox_width="10" bbox_x="0"
+                    bbox_y="0" line_width="3">0 0 15 15 15 15 15 0 0 15 0 15 0 0 0 0 0 15 0 15 15 0 0 0 0 0 0 0 15 15 0 0 0 0 0 0 15 15 15 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 15 15 15 15 0 0 0 0 0 0 15 15 0 0 0 0 0 0 0 15 15 0 15 0 0 0 0 0 15 0 15 0 0 15 15 15 15 15 0 0</bitmap>
+            </bitmaps>
+        </character>
+        <character code_point="109" height="11.0"
+            horizontal_advance="11.0" index="109" name=""
+            vertical_advance="0.0" width="11.0">
+            <lines/>
+            <bitmaps>
+                <bitmap bbox_height="11" bbox_width="11" bbox_x="0"
+                    bbox_y="0" line_width="3">0 0 0 0 0 15 15 15 0 0 0 0 0 0 15 15 0 15 0 15 0 0 0 0 15 0 15 0 15 0 15 15 0 0 0 15 0 15 0 15 0 15 0 15 0 0 15 0 15 0 15 0 15 0 15 0 15 15 0 0 0 0 0 0 0 15 15 0 0 0 0 0 0 0 0 0 15 0 15 0 0 0 0 0 0 0 0 15 0 0 15 0 0 0 0 0 0 0 15 0 0 0 15 0 0 0 0 0 15 0 0 0 0 0 15 15 15 15 15 0 0</bitmap>
+            </bitmaps>
+        </character>
+    </characters>
+</font>

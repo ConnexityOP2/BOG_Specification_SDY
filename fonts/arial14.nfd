@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<font author="" company="" date="12/19/2017 13:33:59"
-    default_char_index="0" imported="true" name="Arial14"
-    ratio_x="1.0" ratio_y="1.0" stroke_y="0.0" underline_y="0.0" version="">
+<font author="" company="" date="Wed Dec 20 10:11:18 CET 2017"
+    default_char_index="0" imported="true" name="Arial14" ratio_x="1.0"
+    ratio_y="1.0" stroke_y="0.0" underline_y="0.0" version="">
     <description>This font has been imported from arial.ttf</description>
     <line_widths>3</line_widths>
     <characters>
-<character code_point="0" height="17.0"
-horizontal_advance="18.0" index="0" name=""
-vertical_advance="0.0" width="19.0">
-<lines/>
-<bitmaps>
-<bitmap bbox_height="19" bbox_width="19" bbox_x="0"
-bbox_y="-2" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 15 15 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 15 15 15 15 11 0 0 0 0 0 0 0 0 0 0 0 0 5 13 6 2 0 1 6 10 0 0 0 0 0 0 0 0 0 0 5 15 3 1 6 8 3 0 4 11 0 0 0 0 0 0 0 0 5 15 15 10 15 15 15 15 3 0 14 11 0 0 0 0 0 0 5 15 15 15 15 15 15 15 15 5 0 13 15 11 0 0 0 0 5 15 15 15 15 15 15 15 15 12 0 3 15 15 15 11 0 0 5 15 15 15 15 15 15 15 15 12 1 1 14 15 15 15 15 11 0 3 15 15 15 15 15 15 15 14 1 1 13 15 15 15 15 15 9 0 0 3 14 15 15 15 15 15 8 0 12 15 15 15 15 15 9 0 0 0 0 3 14 15 15 15 15 6 0 14 15 15 15 15 9 0 0 0 0 0 0 2 14 15 15 15 7 2 15 15 15 15 8 0 0 0 0 0 0 0 0 2 14 15 15 15 15 15 15 15 8 0 0 0 0 0 0 0 0 0 0 2 14 15 5 0 14 15 8 0 0 0 0 0 0 0 0 0 0 0 0 2 14 5 0 14 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 11 12 7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 6 0 0 0 0 0 0 0 0 0</bitmap>
-</bitmaps>
-</character>
-        <character code_point="32" height="0.0"
-            horizontal_advance="4.0" index="32" name=""
-            vertical_advance="6.0" width="4.0">
+        <character code_point="0" height="0.0" horizontal_advance="4.0"
+            index="0" name="" vertical_advance="6.0" width="4.0">
+            <lines/>
+            <bitmaps>
+                <bitmap bbox_height="2" bbox_width="2" bbox_x="-1"
+                    bbox_y="-1" line_width="3">0 0 0 0</bitmap>
+            </bitmaps>
+        </character>
+        <character code_point="32" height="0.0" horizontal_advance="4.0"
+            index="32" name="" vertical_advance="6.0" width="4.0">
             <lines/>
             <bitmaps>
                 <bitmap bbox_height="2" bbox_width="2" bbox_x="-1"
@@ -113,36 +111,32 @@ bbox_y="-2" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
                     bbox_y="5" line_width="3">0 0 0 0 0 0 0 0 0 0 14 0 0 0 0 11 9 13 8 11 0 0 1 9 15 9 1 0 0 1 12 2 12 1 0 0 0 0 0 0 0 0</bitmap>
             </bitmaps>
         </character>
-        <character code_point="43" height="8.0"
-            horizontal_advance="8.0" index="43" name=""
-            vertical_advance="3.0" width="8.0">
+        <character code_point="43" height="8.0" horizontal_advance="8.0"
+            index="43" name="" vertical_advance="3.0" width="8.0">
             <lines/>
             <bitmaps>
                 <bitmap bbox_height="9" bbox_width="9" bbox_x="0"
                     bbox_y="0" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 15 15 15 15 15 15 15 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
             </bitmaps>
         </character>
-        <character code_point="44" height="1.0"
-            horizontal_advance="4.0" index="44" name=""
-            vertical_advance="5.0" width="4.0">
+        <character code_point="44" height="1.0" horizontal_advance="4.0"
+            index="44" name="" vertical_advance="5.0" width="4.0">
             <lines/>
             <bitmaps>
                 <bitmap bbox_height="5" bbox_width="3" bbox_x="1"
                     bbox_y="-3" line_width="3">0 0 0 0 15 0 0 9 0 0 8 0 0 0 0</bitmap>
             </bitmaps>
         </character>
-        <character code_point="45" height="4.0"
-            horizontal_advance="5.0" index="45" name=""
-            vertical_advance="6.0" width="5.0">
+        <character code_point="45" height="4.0" horizontal_advance="5.0"
+            index="45" name="" vertical_advance="6.0" width="5.0">
             <lines/>
             <bitmaps>
                 <bitmap bbox_height="3" bbox_width="6" bbox_x="-1"
                     bbox_y="2" line_width="3">0 0 0 0 0 0 0 15 15 15 15 0 0 0 0 0 0 0</bitmap>
             </bitmaps>
         </character>
-        <character code_point="46" height="1.0"
-            horizontal_advance="4.0" index="46" name=""
-            vertical_advance="6.0" width="4.0">
+        <character code_point="46" height="1.0" horizontal_advance="4.0"
+            index="46" name="" vertical_advance="6.0" width="4.0">
             <lines/>
             <bitmaps>
                 <bitmap bbox_height="3" bbox_width="3" bbox_x="1"
@@ -248,45 +242,40 @@ bbox_y="-2" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
                     bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 9 14 14 9 0 0 0 9 7 0 0 7 10 0 0 14 0 0 0 0 14 0 0 14 0 0 0 1 15 0 0 10 7 0 1 9 15 0 0 1 10 15 13 5 15 0 0 0 0 0 0 2 13 0 0 0 0 0 0 5 10 0 0 13 6 0 2 12 3 0 0 3 12 15 13 5 0 0 0 0 0 0 0 0 0 0</bitmap>
             </bitmaps>
         </character>
-        <character code_point="58" height="8.0"
-            horizontal_advance="4.0" index="58" name=""
-            vertical_advance="2.0" width="4.0">
+        <character code_point="58" height="8.0" horizontal_advance="4.0"
+            index="58" name="" vertical_advance="2.0" width="4.0">
             <lines/>
             <bitmaps>
                 <bitmap bbox_height="10" bbox_width="3" bbox_x="0"
                     bbox_y="-1" line_width="3">0 0 0 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 15 0 0 0 0</bitmap>
             </bitmaps>
         </character>
-        <character code_point="59" height="8.0"
-            horizontal_advance="4.0" index="59" name=""
-            vertical_advance="1.0" width="4.0">
+        <character code_point="59" height="8.0" horizontal_advance="4.0"
+            index="59" name="" vertical_advance="1.0" width="4.0">
             <lines/>
             <bitmaps>
                 <bitmap bbox_height="12" bbox_width="3" bbox_x="0"
                     bbox_y="-3" line_width="3">0 0 0 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 15 0 0 9 0 0 8 0 0 0 0</bitmap>
             </bitmaps>
         </character>
-        <character code_point="60" height="8.0"
-            horizontal_advance="8.0" index="60" name=""
-            vertical_advance="3.0" width="8.0">
+        <character code_point="60" height="8.0" horizontal_advance="8.0"
+            index="60" name="" vertical_advance="3.0" width="8.0">
             <lines/>
             <bitmaps>
                 <bitmap bbox_height="9" bbox_width="8" bbox_x="0"
                     bbox_y="0" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 4 12 0 0 0 0 4 12 12 4 0 0 4 12 12 4 0 0 0 0 15 8 0 0 0 0 0 0 4 12 12 4 0 0 0 0 0 0 4 12 12 4 0 0 0 0 0 0 4 12 0 0 0 0 0 0 0 0 0</bitmap>
             </bitmaps>
         </character>
-        <character code_point="61" height="7.0"
-            horizontal_advance="8.0" index="61" name=""
-            vertical_advance="4.0" width="8.0">
+        <character code_point="61" height="7.0" horizontal_advance="8.0"
+            index="61" name="" vertical_advance="4.0" width="8.0">
             <lines/>
             <bitmaps>
                 <bitmap bbox_height="6" bbox_width="8" bbox_x="0"
                     bbox_y="2" line_width="3">0 0 0 0 0 0 0 0 0 15 15 15 15 15 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 15 15 15 15 15 15 0 0 0 0 0 0 0 0 0</bitmap>
             </bitmaps>
         </character>
-        <character code_point="62" height="8.0"
-            horizontal_advance="8.0" index="62" name=""
-            vertical_advance="3.0" width="8.0">
+        <character code_point="62" height="8.0" horizontal_advance="8.0"
+            index="62" name="" vertical_advance="3.0" width="8.0">
             <lines/>
             <bitmaps>
                 <bitmap bbox_height="9" bbox_width="8" bbox_x="0"
@@ -599,9 +588,8 @@ bbox_y="-2" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
                     bbox_y="7" line_width="3">0 0 0 0 0 12 4 0 0 4 12 0 0 0 0 0</bitmap>
             </bitmaps>
         </character>
-        <character code_point="97" height="8.0"
-            horizontal_advance="8.0" index="97" name=""
-            vertical_advance="2.0" width="8.0">
+        <character code_point="97" height="8.0" horizontal_advance="8.0"
+            index="97" name="" vertical_advance="2.0" width="8.0">
             <lines/>
             <bitmaps>
                 <bitmap bbox_height="10" bbox_width="8" bbox_x="0"
@@ -617,9 +605,8 @@ bbox_y="-2" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
                     bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 15 2 10 15 11 2 0 0 15 13 2 0 6 10 0 0 15 4 0 0 0 12 0 0 15 0 0 0 0 15 0 0 15 0 0 0 0 15 0 0 15 3 0 0 1 13 0 0 15 12 1 0 7 9 0 0 15 6 14 15 11 1 0 0 0 0 0 0 0 0 0</bitmap>
             </bitmaps>
         </character>
-        <character code_point="99" height="8.0"
-            horizontal_advance="7.0" index="99" name=""
-            vertical_advance="2.0" width="7.0">
+        <character code_point="99" height="8.0" horizontal_advance="7.0"
+            index="99" name="" vertical_advance="2.0" width="7.0">
             <lines/>
             <bitmaps>
                 <bitmap bbox_height="10" bbox_width="7" bbox_x="0"
@@ -869,87 +856,6 @@ bbox_y="-2" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
                     bbox_y="2" line_width="3">0 0 0 0 0 0 0 0 0 0 4 14 14 9 2 1 9 0 0 10 1 2 9 14 14 7 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
             </bitmaps>
         </character>
-        <character code_point="160" height="0.0"
-            horizontal_advance="4.0" index="160" name=""
-            vertical_advance="6.0" width="4.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="2" bbox_width="2" bbox_x="-1"
-                    bbox_y="-1" line_width="3">0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="161" height="8.0"
-            horizontal_advance="5.0" index="161" name=""
-            vertical_advance="1.0" width="5.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="13" bbox_width="3" bbox_x="1"
-                    bbox_y="-4" line_width="3">0 0 0 0 15 0 0 0 0 0 15 0 0 15 0 0 15 0 0 15 0 0 15 0 0 15 0 0 15 0 0 15 0 0 15 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="162" height="11.0"
-            horizontal_advance="8.0" index="162" name=""
-            vertical_advance="0.0" width="8.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="16" bbox_width="8" bbox_x="0"
-                    bbox_y="-4" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 13 1 0 0 0 0 0 2 14 0 0 0 0 5 15 15 13 0 0 0 5 15 5 10 14 9 0 0 15 5 0 14 2 6 0 0 15 0 3 12 0 0 0 0 15 0 8 7 0 0 0 0 12 3 12 3 1 13 0 0 6 13 14 0 5 7 0 0 0 11 15 14 8 0 0 0 0 10 5 0 0 0 0 0 0 14 1 0 0 0 0 0 1 10 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="163" height="10.0"
-            horizontal_advance="8.0" index="163" name=""
-            vertical_advance="1.0" width="8.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="12" bbox_width="9" bbox_x="-1"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 1 10 14 15 11 2 0 0 0 12 8 1 0 7 12 0 0 0 15 0 0 0 0 0 0 0 0 11 4 0 0 0 0 0 0 15 15 15 15 15 0 0 0 0 0 1 15 0 0 0 0 0 0 0 1 13 0 0 0 0 0 0 0 6 4 0 0 0 0 0 0 5 15 15 13 6 1 8 0 0 10 4 0 4 12 14 7 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="164" height="8.0"
-            horizontal_advance="8.0" index="164" name=""
-            vertical_advance="3.0" width="8.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="8" bbox_width="10" bbox_x="-1"
-                    bbox_y="1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 5 13 4 13 13 4 13 5 0 0 1 8 11 1 1 11 8 1 0 0 0 12 1 0 0 1 12 0 0 0 0 12 1 0 0 1 12 0 0 0 1 8 11 1 1 11 8 1 0 0 6 13 4 13 13 4 13 6 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="165" height="10.0"
-            horizontal_advance="8.0" index="165" name=""
-            vertical_advance="1.0" width="8.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="12" bbox_width="9" bbox_x="-1"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 12 4 0 0 0 4 12 0 0 4 12 0 0 0 13 4 0 0 0 12 5 0 6 12 0 0 0 0 4 14 1 14 4 0 0 0 0 0 12 13 12 0 0 0 0 15 15 15 15 15 15 15 0 0 0 0 0 15 0 0 0 0 0 15 15 15 15 15 15 15 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="166" height="10.0"
-            horizontal_advance="3.0" index="166" name=""
-            vertical_advance="0.0" width="3.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="3" bbox_x="0"
-                    bbox_y="-4" line_width="3">0 0 0 0 15 0 0 15 0 0 15 0 0 15 0 0 15 0 0 15 0 0 0 0 0 0 0 0 15 0 0 15 0 0 15 0 0 15 0 0 15 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="167" height="10.0"
-            horizontal_advance="8.0" index="167" name=""
-            vertical_advance="0.0" width="8.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="9" bbox_x="-1"
-                    bbox_y="-4" line_width="3">0 0 0 0 0 0 0 0 0 0 0 4 13 15 12 3 0 0 0 0 14 4 0 5 13 0 0 0 0 13 7 0 0 0 0 0 0 1 12 15 12 3 0 0 0 0 12 5 1 10 15 10 0 0 0 14 2 0 0 5 14 10 0 0 9 14 4 0 0 2 15 0 0 0 9 15 10 2 9 10 0 0 0 0 3 12 15 9 0 0 0 0 0 0 0 9 12 0 0 0 14 2 0 0 1 15 0 0 0 8 11 1 0 7 12 0 0 0 0 8 14 15 11 1 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="168" height="10.0"
-            horizontal_advance="5.0" index="168" name=""
-            vertical_advance="6.0" width="5.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="3" bbox_width="5" bbox_x="0"
-                    bbox_y="8" line_width="3">0 0 0 0 0 0 15 0 15 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
         <character code_point="169" height="10.0"
             horizontal_advance="10.0" index="169" name=""
             vertical_advance="1.0" width="10.0">
@@ -959,42 +865,6 @@ bbox_y="-2" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
                     bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 15 15 15 15 15 15 5 0 0 0 5 15 5 0 0 0 0 5 15 5 0 0 15 5 5 15 15 13 2 0 5 15 0 0 15 0 15 5 0 6 12 0 0 15 0 0 15 0 15 0 0 0 0 0 0 15 0 0 15 0 15 0 0 0 0 0 0 15 0 0 15 0 15 5 0 6 12 0 0 15 0 0 15 5 5 15 15 12 2 0 5 15 0 0 5 15 5 0 0 0 0 5 15 5 0 0 0 5 15 15 15 15 15 15 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
             </bitmaps>
         </character>
-        <character code_point="170" height="10.0"
-            horizontal_advance="4.0" index="170" name=""
-            vertical_advance="4.0" width="4.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="7" bbox_width="6" bbox_x="-1"
-                    bbox_y="4" line_width="3">0 0 0 0 0 0 0 4 14 15 8 0 0 13 4 2 15 0 0 6 11 10 15 0 0 15 2 4 15 0 0 9 15 11 15 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="171" height="7.0"
-            horizontal_advance="8.0" index="171" name=""
-            vertical_advance="3.0" width="8.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="8" bbox_width="8" bbox_x="0"
-                    bbox_y="0" line_width="3">0 0 0 0 0 0 0 0 0 0 5 10 0 5 10 0 0 1 13 1 1 13 1 0 0 10 5 0 10 5 0 0 0 10 5 0 10 5 0 0 0 1 13 1 1 13 1 0 0 0 5 10 0 5 10 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="172" height="7.0"
-            horizontal_advance="8.0" index="172" name=""
-            vertical_advance="4.0" width="8.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="6" bbox_width="8" bbox_x="0"
-                    bbox_y="2" line_width="3">0 0 0 0 0 0 0 0 0 15 15 15 15 15 15 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="173" height="4.0"
-            horizontal_advance="5.0" index="173" name=""
-            vertical_advance="6.0" width="5.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="3" bbox_width="6" bbox_x="-1"
-                    bbox_y="2" line_width="3">0 0 0 0 0 0 0 15 15 15 15 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
         <character code_point="174" height="10.0"
             horizontal_advance="10.0" index="174" name=""
             vertical_advance="1.0" width="10.0">
@@ -1002,51 +872,6 @@ bbox_y="-2" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
             <bitmaps>
                 <bitmap bbox_height="12" bbox_width="12" bbox_x="-1"
                     bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 15 15 15 15 15 15 5 0 0 0 5 15 5 0 0 0 0 5 15 5 0 0 15 5 0 15 15 15 5 0 5 15 0 0 15 0 0 15 0 5 15 0 0 15 0 0 15 0 0 15 0 3 14 0 0 15 0 0 15 0 0 15 15 15 6 0 0 15 0 0 15 0 0 15 2 12 1 0 0 15 0 0 15 5 0 15 0 4 11 0 5 15 0 0 5 15 5 0 0 0 0 5 15 5 0 0 0 5 15 15 15 15 15 15 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="175" height="12.0"
-            horizontal_advance="8.0" index="175" name=""
-            vertical_advance="6.0" width="8.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="3" bbox_width="10" bbox_x="-1"
-                    bbox_y="10" line_width="3">0 0 0 0 0 0 0 0 0 0 0 15 15 15 15 15 15 15 15 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="176" height="10.0"
-            horizontal_advance="6.0" index="176" name=""
-            vertical_advance="4.0" width="6.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="6" bbox_width="6" bbox_x="0"
-                    bbox_y="5" line_width="3">0 0 0 0 0 0 0 4 14 14 4 0 0 14 3 3 14 0 0 14 3 3 14 0 0 4 14 14 4 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="177" height="8.0"
-            horizontal_advance="8.0" index="177" name=""
-            vertical_advance="2.0" width="8.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="10" bbox_width="9" bbox_x="0"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 15 15 15 15 15 15 15 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 15 15 15 15 15 15 15 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="178" height="10.0"
-            horizontal_advance="5.0" index="178" name=""
-            vertical_advance="4.0" width="5.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="7" bbox_width="6" bbox_x="-1"
-                    bbox_y="4" line_width="3">0 0 0 0 0 0 0 4 14 15 8 0 0 13 4 2 14 0 0 0 0 8 5 0 0 1 10 3 0 0 0 12 15 15 15 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="179" height="10.0"
-            horizontal_advance="5.0" index="179" name=""
-            vertical_advance="4.0" width="5.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="7" bbox_width="6" bbox_x="-1"
-                    bbox_y="4" line_width="3">0 0 0 0 0 0 0 4 14 15 8 0 0 13 4 3 14 0 0 0 0 14 7 0 0 13 3 3 15 0 0 4 14 14 7 0 0 0 0 0 0 0</bitmap>
             </bitmaps>
         </character>
         <character code_point="180" height="10.0"
@@ -1065,15 +890,6 @@ bbox_y="-2" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
             <bitmaps>
                 <bitmap bbox_height="13" bbox_width="8" bbox_x="0"
                     bbox_y="-4" line_width="3">0 0 0 0 0 0 0 0 0 15 0 0 0 0 15 0 0 15 0 0 0 0 15 0 0 15 0 0 0 0 15 0 0 15 0 0 0 0 15 0 0 15 0 0 0 0 15 0 0 15 2 0 0 2 15 0 0 15 10 1 1 11 15 0 0 15 5 13 14 7 15 0 0 15 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="182" height="10.0"
-            horizontal_advance="8.0" index="182" name=""
-            vertical_advance="0.0" width="8.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="10" bbox_x="-1"
-                    bbox_y="-4" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 8 13 15 15 15 15 15 0 0 9 15 15 15 0 0 15 0 0 0 14 15 15 15 0 0 15 0 0 0 14 15 15 15 0 0 15 0 0 0 9 15 15 15 0 0 15 0 0 0 0 9 14 15 0 0 15 0 0 0 0 0 0 15 0 0 15 0 0 0 0 0 0 15 0 0 15 0 0 0 0 0 0 15 0 0 15 0 0 0 0 0 0 15 0 0 15 0 0 0 0 0 0 15 0 0 15 0 0 0 0 0 0 15 0 0 15 0 0 0 0 0 0 15 0 0 15 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
             </bitmaps>
         </character>
         <character code_point="183" height="5.0"
@@ -1148,222 +964,6 @@ bbox_y="-2" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
                     bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 14 15 8 0 0 0 0 0 12 2 0 0 0 13 4 3 14 0 0 0 0 10 5 0 0 0 0 1 0 14 7 0 0 0 6 8 0 0 0 0 0 13 4 3 15 0 0 3 11 0 0 0 0 0 0 4 14 14 7 0 1 12 1 0 0 0 0 0 0 0 0 0 0 0 11 3 0 0 5 15 0 0 0 0 0 0 0 8 7 0 0 5 13 15 0 0 0 0 0 0 4 10 0 0 5 9 0 15 0 0 0 0 0 2 12 0 0 0 15 15 15 15 15 0 0 0 0 12 2 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
             </bitmaps>
         </character>
-        <character code_point="191" height="8.0"
-            horizontal_advance="9.0" index="191" name=""
-            vertical_advance="1.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="13" bbox_width="9" bbox_x="0"
-                    bbox_y="-4" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 1 14 0 0 0 0 0 0 0 2 8 0 0 0 0 0 0 4 10 0 0 0 0 0 0 6 13 1 0 0 0 0 0 0 14 2 0 0 0 0 0 0 0 14 0 0 0 0 2 13 0 0 8 8 1 0 3 13 6 0 0 0 7 13 15 13 6 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="192" height="13.0"
-            horizontal_advance="9.0" index="192" name=""
-            vertical_advance="0.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="13" bbox_x="-2"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 12 4 0 0 0 0 0 0 0 0 0 0 0 4 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 15 4 0 0 0 0 0 0 0 0 0 0 11 9 11 0 0 0 0 0 0 0 0 0 1 14 0 14 1 0 0 0 0 0 0 0 0 8 8 0 8 7 0 0 0 0 0 0 0 0 14 2 0 2 14 0 0 0 0 0 0 0 4 12 0 0 0 12 4 0 0 0 0 0 0 11 15 15 15 15 15 11 0 0 0 0 0 1 14 0 0 0 0 0 14 1 0 0 0 0 8 7 0 0 0 0 0 7 8 0 0 0 0 13 0 0 0 0 0 0 0 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="193" height="13.0"
-            horizontal_advance="9.0" index="193" name=""
-            vertical_advance="0.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="13" bbox_x="-2"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 12 0 0 0 0 0 0 0 0 0 0 0 12 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 15 4 0 0 0 0 0 0 0 0 0 0 11 9 11 0 0 0 0 0 0 0 0 0 1 14 0 14 1 0 0 0 0 0 0 0 0 8 8 0 8 7 0 0 0 0 0 0 0 0 14 2 0 2 14 0 0 0 0 0 0 0 4 12 0 0 0 12 4 0 0 0 0 0 0 11 15 15 15 15 15 11 0 0 0 0 0 1 14 0 0 0 0 0 14 1 0 0 0 0 8 7 0 0 0 0 0 7 8 0 0 0 0 13 0 0 0 0 0 0 0 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="194" height="13.0"
-            horizontal_advance="9.0" index="194" name=""
-            vertical_advance="0.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="13" bbox_x="-2"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 15 15 6 0 0 0 0 0 0 0 0 2 14 5 5 14 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 15 4 0 0 0 0 0 0 0 0 0 0 11 9 11 0 0 0 0 0 0 0 0 0 1 14 0 14 1 0 0 0 0 0 0 0 0 8 8 0 8 7 0 0 0 0 0 0 0 0 14 2 0 2 14 0 0 0 0 0 0 0 4 12 0 0 0 12 4 0 0 0 0 0 0 11 15 15 15 15 15 11 0 0 0 0 0 1 14 0 0 0 0 0 14 1 0 0 0 0 8 7 0 0 0 0 0 7 8 0 0 0 0 13 0 0 0 0 0 0 0 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="195" height="13.0"
-            horizontal_advance="9.0" index="195" name=""
-            vertical_advance="0.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="13" bbox_x="-2"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 13 7 15 0 0 0 0 0 0 0 0 0 15 6 12 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 15 4 0 0 0 0 0 0 0 0 0 0 11 9 11 0 0 0 0 0 0 0 0 0 1 14 0 14 1 0 0 0 0 0 0 0 0 8 8 0 8 7 0 0 0 0 0 0 0 0 14 2 0 2 14 0 0 0 0 0 0 0 4 12 0 0 0 12 4 0 0 0 0 0 0 11 15 15 15 15 15 11 0 0 0 0 0 1 14 0 0 0 0 0 14 1 0 0 0 0 8 7 0 0 0 0 0 7 8 0 0 0 0 13 0 0 0 0 0 0 0 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="196" height="12.0"
-            horizontal_advance="9.0" index="196" name=""
-            vertical_advance="0.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="14" bbox_width="13" bbox_x="-2"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 15 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 15 4 0 0 0 0 0 0 0 0 0 0 11 9 11 0 0 0 0 0 0 0 0 0 1 14 0 14 1 0 0 0 0 0 0 0 0 8 8 0 8 7 0 0 0 0 0 0 0 0 14 2 0 2 14 0 0 0 0 0 0 0 4 12 0 0 0 12 4 0 0 0 0 0 0 11 15 15 15 15 15 11 0 0 0 0 0 1 14 0 0 0 0 0 14 1 0 0 0 0 8 7 0 0 0 0 0 7 8 0 0 0 0 13 0 0 0 0 0 0 0 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="197" height="12.0"
-            horizontal_advance="9.0" index="197" name=""
-            vertical_advance="0.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="14" bbox_width="13" bbox_x="-2"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 15 8 0 0 0 0 0 0 0 0 0 0 15 4 15 0 0 0 0 0 0 0 0 0 0 13 15 12 0 0 0 0 0 0 0 0 0 0 11 9 11 0 0 0 0 0 0 0 0 0 1 14 0 14 1 0 0 0 0 0 0 0 0 8 8 0 8 7 0 0 0 0 0 0 0 0 14 2 0 2 14 0 0 0 0 0 0 0 4 12 0 0 0 12 4 0 0 0 0 0 0 11 15 15 15 15 15 11 0 0 0 0 0 1 14 0 0 0 0 0 14 1 0 0 0 0 8 7 0 0 0 0 0 7 8 0 0 0 0 13 0 0 0 0 0 0 0 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="198" height="10.0"
-            horizontal_advance="14.0" index="198" name=""
-            vertical_advance="1.0" width="14.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="12" bbox_width="16" bbox_x="-2"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 15 15 15 15 15 15 15 15 0 0 0 0 0 0 0 13 1 0 15 0 0 0 0 0 0 0 0 0 0 0 6 8 0 0 15 0 0 0 0 0 0 0 0 0 0 0 13 1 0 0 15 0 0 0 0 0 0 0 0 0 0 8 7 0 0 0 15 15 15 15 15 15 0 0 0 0 1 13 0 0 0 0 15 0 0 0 0 0 0 0 0 0 9 15 15 15 15 15 15 0 0 0 0 0 0 0 0 2 13 0 0 0 0 0 15 0 0 0 0 0 0 0 0 11 4 0 0 0 0 0 15 0 0 0 0 0 0 0 3 12 0 0 0 0 0 0 15 15 15 15 15 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="199" height="10.0"
-            horizontal_advance="10.0" index="199" name=""
-            vertical_advance="0.0" width="10.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="10" bbox_x="0"
-                    bbox_y="-4" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 1 9 14 15 12 5 0 0 0 0 13 6 1 0 4 14 5 0 0 8 7 0 0 0 0 4 12 0 0 13 2 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 0 12 2 0 0 0 0 0 5 0 0 8 6 0 0 0 0 6 11 0 0 1 13 7 1 0 5 14 3 0 0 0 1 10 14 15 12 4 0 0 0 0 0 2 14 1 0 0 0 0 0 0 0 0 4 14 0 0 0 0 0 0 0 15 15 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="200" height="13.0"
-            horizontal_advance="9.0" index="200" name=""
-            vertical_advance="0.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="9" bbox_x="0"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 12 4 0 0 0 0 0 0 0 4 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 15 15 15 15 15 15 15 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 15 15 15 15 15 15 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 15 15 15 15 15 15 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="201" height="13.0"
-            horizontal_advance="9.0" index="201" name=""
-            vertical_advance="0.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="9" bbox_x="0"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 4 12 0 0 0 0 0 0 0 12 4 0 0 0 0 0 0 0 0 0 0 0 0 0 15 15 15 15 15 15 15 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 15 15 15 15 15 15 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 15 15 15 15 15 15 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="202" height="13.0"
-            horizontal_advance="9.0" index="202" name=""
-            vertical_advance="0.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="9" bbox_x="0"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 6 15 15 6 0 0 0 0 2 14 5 5 14 2 0 0 0 0 0 0 0 0 0 0 0 15 15 15 15 15 15 15 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 15 15 15 15 15 15 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 15 15 15 15 15 15 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="203" height="12.0"
-            horizontal_advance="9.0" index="203" name=""
-            vertical_advance="0.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="14" bbox_width="9" bbox_x="0"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 15 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0 15 15 15 15 15 15 15 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 15 15 15 15 15 15 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 15 15 15 15 15 15 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="204" height="13.0"
-            horizontal_advance="3.0" index="204" name=""
-            vertical_advance="0.0" width="3.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="4" bbox_x="-1"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 12 4 0 0 4 12 0 0 0 0 0 0 0 15 0 0 0 15 0 0 0 15 0 0 0 15 0 0 0 15 0 0 0 15 0 0 0 15 0 0 0 15 0 0 0 15 0 0 0 15 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="205" height="13.0"
-            horizontal_advance="3.0" index="205" name=""
-            vertical_advance="0.0" width="3.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="4" bbox_x="0"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 4 12 0 0 12 4 0 0 0 0 0 0 15 0 0 0 15 0 0 0 15 0 0 0 15 0 0 0 15 0 0 0 15 0 0 0 15 0 0 0 15 0 0 0 15 0 0 0 15 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="206" height="13.0"
-            horizontal_advance="3.0" index="206" name=""
-            vertical_advance="0.0" width="3.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="8" bbox_x="-2"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 6 15 15 6 0 0 0 2 14 5 5 14 2 0 0 0 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="207" height="12.0"
-            horizontal_advance="3.0" index="207" name=""
-            vertical_advance="0.0" width="3.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="14" bbox_width="5" bbox_x="-1"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 15 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 15 0 0 0 0 15 0 0 0 0 15 0 0 0 0 15 0 0 0 0 15 0 0 0 0 15 0 0 0 0 15 0 0 0 0 15 0 0 0 0 15 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="208" height="10.0"
-            horizontal_advance="10.0" index="208" name=""
-            vertical_advance="1.0" width="10.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="12" bbox_width="11" bbox_x="-1"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 15 15 15 15 15 15 5 0 0 0 0 15 0 0 0 0 5 15 5 0 0 0 15 0 0 0 0 0 5 15 0 0 0 15 0 0 0 0 0 0 15 0 0 15 15 15 15 15 0 0 0 15 0 0 0 15 0 0 0 0 0 0 15 0 0 0 15 0 0 0 0 0 0 15 0 0 0 15 0 0 0 0 0 5 15 0 0 0 15 0 0 0 0 5 15 5 0 0 0 15 15 15 15 15 15 5 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="209" height="13.0"
-            horizontal_advance="9.0" index="209" name=""
-            vertical_advance="0.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="9" bbox_x="0"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 5 13 7 15 0 0 0 0 0 15 6 12 4 0 0 0 0 0 0 0 0 0 0 0 0 15 5 0 0 0 0 15 0 0 15 13 0 0 0 0 15 0 0 15 6 8 0 0 0 15 0 0 15 0 12 2 0 0 15 0 0 15 0 4 10 0 0 15 0 0 15 0 0 10 4 0 15 0 0 15 0 0 2 12 0 15 0 0 15 0 0 0 8 6 15 0 0 15 0 0 0 0 13 15 0 0 15 0 0 0 0 5 15 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="210" height="13.0"
-            horizontal_advance="11.0" index="210" name=""
-            vertical_advance="0.0" width="11.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="11" bbox_x="0"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 12 4 0 0 0 0 0 0 0 0 0 4 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 14 15 13 8 0 0 0 0 0 12 8 2 0 0 3 11 0 0 0 7 7 0 0 0 0 0 6 8 0 0 12 1 0 0 0 0 0 2 13 0 0 15 0 0 0 0 0 0 0 15 0 0 15 0 0 0 0 0 0 0 15 0 0 12 1 0 0 0 0 0 1 13 0 0 7 7 0 0 0 0 0 5 8 0 0 0 11 7 1 0 1 4 11 0 0 0 0 0 8 13 15 13 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="211" height="13.0"
-            horizontal_advance="11.0" index="211" name=""
-            vertical_advance="0.0" width="11.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="11" bbox_x="0"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 12 0 0 0 0 0 0 0 0 0 12 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 14 15 13 8 0 0 0 0 0 12 8 2 0 0 3 11 0 0 0 7 7 0 0 0 0 0 6 8 0 0 12 1 0 0 0 0 0 2 13 0 0 15 0 0 0 0 0 0 0 15 0 0 15 0 0 0 0 0 0 0 15 0 0 12 1 0 0 0 0 0 1 13 0 0 7 7 0 0 0 0 0 5 8 0 0 0 11 7 1 0 1 4 11 0 0 0 0 0 8 13 15 13 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="212" height="13.0"
-            horizontal_advance="11.0" index="212" name=""
-            vertical_advance="0.0" width="11.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="11" bbox_x="0"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 15 15 6 0 0 0 0 0 0 2 14 5 5 14 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 14 15 13 8 0 0 0 0 0 12 8 2 0 0 3 11 0 0 0 7 7 0 0 0 0 0 6 8 0 0 12 1 0 0 0 0 0 2 13 0 0 15 0 0 0 0 0 0 0 15 0 0 15 0 0 0 0 0 0 0 15 0 0 12 1 0 0 0 0 0 1 13 0 0 7 7 0 0 0 0 0 5 8 0 0 0 11 7 1 0 1 4 11 0 0 0 0 0 8 13 15 13 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="213" height="13.0"
-            horizontal_advance="11.0" index="213" name=""
-            vertical_advance="0.0" width="11.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="11" bbox_x="0"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 13 7 15 0 0 0 0 0 0 0 15 6 12 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 14 15 13 8 0 0 0 0 0 12 8 2 0 0 3 11 0 0 0 7 7 0 0 0 0 0 6 8 0 0 12 1 0 0 0 0 0 2 13 0 0 15 0 0 0 0 0 0 0 15 0 0 15 0 0 0 0 0 0 0 15 0 0 12 1 0 0 0 0 0 1 13 0 0 7 7 0 0 0 0 0 5 8 0 0 0 11 7 1 0 1 4 11 0 0 0 0 0 8 13 15 13 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="214" height="12.0"
-            horizontal_advance="11.0" index="214" name=""
-            vertical_advance="0.0" width="11.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="14" bbox_width="11" bbox_x="0"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 15 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 14 15 13 8 0 0 0 0 0 12 8 2 0 0 3 11 0 0 0 7 7 0 0 0 0 0 6 8 0 0 12 1 0 0 0 0 0 2 13 0 0 15 0 0 0 0 0 0 0 15 0 0 15 0 0 0 0 0 0 0 15 0 0 12 1 0 0 0 0 0 1 13 0 0 7 7 0 0 0 0 0 5 8 0 0 0 11 7 1 0 1 4 11 0 0 0 0 0 8 13 15 13 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
         <character code_point="215" height="8.0"
             horizontal_advance="8.0" index="215" name=""
             vertical_advance="3.0" width="8.0">
@@ -1371,78 +971,6 @@ bbox_y="-2" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
             <bitmaps>
                 <bitmap bbox_height="9" bbox_width="10" bbox_x="0"
                     bbox_y="0" line_width="3">0 0 0 0 0 0 0 0 0 0 0 8 5 0 0 0 5 12 0 0 0 5 15 7 0 5 14 2 0 0 0 0 5 15 11 14 2 0 0 0 0 0 0 9 15 6 0 0 0 0 0 0 5 15 11 14 2 0 0 0 0 5 15 6 0 5 14 2 0 0 0 9 3 0 0 0 5 12 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="216" height="11.0"
-            horizontal_advance="11.0" index="216" name=""
-            vertical_advance="1.0" width="11.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="14" bbox_width="11" bbox_x="0"
-                    bbox_y="-2" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 8 13 15 14 11 9 8 0 0 0 11 5 1 0 2 10 15 5 0 0 6 7 0 0 0 1 13 10 9 0 0 12 3 0 0 0 11 5 2 13 0 0 14 1 0 0 7 7 0 0 15 0 0 15 0 0 3 9 0 0 0 14 0 0 14 3 0 9 0 0 0 1 12 0 0 9 7 7 0 0 0 0 6 8 0 0 3 15 8 2 0 1 5 14 2 0 0 11 6 10 14 15 14 12 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="217" height="13.0"
-            horizontal_advance="9.0" index="217" name=""
-            vertical_advance="0.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="9" bbox_x="0"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 12 4 0 0 0 0 0 0 0 4 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 12 3 0 0 0 3 12 0 0 6 12 2 0 2 12 6 0 0 0 6 13 15 13 6 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="218" height="13.0"
-            horizontal_advance="9.0" index="218" name=""
-            vertical_advance="0.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="9" bbox_x="0"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 4 12 0 0 0 0 0 0 0 12 4 0 0 0 0 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 12 3 0 0 0 3 12 0 0 6 12 2 0 2 12 6 0 0 0 6 13 15 13 6 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="219" height="13.0"
-            horizontal_advance="9.0" index="219" name=""
-            vertical_advance="0.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="9" bbox_x="0"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 6 15 15 6 0 0 0 0 2 14 5 5 14 2 0 0 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 12 3 0 0 0 3 12 0 0 6 12 2 0 2 12 6 0 0 0 6 13 15 13 6 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="220" height="12.0"
-            horizontal_advance="9.0" index="220" name=""
-            vertical_advance="0.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="14" bbox_width="9" bbox_x="0"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 15 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 15 0 0 0 0 0 15 0 0 12 3 0 0 0 3 12 0 0 6 12 2 0 2 12 6 0 0 0 6 13 15 13 6 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="221" height="13.0"
-            horizontal_advance="9.0" index="221" name=""
-            vertical_advance="0.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="11" bbox_x="-1"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 12 0 0 0 0 0 0 0 0 0 12 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 10 5 0 0 0 0 0 5 10 0 0 1 13 1 0 0 0 1 13 1 0 0 0 4 11 0 0 0 11 4 0 0 0 0 0 9 6 0 6 9 0 0 0 0 0 0 0 12 4 12 0 0 0 0 0 0 0 0 3 15 3 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="222" height="10.0"
-            horizontal_advance="9.0" index="222" name=""
-            vertical_advance="1.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="12" bbox_width="9" bbox_x="0"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 15 15 15 15 14 9 1 0 0 15 0 0 0 1 9 10 0 0 15 0 0 0 0 1 15 0 0 15 0 0 0 0 1 14 0 0 15 0 0 0 1 10 9 0 0 15 15 15 15 14 9 0 0 0 15 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="223" height="10.0"
-            horizontal_advance="9.0" index="223" name=""
-            vertical_advance="1.0" width="9.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="12" bbox_width="9" bbox_x="0"
-                    bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 0 5 15 15 15 5 0 0 0 5 15 5 0 5 15 0 0 0 15 5 0 0 6 13 0 0 0 15 0 0 5 15 4 0 0 0 15 0 0 14 6 0 0 0 0 15 0 0 7 13 3 0 0 0 15 0 0 0 3 13 6 0 0 15 0 0 0 0 2 15 0 0 15 0 13 5 0 5 15 0 0 15 0 5 15 15 15 5 0 0 0 0 0 0 0 0 0 0</bitmap>
             </bitmaps>
         </character>
         <character code_point="224" height="11.0"
@@ -1704,33 +1232,6 @@ bbox_y="-2" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
             <bitmaps>
                 <bitmap bbox_height="12" bbox_width="8" bbox_x="0"
                     bbox_y="-1" line_width="3">0 0 0 0 0 0 0 0 0 0 15 0 15 0 0 0 0 0 0 0 0 0 0 0 0 15 0 0 0 0 15 0 0 15 0 0 0 0 15 0 0 15 0 0 0 0 15 0 0 15 0 0 0 0 15 0 0 15 0 0 0 0 15 0 0 15 0 0 0 2 15 0 0 15 5 0 2 11 15 0 0 5 15 15 13 4 15 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="253" height="11.0"
-            horizontal_advance="7.0" index="253" name=""
-            vertical_advance="-1.0" width="7.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="16" bbox_width="11" bbox_x="-2"
-                    bbox_y="-4" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 12 0 0 0 0 0 0 0 0 0 12 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 13 0 0 0 0 0 14 1 0 0 0 12 4 0 0 0 6 10 0 0 0 0 5 11 0 0 0 12 3 0 0 0 0 0 14 2 0 3 13 0 0 0 0 0 0 7 9 0 10 6 0 0 0 0 0 0 1 15 2 14 0 0 0 0 0 0 0 0 10 11 9 0 0 0 0 0 0 0 0 3 15 3 0 0 0 0 0 0 0 0 2 13 0 0 0 0 0 0 0 0 0 8 8 0 0 0 0 0 0 0 0 15 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="254" height="10.0"
-            horizontal_advance="8.0" index="254" name=""
-            vertical_advance="0.0" width="8.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="8" bbox_x="0"
-                    bbox_y="-4" line_width="3">0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 15 7 14 15 5 0 0 0 15 12 2 5 15 5 0 0 15 3 0 0 5 15 0 0 15 0 0 0 0 15 0 0 15 0 0 0 0 15 0 0 15 2 0 0 5 15 0 0 15 11 1 5 15 5 0 0 15 7 14 15 5 0 0 0 15 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
-            </bitmaps>
-        </character>
-        <character code_point="255" height="10.0"
-            horizontal_advance="7.0" index="255" name=""
-            vertical_advance="0.0" width="7.0">
-            <lines/>
-            <bitmaps>
-                <bitmap bbox_height="15" bbox_width="11" bbox_x="-2"
-                    bbox_y="-4" line_width="3">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 15 0 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 13 0 0 0 0 0 14 1 0 0 0 12 4 0 0 0 6 10 0 0 0 0 5 11 0 0 0 12 3 0 0 0 0 0 14 2 0 3 13 0 0 0 0 0 0 7 9 0 10 6 0 0 0 0 0 0 1 15 2 14 0 0 0 0 0 0 0 0 10 11 9 0 0 0 0 0 0 0 0 3 15 3 0 0 0 0 0 0 0 0 2 13 0 0 0 0 0 0 0 0 0 8 8 0 0 0 0 0 0 0 0 15 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</bitmap>
             </bitmaps>
         </character>
     </characters>

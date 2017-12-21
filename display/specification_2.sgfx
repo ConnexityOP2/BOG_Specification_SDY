@@ -457,7 +457,7 @@
                         </rotate>
                         <orientation clockwise="false"/>
                         <file name="Vanne_Reglante_Mid.ogfx" path="."/>
-                        <crc value="4010941621"/>
+                        <crc value="4247124217"/>
                         <inputParameters>
                             <parameter control="false" name="Orientation" oid="2d7a0d17-1527-48a2-b2b3-0595450e8e67" representation="index" type="int">
                                 <init>1</init>
@@ -466,6 +466,9 @@
                                 <init>false</init>
                             </parameter>
                         </inputParameters>
+                        <outputParameters>
+                            <parameter name="Inside" oid="b5de3388-57c0-43df-ba90-2085794ec6a5" type="bool"/>
+                        </outputParameters>
                     </properties>
                     <children/>
                 </referenceContainer>
@@ -551,10 +554,63 @@
                     </properties>
                     <children/>
                 </referenceContainer>
+                <referenceContainer oid="dc7877b3-336f-4804-be70-a8d727055e20">
+                    <pathFromRoot value="11"/>
+                    <properties modular="false" name="Vanne_Reglante_Root">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>-439.0</init>
+                            </x>
+                            <y>
+                                <init>274.0</init>
+                            </y>
+                        </origin>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <file name="Vanne_Reglante_Root.ogfx" path="."/>
+                        <crc value="705297032"/>
+                        <inputParameters>
+                            <parameter control="false" name="a_Orientation" oid="ac865db3-06ab-40fb-ab7a-d72888f01406" representation="index" type="int">
+                                <init>1</init>
+                            </parameter>
+                            <parameter control="false" name="a_Defaut" oid="9cdd9886-f497-4ec1-9184-b9cd15921bee" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="true" name="a_PosXCommand" oid="e0dbdea5-1a35-4e7e-bfe4-89a2f61e0013" type="real">
+                                <init>-2.0</init>
+                            </parameter>
+                            <parameter control="true" name="a_PosYCommand" oid="8164116b-5a86-4fed-8f12-502c28d85328" type="real">
+                                <init>-94.0</init>
+                            </parameter>
+                            <parameter control="false" name="s_PopUp_In" oid="d11c55d3-3160-4ef7-acfe-992465a8b571" type="bool">
+                                <init>false</init>
+                            </parameter>
+                        </inputParameters>
+                        <outputParameters>
+                            <parameter name="s_PopUp_Out" oid="bef3839f-d175-424f-bd0d-0e407ad527a1" type="bool"/>
+                        </outputParameters>
+                    </properties>
+                    <children/>
+                </referenceContainer>
             </children>
         </layer>
     </children>
 </specification>
 
-<!-- crc32 : 1173226004 -->
+<!-- crc32 : 2265262112 -->
 

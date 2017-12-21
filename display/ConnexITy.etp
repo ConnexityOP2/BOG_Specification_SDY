@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Project id="1" oid_count="308">
+<Project id="1" oid_count="328">
 	<props>
 		<Prop id="1" name="@STUDIO:PRODUCT">
 			<value>DISPLAY</value>
@@ -537,6 +537,13 @@ $(CreatedDate)</value>
 						<Prop id="174" name="@SDY:MODELCATEGORY">
 							<value>_Objets Elementaires</value>
 						</Prop>
+						<Prop id="311" name="@SDY:MODELDEFINITIONS"/>
+						<Prop id="312" name="@SDY:MODELEXTINCLUDES"/>
+						<Prop id="313" name="@SDY:MODELEXTSOURCES"/>
+						<Prop id="314" name="@SDY:MODELEXTLIBRARIES"/>
+						<Prop id="315" name="@SDY:MODELDYNAMICLIBRARY">
+							<value>%ModelName%.dll</value>
+						</Prop>
 					</props>
 				</FileRef>
 				<FileRef id="179" persistAs="auto_manu_v2.ogfx">
@@ -750,6 +757,48 @@ $(CreatedDate)</value>
 				<FileRef id="286" persistAs="Slider.ogfx">
 					<props>
 						<Prop id="287" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="309" persistAs="Vanne_Reglante_Root.ogfx">
+					<props>
+						<Prop id="310" name="@SDY:MODELCATEGORY">
+							<value>VANNES</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="316" persistAs="T_frame.ogfx">
+					<props>
+						<Prop id="321" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="317" persistAs="t_TextAlignment.ogfx">
+					<props>
+						<Prop id="322" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+						<Prop id="324" name="@SDY:MODELDEFINITIONS"/>
+						<Prop id="325" name="@SDY:MODELEXTINCLUDES"/>
+						<Prop id="326" name="@SDY:MODELEXTSOURCES">
+							<value>GetCharVertAdvance.c</value>
+						</Prop>
+						<Prop id="327" name="@SDY:MODELEXTLIBRARIES"/>
+						<Prop id="328" name="@SDY:MODELDYNAMICLIBRARY"/>
+					</props>
+				</FileRef>
+				<FileRef id="318" persistAs="Symbols.ogfx">
+					<props>
+						<Prop id="320" name="@SDY:MODELCATEGORY">
+							<value>_Objets Elementaires</value>
+						</Prop>
+					</props>
+				</FileRef>
+				<FileRef id="319" persistAs="t_TextSymbol.ogfx">
+					<props>
+						<Prop id="323" name="@SDY:MODELCATEGORY">
 							<value>_Objets Elementaires</value>
 						</Prop>
 					</props>

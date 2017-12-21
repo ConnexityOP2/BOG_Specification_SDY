@@ -41,6 +41,21 @@
 				</Variable>
 			</inputs>
 			<outputs>
+				<Variable name="Press_Button">
+					<type>
+						<NamedType>
+							<type>
+								<TypeRef name="bool"/>
+							</type>
+						</NamedType>
+					</type>
+					<default>
+						<ConstValue value="false"/>
+					</default>
+					<pragmas>
+						<ed:Variable oid="!ed/1f1/6ADA/4150/5a391bf528e9"/>
+					</pragmas>
+				</Variable>
 				<Variable name="Evenement">
 					<type>
 						<NamedType>
@@ -156,6 +171,50 @@
 									</pragmas>
 								</Transition>
 							</unless>
+							<locals>
+								<Variable name="_L1">
+									<type>
+										<NamedType>
+											<type>
+												<TypeRef name="bool"/>
+											</type>
+										</NamedType>
+									</type>
+									<pragmas>
+										<ed:Variable oid="!ed/1fd/6ADA/4150/5a391c0d34d3"/>
+									</pragmas>
+								</Variable>
+							</locals>
+							<data>
+								<!-- Press_Button = _L1; -->
+								<Equation>
+									<lefts>
+										<VariableRef name="Press_Button"/>
+									</lefts>
+									<right>
+										<IdExpression>
+											<path>
+												<ConstVarRef name="_L1"/>
+											</path>
+										</IdExpression>
+									</right>
+									<pragmas>
+										<ed:Equation oid="!ed/1f3/6ADA/4150/5a391c096b87"/>
+									</pragmas>
+								</Equation>
+								<!-- _L1 = true; -->
+								<Equation>
+									<lefts>
+										<VariableRef name="_L1"/>
+									</lefts>
+									<right>
+										<ConstValue value="true"/>
+									</right>
+									<pragmas>
+										<ed:Equation oid="!ed/1fc/6ADA/4150/5a391c0d67cd"/>
+									</pragmas>
+								</Equation>
+							</data>
 							<pragmas>
 								<ed:State oid="!ed/189/16C5/1D18/59d4dac217a6"/>
 							</pragmas>
@@ -203,7 +262,7 @@
 										<Point x="18733" y="6562"/>
 									</positions>
 									<labelSize>
-										<Size width="2964" height="370"/>
+										<Size width="2963" height="370"/>
 									</labelSize>
 									<labelPos>
 										<Point x="12647" y="6668"/>
@@ -246,6 +305,30 @@
 										<Point x="14817" y="9287"/>
 									</slashPos>
 								</TransitionGE>
+								<EquationGE presentable="!ed/1f3/6ADA/4150/5a391c096b87">
+									<position>
+										<Point x="21087" y="6482"/>
+									</position>
+									<size>
+										<Size width="318" height="503"/>
+									</size>
+								</EquationGE>
+								<EquationGE kind="OBJ_LIT" presentable="!ed/1fc/6ADA/4150/5a391c0d67cd">
+									<position>
+										<Point x="19976" y="6588"/>
+									</position>
+									<size>
+										<Size width="212" height="317"/>
+									</size>
+								</EquationGE>
+								<Edge leftVarIndex="1" rightExprIndex="1" srcEquation="!ed/1fc/6ADA/4150/5a391c0d67cd" dstEquation="!ed/1f3/6ADA/4150/5a391c096b87">
+									<positions>
+										<Point x="20188" y="6747"/>
+										<Point x="20664" y="6747"/>
+										<Point x="20664" y="6747"/>
+										<Point x="21140" y="6747"/>
+									</positions>
+								</Edge>
 							</presentationElements>
 						</NetDiagram>
 					</diagrams>

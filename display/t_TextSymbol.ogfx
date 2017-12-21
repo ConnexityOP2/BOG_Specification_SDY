@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?dom version="17.2" ?>
+
+<object>
+    <IDE>
+        <ratio horizontal="1" vertical="1"/>
+        <project path="ConnexITy.etp"/>
+        <preview height="44" width="128">
+            <raw numberOfBytes="917">
+-119,80,78,71,13,10,26,10,0,0,0,13,73,72,68,82,0,0,0,-128,0,0,0,44,8,2,0,0,0,34,-126,39,9,0,0,3,92,73,68,65,84,120,-38,-19,-105,77,72,98,81,20,-57,91,68,-21,-96,77,110,-78,-96,77,-38,78,-123,90,88,-83,67,68,-92,-112,80,-121,-64,-96,34,-95,8,-5,-48,-120,32,-79,54,101,65,11,-87,-36,-108,-104,68,84,80,-117,-88,-95,-81,23,65,6,65,27,35,28,33,-5,-2,-92,4,43,105,86,-13,-89,-57,-124,-51,60,27,98,124,-50,-68,58,-1,-123,92,-18,59,-36,119,61,-65,119,-49,-3,-97,-76,-17,-92,127,-86,52,74,1,1,32,0,36,2,64,0,72,4,-128,0,-112,8,0,1,32,17,0,2,64,34,0,4,-32,23,29,29,29,125,-27,-110,-33,-17,103,3,66,-95,-48,-58,-58,6,37,-108,47,0,35,35,35,105,92,82,40,20,108,64,87,87,87,110,110,46,37,-108,23,0,58,-99,-82,-74,-74,-10,27,-105,-26,-26,-26,-60,98,113,48,24,36,0,-68,0,-72,-71,-71,-23,124,-42,-12,-12,52,103,64,56,28,102,3,-54,-54,-54,-110,11,0,80,59,19,107,127,127,-1,-67,11,-58,98,49,-89,-45,25,8,4,-124,4,0,-7,69,-99,89,90,90,-30,124,122,113,113,-63,-98,3,-92,30,97,-55,5,-64,48,-116,-8,-89,68,34,17,-42,-57,-17,
+-53,-52,-14,-14,-14,123,23,-68,-65,-65,-49,-55,-55,-103,-99,-99,-3,56,0,26,26,26,-30,-17,3,-2,74,-48,-18,-18,46,-42,-33,-34,-34,-2,-101,69,0,0,-117,120,-67,94,33,1,-120,70,-93,-80,58,87,87,87,-100,79,-9,-10,-10,-30,29,17,127,46,-24,13,0,40,71,-107,-107,-107,26,-115,6,-125,-69,-69,59,-52,28,28,28,52,53,53,45,46,46,98,-128,-92,111,109,109,-11,-12,-12,24,-115,70,-91,82,-119,69,10,10,10,-38,-38,-38,-88,15,72,2,-128,-77,-77,-77,-11,-11,117,-121,-61,97,54,-101,77,38,83,115,115,-13,-38,-38,-38,-15,-15,-15,-31,-31,-95,-51,102,-77,-37,-19,-8,38,112,-121,-63,29,116,116,116,52,54,54,26,12,6,44,82,82,82,-46,-41,-41,71,0,-110,0,0,7,14,121,-57,109,124,123,123,-117,-68,79,76,76,-76,-73,-73,-81,-84,-84,-32,-44,98,82,-83,86,15,12,12,-96,125,-55,-53,-53,-101,-100,-100,60,61,61,21,100,9,-6,-97,1,32,-107,-103,-103,-103,-15,51,50,-103,108,120,120,24,-125,-89,-89,39,84,36,-107,74,85,92,92,-36,-46,-46,-62,90,38,65,2,-72,-68,-68,-4,-14,90,-101,-101,-101,-100,-111,51,51,51,40,2,-87,4,48,54,54,-106,-111,-111,17,
+-65,-73,-84,-84,-84,-63,-63,65,22,0,-18,-128,-102,-102,-102,-4,-4,-4,-7,-7,121,-72,53,-95,2,96,93,16,-108,-99,-99,93,-6,-84,68,-114,-120,-41,70,44,17,-128,-12,-12,-12,-46,-41,-14,-7,124,44,0,124,40,-11,-11,-11,-40,-46,-22,-22,-22,-11,-11,-75,-32,1,84,87,87,-65,29,-103,122,0,-65,-105,-96,23,125,-100,18,-60,2,-16,120,60,67,67,67,56,-50,-119,-62,-48,6,-61,105,-64,-10,-91,18,0,60,79,85,85,85,40,20,-126,-5,-60,101,59,62,62,-82,-43,106,-89,-90,-90,-112,104,76,86,84,84,-12,-10,-10,-18,-20,-20,20,22,22,-94,-7,58,63,63,103,1,-116,-114,-114,70,34,17,-31,53,98,-8,-13,-99,111,42,81,105,-30,15,0,-78,12,-25,-45,-33,-33,15,-57,-39,-38,-38,10,71,-44,-35,-35,-115,-54,115,114,114,-126,73,-85,-43,-118,-22,-113,14,6,38,21,86,117,97,97,1,0,36,18,-119,94,-81,119,-69,-35,-126,1,-128,47,11,125,63,-61,48,24,63,60,60,-120,19,40,24,12,-14,-70,-53,64,32,-128,-73,0,67,-4,36,-10,-125,-30,-114,67,32,-105,-53,-91,82,105,121,121,57,2,96,-4,-79,25,76,-62,20,96,0,75,-118,59,-64,98,-79,-72,92,-82,-57,-57,-57,-70,-70,-70,
+-94,-94,-94,63,-106,83,-78,-95,-97,72,4,-128,0,16,0,18,1,32,0,36,2,64,0,72,4,-128,0,-112,8,0,1,32,17,0,2,64,34,0,-97,67,63,0,-114,79,126,-107,-127,122,92,-128,0,0,0,0,73,69,78,68,-82,66,96,-126</raw>
+        </preview>
+    </IDE>
+    <symbology>
+        <dimension height="256" width="256"/>
+    </symbology>
+    <declaration>
+        <inputs>
+            <input name="SizeX" oid="de5cfa7f-660e-4edb-b7a0-42cc6ee029be" type="real">
+                <init>100.0</init>
+            </input>
+            <input name="SizeY" oid="a06509aa-6995-46d3-8d24-6d4459c8ad06" type="real">
+                <init>50.0</init>
+            </input>
+            <input name="Alignment" oid="a8bb3d6a-5586-428e-8542-654a0d9a3541" representation="index" type="int">
+                <init>1</init>
+            </input>
+            <input name="LabelStringLength" oid="a837faeb-45db-4127-bbd4-4719170811d6" type="int">
+                <init>255</init>
+            </input>
+            <input name="LabelString" oid="e7dac290-fe16-40d1-998f-e357e425b36a" representation="as_string" type="char^LabelStringLength">
+                <init>[84, 101, 120, 116, 0]</init>
+            </input>
+            <input name="TextColor" oid="973d4008-bdde-4404-a00c-6542b2c62bca" representation="color" type="int">
+                <init>0</init>
+            </input>
+            <input name="sts_Font" oid="23ac82fd-a087-48de-9120-663fd57124a3" representation="font" type="int">
+                <init>5</init>
+            </input>
+            <input name="SymbolReference" oid="3eca2731-f333-4d92-9c4a-2564b18c2069" type="int">
+                <init>1</init>
+            </input>
+            <input name="SymbolPosition" oid="35773d0c-7492-4eeb-8628-52d4110ea7c1" representation="index" type="int">
+                <init>1</init>
+            </input>
+            <input name="SymbolAreaSize" oid="c95774b2-4f45-437a-bd8f-e0746ec99c63" type="real">
+                <init>50.0</init>
+            </input>
+            <input name="SymbolColor" oid="a2513052-3fd6-448e-a992-535204c740e7" representation="color" type="int">
+                <init>0</init>
+            </input>
+        </inputs>
+    </declaration>
+    <children>
+        <container oid="2030f192-6f13-4e8d-9333-b3f348cd2886">
+            <pathFromRoot value="0"/>
+            <properties name="TextSymbol">
+                <visible>
+                    <init>true</init>
+                </visible>
+                <origin>
+                    <x>
+                        <init>0.0</init>
+                    </x>
+                    <y>
+                        <init>0.0</init>
+                    </y>
+                </origin>
+                <priority>
+                    <init>-1</init>
+                </priority>
+                <scale>
+                    <x>
+                        <init>1.0</init>
+                    </x>
+                    <y>
+                        <init>1.0</init>
+                    </y>
+                </scale>
+                <rotate>
+                    <angle>
+                        <init>0.0</init>
+                    </angle>
+                </rotate>
+                <orientation clockwise="false"/>
+                <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                    <init>false</init>
+                </static>
+            </properties>
+            <children>
+                <condContainer oid="0f5c8bb4-e4a7-4ada-b477-25d46444ff7b">
+                    <pathFromRoot value="0,0"/>
+                    <properties name="SymbolPosition">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>0.0</init>
+                            </x>
+                            <y>
+                                <init>0.0</init>
+                            </y>
+                        </origin>
+                        <priority>
+                            <init>-1</init>
+                        </priority>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <index allVisible="false">
+                            <init>1</init>
+                            <expr>SymbolPosition</expr>
+                        </index>
+                        <indexes default="1">
+                            <index value="1"/>
+                            <index value="2"/>
+                            <index value="3"/>
+                        </indexes>
+                    </properties>
+                    <children>
+                        <container oid="4d260ba5-9583-4428-a8b8-6f1b48196ffa">
+                            <pathFromRoot value="0,0,0"/>
+                            <properties name="Left">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <origin>
+                                    <x>
+                                        <init>0.0</init>
+                                    </x>
+                                    <y>
+                                        <init>0.0</init>
+                                    </y>
+                                </origin>
+                                <priority>
+                                    <init>-1</init>
+                                </priority>
+                                <scale>
+                                    <x>
+                                        <init>1.0</init>
+                                    </x>
+                                    <y>
+                                        <init>1.0</init>
+                                    </y>
+                                </scale>
+                                <rotate>
+                                    <angle>
+                                        <init>0.0</init>
+                                    </angle>
+                                </rotate>
+                                <orientation clockwise="false"/>
+                                <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                                    <init>false</init>
+                                </static>
+                            </properties>
+                            <children>
+                                <referenceContainer oid="bd9f7d3b-4f99-4cac-8e5b-9fb00b775a82">
+                                    <pathFromRoot value="0,0,0,0"/>
+                                    <properties modular="false" name="Symbols">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>25.0</init>
+                                                <expr>SymbolAreaSize / 2.0</expr>
+                                            </x>
+                                            <y>
+                                                <init>25.0</init>
+                                                <expr>SizeY / 2.0</expr>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="Symbols.ogfx" path="."/>
+                                        <crc value="3493603879"/>
+                                        <inputParameters>
+                                            <parameter control="false" name="SymbolReference" oid="00c54d5b-6c7a-433f-98b3-bf4895b2808b" type="int">
+                                                <expr>SymbolReference</expr>
+                                                <init>1</init>
+                                            </parameter>
+                                            <parameter control="false" name="color" oid="ccc41bcb-704a-4949-a7a0-5102d69633c1" representation="color" type="int">
+                                                <expr>SymbolColor</expr>
+                                                <init>0</init>
+                                            </parameter>
+                                        </inputParameters>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                                <referenceContainer oid="49092fb9-5a11-45b9-af41-b9424f9d16f7">
+                                    <pathFromRoot value="1,0,0,0"/>
+                                    <properties modular="false" name="t_TextAlignment">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>50.0</init>
+                                                <expr>SymbolAreaSize</expr>
+                                            </x>
+                                            <y>
+                                                <init>0.0</init>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="t_TextAlignment.ogfx" path="."/>
+                                        <crc value="15174869"/>
+                                        <inputParameters>
+                                            <parameter control="false" name="SizeX" oid="a38a4bf9-30da-4cff-b71b-38b60d811321" type="real">
+                                                <expr>SizeX - SymbolAreaSize</expr>
+                                                <init>50.0</init>
+                                            </parameter>
+                                            <parameter control="false" name="SizeY" oid="3149abb1-dc44-4e74-942a-d4aed6448c71" type="real">
+                                                <expr>SizeY</expr>
+                                                <init>50.0</init>
+                                            </parameter>
+                                            <parameter control="false" name="Alignment" oid="1765c6e6-8c4c-4b57-baec-cb2111c19abb" representation="index" type="int">
+                                                <expr>Alignment</expr>
+                                                <init>1</init>
+                                            </parameter>
+                                            <parameter control="false" name="MaxStringLength" oid="630dd6d3-1b4c-4658-b68e-18097a1bd01c" type="int">
+                                                <expr>LabelStringLength</expr>
+                                                <init>255</init>
+                                            </parameter>
+                                            <parameter control="false" name="LabelString" oid="0779e1b4-f393-4d69-be2d-1e5752540433" representation="as_string" type="char^MaxStringLength">
+                                                <expr>LabelString</expr>
+                                                <init>[84, 101, 120, 116, 0]</init>
+                                            </parameter>
+                                            <parameter control="false" name="ColorIndex" oid="fbbbdc3f-c987-430e-8f76-84c79e01c9e8" representation="color" type="int">
+                                                <expr>TextColor</expr>
+                                                <init>0</init>
+                                            </parameter>
+                                            <parameter control="false" name="sts_Font" oid="bbe83ba7-c5f1-4c12-9e27-639113d69c84" representation="font" type="int">
+                                                <expr>sts_Font</expr>
+                                                <init>5</init>
+                                            </parameter>
+                                        </inputParameters>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                            </children>
+                        </container>
+                        <container oid="21861de3-c42c-48d9-9166-a1fc62ebc7d5">
+                            <pathFromRoot value="1,0,0"/>
+                            <properties name="Right">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <origin>
+                                    <x>
+                                        <init>0.0</init>
+                                    </x>
+                                    <y>
+                                        <init>0.0</init>
+                                    </y>
+                                </origin>
+                                <priority>
+                                    <init>-1</init>
+                                </priority>
+                                <scale>
+                                    <x>
+                                        <init>1.0</init>
+                                    </x>
+                                    <y>
+                                        <init>1.0</init>
+                                    </y>
+                                </scale>
+                                <rotate>
+                                    <angle>
+                                        <init>0.0</init>
+                                    </angle>
+                                </rotate>
+                                <orientation clockwise="false"/>
+                                <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                                    <init>false</init>
+                                </static>
+                            </properties>
+                            <children>
+                                <referenceContainer oid="c1761926-7b76-4277-9c02-5a67352fc3d2">
+                                    <pathFromRoot value="0,1,0,0"/>
+                                    <properties modular="false" name="Symbols">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>75.0</init>
+                                                <expr>SizeX - (SymbolAreaSize / 2.0)</expr>
+                                            </x>
+                                            <y>
+                                                <init>25.0</init>
+                                                <expr>SizeY / 2.0</expr>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="Symbols.ogfx" path="."/>
+                                        <crc value="3493603879"/>
+                                        <inputParameters>
+                                            <parameter control="false" name="SymbolReference" oid="00c54d5b-6c7a-433f-98b3-bf4895b2808b" type="int">
+                                                <expr>SymbolReference</expr>
+                                                <init>1</init>
+                                            </parameter>
+                                            <parameter control="false" name="color" oid="ccc41bcb-704a-4949-a7a0-5102d69633c1" representation="color" type="int">
+                                                <expr>SymbolColor</expr>
+                                                <init>0</init>
+                                            </parameter>
+                                        </inputParameters>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                                <referenceContainer oid="1d1c40a5-c545-476d-86a2-6286277dcf43">
+                                    <pathFromRoot value="1,1,0,0"/>
+                                    <properties modular="false" name="t_TextAlignment">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>0.0</init>
+                                            </x>
+                                            <y>
+                                                <init>0.0</init>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="t_TextAlignment.ogfx" path="."/>
+                                        <crc value="15174869"/>
+                                        <inputParameters>
+                                            <parameter control="false" name="SizeX" oid="a38a4bf9-30da-4cff-b71b-38b60d811321" type="real">
+                                                <expr>SizeX - SymbolAreaSize</expr>
+                                                <init>50.0</init>
+                                            </parameter>
+                                            <parameter control="false" name="SizeY" oid="3149abb1-dc44-4e74-942a-d4aed6448c71" type="real">
+                                                <expr>SizeY</expr>
+                                                <init>50.0</init>
+                                            </parameter>
+                                            <parameter control="false" name="Alignment" oid="1765c6e6-8c4c-4b57-baec-cb2111c19abb" representation="index" type="int">
+                                                <expr>Alignment</expr>
+                                                <init>2</init>
+                                            </parameter>
+                                            <parameter control="false" name="MaxStringLength" oid="630dd6d3-1b4c-4658-b68e-18097a1bd01c" type="int">
+                                                <expr>LabelStringLength</expr>
+                                                <init>255</init>
+                                            </parameter>
+                                            <parameter control="false" name="LabelString" oid="0779e1b4-f393-4d69-be2d-1e5752540433" representation="as_string" type="char^MaxStringLength">
+                                                <expr>LabelString</expr>
+                                                <init>[84, 101, 120, 116, 0]</init>
+                                            </parameter>
+                                            <parameter control="false" name="ColorIndex" oid="fbbbdc3f-c987-430e-8f76-84c79e01c9e8" representation="color" type="int">
+                                                <expr>TextColor</expr>
+                                                <init>0</init>
+                                            </parameter>
+                                            <parameter control="false" name="sts_Font" oid="bbe83ba7-c5f1-4c12-9e27-639113d69c84" representation="font" type="int">
+                                                <expr>sts_Font</expr>
+                                                <init>5</init>
+                                            </parameter>
+                                        </inputParameters>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                            </children>
+                        </container>
+                        <container oid="e798a920-d4fd-41a3-b293-f48736dcc6e0">
+                            <pathFromRoot value="2,0,0"/>
+                            <properties name="Center">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <origin>
+                                    <x>
+                                        <init>0.0</init>
+                                    </x>
+                                    <y>
+                                        <init>0.0</init>
+                                    </y>
+                                </origin>
+                                <priority>
+                                    <init>-1</init>
+                                </priority>
+                                <scale>
+                                    <x>
+                                        <init>1.0</init>
+                                    </x>
+                                    <y>
+                                        <init>1.0</init>
+                                    </y>
+                                </scale>
+                                <rotate>
+                                    <angle>
+                                        <init>0.0</init>
+                                    </angle>
+                                </rotate>
+                                <orientation clockwise="false"/>
+                                <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                                    <init>false</init>
+                                </static>
+                            </properties>
+                            <children>
+                                <referenceContainer oid="9391fdf5-59b3-4158-b19d-c456184f9841">
+                                    <pathFromRoot value="0,2,0,0"/>
+                                    <properties modular="false" name="Symbols">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>50.0</init>
+                                                <expr>SizeX / 2.0</expr>
+                                            </x>
+                                            <y>
+                                                <init>25.0</init>
+                                                <expr>SizeY / 2.0</expr>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="Symbols.ogfx" path="."/>
+                                        <crc value="3493603879"/>
+                                        <inputParameters>
+                                            <parameter control="false" name="SymbolReference" oid="00c54d5b-6c7a-433f-98b3-bf4895b2808b" type="int">
+                                                <expr>SymbolReference</expr>
+                                                <init>1</init>
+                                            </parameter>
+                                            <parameter control="false" name="color" oid="ccc41bcb-704a-4949-a7a0-5102d69633c1" representation="color" type="int">
+                                                <expr>SymbolColor</expr>
+                                                <init>0</init>
+                                            </parameter>
+                                        </inputParameters>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                                <referenceContainer oid="f42eee9a-de86-4710-8231-4fcb4959c985">
+                                    <pathFromRoot value="1,2,0,0"/>
+                                    <properties modular="false" name="t_TextAlignment">
+                                        <visible>
+                                            <init>true</init>
+                                        </visible>
+                                        <origin>
+                                            <x>
+                                                <init>0.0</init>
+                                            </x>
+                                            <y>
+                                                <init>0.0</init>
+                                            </y>
+                                        </origin>
+                                        <scale>
+                                            <x>
+                                                <init>1.0</init>
+                                            </x>
+                                            <y>
+                                                <init>1.0</init>
+                                            </y>
+                                        </scale>
+                                        <rotate>
+                                            <angle>
+                                                <init>0.0</init>
+                                            </angle>
+                                        </rotate>
+                                        <orientation clockwise="false"/>
+                                        <file name="t_TextAlignment.ogfx" path="."/>
+                                        <crc value="15174869"/>
+                                        <inputParameters>
+                                            <parameter control="false" name="SizeX" oid="a38a4bf9-30da-4cff-b71b-38b60d811321" type="real">
+                                                <expr>SizeX</expr>
+                                                <init>100.0</init>
+                                            </parameter>
+                                            <parameter control="false" name="SizeY" oid="3149abb1-dc44-4e74-942a-d4aed6448c71" type="real">
+                                                <expr>SizeY</expr>
+                                                <init>50.0</init>
+                                            </parameter>
+                                            <parameter control="false" name="Alignment" oid="1765c6e6-8c4c-4b57-baec-cb2111c19abb" representation="index" type="int">
+                                                <expr>Alignment</expr>
+                                                <init>3</init>
+                                            </parameter>
+                                            <parameter control="false" name="MaxStringLength" oid="630dd6d3-1b4c-4658-b68e-18097a1bd01c" type="int">
+                                                <expr>LabelStringLength</expr>
+                                                <init>255</init>
+                                            </parameter>
+                                            <parameter control="false" name="LabelString" oid="0779e1b4-f393-4d69-be2d-1e5752540433" representation="as_string" type="char^MaxStringLength">
+                                                <expr>LabelString</expr>
+                                                <init>[84, 101, 120, 116, 0]</init>
+                                            </parameter>
+                                            <parameter control="false" name="ColorIndex" oid="fbbbdc3f-c987-430e-8f76-84c79e01c9e8" representation="color" type="int">
+                                                <expr>TextColor</expr>
+                                                <init>0</init>
+                                            </parameter>
+                                            <parameter control="false" name="sts_Font" oid="bbe83ba7-c5f1-4c12-9e27-639113d69c84" representation="font" type="int">
+                                                <expr>sts_Font</expr>
+                                                <init>5</init>
+                                            </parameter>
+                                        </inputParameters>
+                                    </properties>
+                                    <children/>
+                                </referenceContainer>
+                            </children>
+                        </container>
+                    </children>
+                </condContainer>
+            </children>
+        </container>
+    </children>
+</object>
+
+<!-- crc32 : 759454308 -->
+

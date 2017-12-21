@@ -13,7 +13,13 @@
     <children>
         <layer oid="a3f7f4b1-f119-4bf6-b499-e82d434cb9d4">
             <pathFromRoot value=""/>
-            <declaration/>
+            <declaration>
+                <locals>
+                    <local memory="true" name="S_PopUp" oid="8b529e09-e22a-4733-ba28-d2b25d2ac064" type="bool">
+                        <init>false</init>
+                    </local>
+                </locals>
+            </declaration>
             <properties name="symbology_layer">
                 <visible>
                     <init>true</init>
@@ -32,101 +38,119 @@
                 <ratio horizontal="1" vertical="1"/>
             </properties>
             <children>
-                <line oid="fc092649-0c41-4367-878a-41d3808f4207">
+                <referenceContainer oid="eb5562e0-9f6f-4b52-8312-e34288d79fd1">
                     <pathFromRoot value="0"/>
-                    <properties name="line">
+                    <properties modular="false" name="Vanne_Reglante_Root_G">
                         <visible>
                             <init>true</init>
                         </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>360.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>360.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>0</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
+                        <origin>
+                            <x>
+                                <init>-232.0</init>
+                            </x>
+                            <y>
+                                <init>-177.0</init>
+                            </y>
+                        </origin>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <file name="Vanne_Reglante_Root.ogfx" path="."/>
+                        <crc value="705297032"/>
+                        <inputParameters>
+                            <parameter control="false" name="a_Orientation" oid="ac865db3-06ab-40fb-ab7a-d72888f01406" representation="index" type="int">
+                                <init>1</init>
+                            </parameter>
+                            <parameter control="false" name="a_Defaut" oid="9cdd9886-f497-4ec1-9184-b9cd15921bee" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="true" name="a_PosXCommand" oid="e0dbdea5-1a35-4e7e-bfe4-89a2f61e0013" type="real">
+                                <init>92.5</init>
+                            </parameter>
+                            <parameter control="true" name="a_PosYCommand" oid="8164116b-5a86-4fed-8f12-502c28d85328" type="real">
+                                <init>9.5</init>
+                            </parameter>
+                            <parameter control="false" name="s_PopUp_In" oid="d11c55d3-3160-4ef7-acfe-992465a8b571" type="bool">
+                                <expr>S_PopUp</expr>
+                                <init>false</init>
+                            </parameter>
+                        </inputParameters>
+                        <outputParameters>
+                            <parameter name="s_PopUp_Out" oid="bef3839f-d175-424f-bd0d-0e407ad527a1" type="bool">
+                                <expr>S_PopUp</expr>
+                            </parameter>
+                        </outputParameters>
                     </properties>
-                </line>
-                <line oid="ccd3894e-bd7e-4a8a-8876-c71683e10571">
+                    <children/>
+                </referenceContainer>
+                <referenceContainer oid="47c0b9af-ca80-44ea-91ba-b21b3682582e">
                     <pathFromRoot value="1"/>
-                    <properties name="line">
+                    <properties modular="false" name="Vanne_Reglante_Root_D">
                         <visible>
                             <init>true</init>
                         </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>340.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>340.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>1</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
+                        <origin>
+                            <x>
+                                <init>117.0</init>
+                            </x>
+                            <y>
+                                <init>-177.0</init>
+                            </y>
+                        </origin>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <file name="Vanne_Reglante_Root.ogfx" path="."/>
+                        <crc value="705297032"/>
+                        <inputParameters>
+                            <parameter control="false" name="a_Orientation" oid="ac865db3-06ab-40fb-ab7a-d72888f01406" representation="index" type="int">
+                                <init>1</init>
+                            </parameter>
+                            <parameter control="false" name="a_Defaut" oid="9cdd9886-f497-4ec1-9184-b9cd15921bee" type="bool">
+                                <init>false</init>
+                            </parameter>
+                            <parameter control="true" name="a_PosXCommand" oid="e0dbdea5-1a35-4e7e-bfe4-89a2f61e0013" type="real">
+                                <init>0.0</init>
+                            </parameter>
+                            <parameter control="true" name="a_PosYCommand" oid="8164116b-5a86-4fed-8f12-502c28d85328" type="real">
+                                <init>0.0</init>
+                            </parameter>
+                            <parameter control="false" name="s_PopUp_In" oid="d11c55d3-3160-4ef7-acfe-992465a8b571" type="bool">
+                                <expr>S_PopUp</expr>
+                                <init>false</init>
+                            </parameter>
+                        </inputParameters>
+                        <outputParameters>
+                            <parameter name="s_PopUp_Out" oid="bef3839f-d175-424f-bd0d-0e407ad527a1" type="bool">
+                                <expr>S_PopUp</expr>
+                            </parameter>
+                        </outputParameters>
                     </properties>
-                </line>
-                <line oid="8fec3ead-abd9-4f9e-977d-cbec4a7ade1b">
+                    <children/>
+                </referenceContainer>
+                <line oid="7ef5e615-a0d9-4d31-9239-cafee6998cdd">
                     <pathFromRoot value="2"/>
                     <properties name="line">
                         <visible>
@@ -135,18 +159,18 @@
                         <points>
                             <point>
                                 <x>
-                                    <init>-480.0</init>
+                                    <init>-212.0</init>
                                 </x>
                                 <y>
-                                    <init>320.0</init>
+                                    <init>-177.0</init>
                                 </y>
                             </point>
                             <point>
                                 <x>
-                                    <init>-420.0</init>
+                                    <init>96.5</init>
                                 </x>
                                 <y>
-                                    <init>320.0</init>
+                                    <init>-177.0</init>
                                 </y>
                             </point>
                         </points>
@@ -157,7 +181,7 @@
                             <init>0</init>
                         </lineStipple>
                         <lineCap>
-                            <init>round</init>
+                            <init>square</init>
                         </lineCap>
                         <haloing>
                             <init>false</init>
@@ -166,14 +190,14 @@
                             <init>-1</init>
                         </haloColor>
                         <outlineColor>
-                            <init>2</init>
+                            <init>5</init>
                         </outlineColor>
                         <outlineOpacity>
                             <init>255</init>
                         </outlineOpacity>
                     </properties>
                 </line>
-                <line oid="90b84a22-9060-4b6b-a17e-4d1557557db4">
+                <line oid="bf7fc405-5d98-4f94-bc92-1c480d0554ef">
                     <pathFromRoot value="3"/>
                     <properties name="line">
                         <visible>
@@ -182,18 +206,18 @@
                         <points>
                             <point>
                                 <x>
-                                    <init>-480.0</init>
+                                    <init>-264.0</init>
                                 </x>
                                 <y>
-                                    <init>300.0</init>
+                                    <init>-177.0</init>
                                 </y>
                             </point>
                             <point>
                                 <x>
-                                    <init>-420.0</init>
+                                    <init>-252.0</init>
                                 </x>
                                 <y>
-                                    <init>300.0</init>
+                                    <init>-177.0</init>
                                 </y>
                             </point>
                         </points>
@@ -204,7 +228,7 @@
                             <init>0</init>
                         </lineStipple>
                         <lineCap>
-                            <init>round</init>
+                            <init>square</init>
                         </lineCap>
                         <haloing>
                             <init>false</init>
@@ -213,14 +237,14 @@
                             <init>-1</init>
                         </haloColor>
                         <outlineColor>
-                            <init>3</init>
+                            <init>5</init>
                         </outlineColor>
                         <outlineOpacity>
                             <init>255</init>
                         </outlineOpacity>
                     </properties>
                 </line>
-                <line oid="3555fba0-e129-409d-b8f0-0b32d43945a0">
+                <line oid="8752c20f-5b6e-4049-b6a3-47280fd36cac">
                     <pathFromRoot value="4"/>
                     <properties name="line">
                         <visible>
@@ -229,18 +253,18 @@
                         <points>
                             <point>
                                 <x>
-                                    <init>-480.0</init>
+                                    <init>137.0</init>
                                 </x>
                                 <y>
-                                    <init>280.0</init>
+                                    <init>-177.0</init>
                                 </y>
                             </point>
                             <point>
                                 <x>
-                                    <init>-420.0</init>
+                                    <init>149.0</init>
                                 </x>
                                 <y>
-                                    <init>280.0</init>
+                                    <init>-177.0</init>
                                 </y>
                             </point>
                         </points>
@@ -251,7 +275,7 @@
                             <init>0</init>
                         </lineStipple>
                         <lineCap>
-                            <init>round</init>
+                            <init>square</init>
                         </lineCap>
                         <haloing>
                             <init>false</init>
@@ -260,1598 +284,1871 @@
                             <init>-1</init>
                         </haloColor>
                         <outlineColor>
-                            <init>4</init>
+                            <init>5</init>
                         </outlineColor>
                         <outlineOpacity>
                             <init>255</init>
                         </outlineOpacity>
                     </properties>
                 </line>
-                <line oid="168558a9-8566-41cd-a5e9-c99c05043052">
+                <container oid="932bd28d-5cc1-4ef0-8aa6-474f8352eb79">
                     <pathFromRoot value="5"/>
-                    <properties name="line">
+                    <properties name="group">
                         <visible>
                             <init>true</init>
                         </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>260.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>260.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>5</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <line oid="3c521f2a-2800-4722-9735-99f7ed36b155">
-                    <pathFromRoot value="6"/>
-                    <properties name="line">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>240.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>240.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>6</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <line oid="d17e8fc4-38af-4eea-bae5-1d3baad015cf">
-                    <pathFromRoot value="7"/>
-                    <properties name="line">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>220.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>220.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>7</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <line oid="05808be8-fe28-4a0b-a494-876844b45eb4">
-                    <pathFromRoot value="8"/>
-                    <properties name="line">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>200.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>200.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>8</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <line oid="546d0cde-0b71-4645-942f-a31ef2106c2e">
-                    <pathFromRoot value="9"/>
-                    <properties name="line">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>180.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>180.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>9</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <line oid="2d9d2707-4b44-4071-93ba-9a065a6753ab">
-                    <pathFromRoot value="10"/>
-                    <properties name="line">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>160.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>160.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>10</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <line oid="e3a3764a-53c9-47d7-b685-9a8ff7869ff9">
-                    <pathFromRoot value="11"/>
-                    <properties name="line">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>140.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>140.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>11</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <line oid="922e999a-d451-4dd7-b277-b1279735682c">
-                    <pathFromRoot value="12"/>
-                    <properties name="line">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>120.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>120.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>12</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <line oid="a220940c-b20a-4b2c-940d-9e9c12b8d609">
-                    <pathFromRoot value="13"/>
-                    <properties name="line">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>100.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>100.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>13</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <line oid="78e52a8d-3ece-4caa-8ae0-edba5a98fa29">
-                    <pathFromRoot value="14"/>
-                    <properties name="line">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>80.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>80.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>14</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <line oid="61c66859-ea99-4ab3-8830-06c1c0df16b6">
-                    <pathFromRoot value="15"/>
-                    <properties name="line">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>60.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>60.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>15</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <line oid="d12c9b22-e44f-4e32-83dd-a1fc41138a07">
-                    <pathFromRoot value="16"/>
-                    <properties name="line">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>40.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>40.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>16</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <line oid="fe5c480b-4c51-4591-9969-eab09b3d8d8e">
-                    <pathFromRoot value="17"/>
-                    <properties name="line">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>20.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>20.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>17</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <line oid="e5431261-a6c8-4aae-b149-ffc5a18b170f">
-                    <pathFromRoot value="18"/>
-                    <properties name="line">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>0.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>0.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>18</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <line oid="6fbb81f7-d3d1-4cec-a2e4-a5892c898dc0">
-                    <pathFromRoot value="19"/>
-                    <properties name="line">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>-20.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>-20.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>19</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <line oid="a0deaf33-89f5-474c-8c6c-0b9b6424371d">
-                    <pathFromRoot value="20"/>
-                    <properties name="line">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>-40.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>-40.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>20</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <line oid="45e0d2ff-d4e4-4130-b9d3-98add76b874d">
-                    <pathFromRoot value="21"/>
-                    <properties name="line">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>-60.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>-60.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>21</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <line oid="ba5e0d25-4a2e-430d-9a12-7cd40f9a0263">
-                    <pathFromRoot value="22"/>
-                    <properties name="line">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>-80.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>-80.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>22</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <line oid="fbf34efe-f39d-459e-a5fb-5f3223e60ad5">
-                    <pathFromRoot value="23"/>
-                    <properties name="line">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <points>
-                            <point>
-                                <x>
-                                    <init>-480.0</init>
-                                </x>
-                                <y>
-                                    <init>-100.0</init>
-                                </y>
-                            </point>
-                            <point>
-                                <x>
-                                    <init>-420.0</init>
-                                </x>
-                                <y>
-                                    <init>-100.0</init>
-                                </y>
-                            </point>
-                        </points>
-                        <lineWidth>
-                            <init>4</init>
-                        </lineWidth>
-                        <lineStipple>
-                            <init>0</init>
-                        </lineStipple>
-                        <lineCap>
-                            <init>round</init>
-                        </lineCap>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>-1</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>23</init>
-                        </outlineColor>
-                        <outlineOpacity>
-                            <init>255</init>
-                        </outlineOpacity>
-                    </properties>
-                </line>
-                <text oid="295b1626-2b78-4a42-a720-844f45bfe9b3">
-                    <pathFromRoot value="24"/>
-                    <properties name="text">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <position>
+                        <origin>
                             <x>
-                                <init>-370.0</init>
+                                <init>0.0</init>
                             </x>
                             <y>
-                                <init>350.0</init>
+                                <init>0.0</init>
                             </y>
-                        </position>
-                        <maxLength>
-                            <init>255</init>
-                        </maxLength>
-                        <textValue type="char">
-                            <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
-                        </textValue>
-                        <haloing>
+                        </origin>
+                        <priority>
+                            <init>-1</init>
+                        </priority>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
                             <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>0</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>0</init>
-                        </outlineColor>
-                        <lineWidth>
-                            <init>2</init>
-                        </lineWidth>
-                        <font>
-                            <init>1</init>
-                        </font>
-                        <horizAlign>
-                            <init>left</init>
-                        </horizAlign>
-                        <vertAlign>
-                            <init>bottom</init>
-                        </vertAlign>
+                        </static>
                     </properties>
-                </text>
-                <text oid="2cd710f2-dde0-40b3-ae36-af856ddfbec4">
-                    <pathFromRoot value="25"/>
-                    <properties name="text">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <position>
-                            <x>
-                                <init>-370.0</init>
-                            </x>
-                            <y>
-                                <init>330.0</init>
-                            </y>
-                        </position>
-                        <maxLength>
-                            <init>255</init>
-                        </maxLength>
-                        <textValue type="char">
-                            <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
-                        </textValue>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>0</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>1</init>
-                        </outlineColor>
-                        <lineWidth>
-                            <init>2</init>
-                        </lineWidth>
-                        <font>
-                            <init>3</init>
-                        </font>
-                        <horizAlign>
-                            <init>left</init>
-                        </horizAlign>
-                        <vertAlign>
-                            <init>bottom</init>
-                        </vertAlign>
-                    </properties>
-                </text>
-                <text oid="5044603b-e554-4abe-9711-f54a98ef5562">
-                    <pathFromRoot value="26"/>
-                    <properties name="text">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <position>
-                            <x>
-                                <init>-370.0</init>
-                            </x>
-                            <y>
-                                <init>310.0</init>
-                            </y>
-                        </position>
-                        <maxLength>
-                            <init>255</init>
-                        </maxLength>
-                        <textValue type="char">
-                            <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
-                        </textValue>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>0</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>2</init>
-                        </outlineColor>
-                        <lineWidth>
-                            <init>2</init>
-                        </lineWidth>
-                        <font>
-                            <init>5</init>
-                        </font>
-                        <horizAlign>
-                            <init>left</init>
-                        </horizAlign>
-                        <vertAlign>
-                            <init>bottom</init>
-                        </vertAlign>
-                    </properties>
-                </text>
-                <text oid="d4cea28c-adc7-4098-bf57-094bc58db5fe">
-                    <pathFromRoot value="27"/>
-                    <properties name="text">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <position>
-                            <x>
-                                <init>-370.0</init>
-                            </x>
-                            <y>
-                                <init>290.0</init>
-                            </y>
-                        </position>
-                        <maxLength>
-                            <init>255</init>
-                        </maxLength>
-                        <textValue type="char">
-                            <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
-                        </textValue>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>0</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>3</init>
-                        </outlineColor>
-                        <lineWidth>
-                            <init>2</init>
-                        </lineWidth>
-                        <font>
-                            <init>7</init>
-                        </font>
-                        <horizAlign>
-                            <init>left</init>
-                        </horizAlign>
-                        <vertAlign>
-                            <init>bottom</init>
-                        </vertAlign>
-                    </properties>
-                </text>
-                <text oid="03d62ab3-10c4-4f8a-bde9-9cdb316b204a">
-                    <pathFromRoot value="28"/>
-                    <properties name="text">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <position>
-                            <x>
-                                <init>-370.0</init>
-                            </x>
-                            <y>
-                                <init>260.0</init>
-                            </y>
-                        </position>
-                        <maxLength>
-                            <init>255</init>
-                        </maxLength>
-                        <textValue type="char">
-                            <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
-                        </textValue>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>0</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>5</init>
-                        </outlineColor>
-                        <lineWidth>
-                            <init>2</init>
-                        </lineWidth>
-                        <font>
-                            <init>2</init>
-                        </font>
-                        <horizAlign>
-                            <init>left</init>
-                        </horizAlign>
-                        <vertAlign>
-                            <init>bottom</init>
-                        </vertAlign>
-                    </properties>
-                </text>
-                <text oid="ee79f089-8128-4d1e-a746-2f20b1d5c709">
-                    <pathFromRoot value="29"/>
-                    <properties name="text">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <position>
-                            <x>
-                                <init>-370.0</init>
-                            </x>
-                            <y>
-                                <init>230.0</init>
-                            </y>
-                        </position>
-                        <maxLength>
-                            <init>255</init>
-                        </maxLength>
-                        <textValue type="char">
-                            <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
-                        </textValue>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>0</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>6</init>
-                        </outlineColor>
-                        <lineWidth>
-                            <init>2</init>
-                        </lineWidth>
-                        <font>
-                            <init>4</init>
-                        </font>
-                        <horizAlign>
-                            <init>left</init>
-                        </horizAlign>
-                        <vertAlign>
-                            <init>bottom</init>
-                        </vertAlign>
-                    </properties>
-                </text>
-                <text oid="39e8c245-16da-4240-bcdc-4cb5f6198c8c">
-                    <pathFromRoot value="30"/>
-                    <properties name="text">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <position>
-                            <x>
-                                <init>-370.0</init>
-                            </x>
-                            <y>
-                                <init>200.0</init>
-                            </y>
-                        </position>
-                        <maxLength>
-                            <init>255</init>
-                        </maxLength>
-                        <textValue type="char">
-                            <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
-                        </textValue>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>0</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>11</init>
-                        </outlineColor>
-                        <lineWidth>
-                            <init>2</init>
-                        </lineWidth>
-                        <font>
-                            <init>6</init>
-                        </font>
-                        <horizAlign>
-                            <init>left</init>
-                        </horizAlign>
-                        <vertAlign>
-                            <init>bottom</init>
-                        </vertAlign>
-                    </properties>
-                </text>
-                <text oid="2a2fa768-95b4-485e-be6e-37f4c9162d29">
-                    <pathFromRoot value="31"/>
-                    <properties name="text">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <position>
-                            <x>
-                                <init>-370.0</init>
-                            </x>
-                            <y>
-                                <init>170.0</init>
-                            </y>
-                        </position>
-                        <maxLength>
-                            <init>255</init>
-                        </maxLength>
-                        <textValue type="char">
-                            <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
-                        </textValue>
-                        <haloing>
-                            <init>false</init>
-                        </haloing>
-                        <haloColor>
-                            <init>0</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>8</init>
-                        </outlineColor>
-                        <lineWidth>
-                            <init>2</init>
-                        </lineWidth>
-                        <font>
-                            <init>8</init>
-                        </font>
-                        <horizAlign>
-                            <init>left</init>
-                        </horizAlign>
-                        <vertAlign>
-                            <init>bottom</init>
-                        </vertAlign>
-                    </properties>
-                </text>
-                <text oid="c6ac7c95-9baa-42db-aa22-e54f6944f703">
-                    <pathFromRoot value="32"/>
-                    <properties name="text">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <position>
-                            <x>
-                                <init>-176.999985</init>
-                            </x>
-                            <y>
-                                <init>122.0</init>
-                            </y>
-                        </position>
-                        <maxLength>
-                            <init>255</init>
-                        </maxLength>
-                        <textValue type="char">
-                            <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
-                        </textValue>
-                        <haloing>
-                            <init>true</init>
-                        </haloing>
-                        <haloColor>
-                            <init>0</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>0</init>
-                        </outlineColor>
-                        <lineWidth>
-                            <init>2</init>
-                        </lineWidth>
-                        <font>
-                            <init>1</init>
-                        </font>
-                        <horizAlign>
-                            <init>left</init>
-                        </horizAlign>
-                        <vertAlign>
-                            <init>bottom</init>
-                        </vertAlign>
-                    </properties>
-                </text>
-                <text oid="57872324-f762-40e7-a60d-604570f35e45">
-                    <pathFromRoot value="33"/>
-                    <properties name="text">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <position>
-                            <x>
-                                <init>-176.999985</init>
-                            </x>
-                            <y>
-                                <init>102.0</init>
-                            </y>
-                        </position>
-                        <maxLength>
-                            <init>255</init>
-                        </maxLength>
-                        <textValue type="char">
-                            <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
-                        </textValue>
-                        <haloing>
-                            <init>true</init>
-                        </haloing>
-                        <haloColor>
-                            <init>0</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>1</init>
-                        </outlineColor>
-                        <lineWidth>
-                            <init>2</init>
-                        </lineWidth>
-                        <font>
-                            <init>3</init>
-                        </font>
-                        <horizAlign>
-                            <init>left</init>
-                        </horizAlign>
-                        <vertAlign>
-                            <init>bottom</init>
-                        </vertAlign>
-                    </properties>
-                </text>
-                <text oid="30a90063-85bb-4a87-a9c2-fec3d5699b9e">
-                    <pathFromRoot value="34"/>
-                    <properties name="text">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <position>
-                            <x>
-                                <init>-176.999985</init>
-                            </x>
-                            <y>
-                                <init>82.0</init>
-                            </y>
-                        </position>
-                        <maxLength>
-                            <init>255</init>
-                        </maxLength>
-                        <textValue type="char">
-                            <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
-                        </textValue>
-                        <haloing>
-                            <init>true</init>
-                        </haloing>
-                        <haloColor>
-                            <init>0</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>2</init>
-                        </outlineColor>
-                        <lineWidth>
-                            <init>2</init>
-                        </lineWidth>
-                        <font>
-                            <init>5</init>
-                        </font>
-                        <horizAlign>
-                            <init>left</init>
-                        </horizAlign>
-                        <vertAlign>
-                            <init>bottom</init>
-                        </vertAlign>
-                    </properties>
-                </text>
-                <text oid="b4b5143e-5c58-4ddf-abaf-ac6c0e517c20">
-                    <pathFromRoot value="35"/>
-                    <properties name="text">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <position>
-                            <x>
-                                <init>-176.999985</init>
-                            </x>
-                            <y>
-                                <init>62.0</init>
-                            </y>
-                        </position>
-                        <maxLength>
-                            <init>255</init>
-                        </maxLength>
-                        <textValue type="char">
-                            <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
-                        </textValue>
-                        <haloing>
-                            <init>true</init>
-                        </haloing>
-                        <haloColor>
-                            <init>0</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>3</init>
-                        </outlineColor>
-                        <lineWidth>
-                            <init>2</init>
-                        </lineWidth>
-                        <font>
-                            <init>7</init>
-                        </font>
-                        <horizAlign>
-                            <init>left</init>
-                        </horizAlign>
-                        <vertAlign>
-                            <init>bottom</init>
-                        </vertAlign>
-                    </properties>
-                </text>
-                <text oid="0391ffd6-5abd-4eec-9ab0-ea6cb0239e2b">
-                    <pathFromRoot value="36"/>
-                    <properties name="text">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <position>
-                            <x>
-                                <init>-176.999985</init>
-                            </x>
-                            <y>
-                                <init>32.0</init>
-                            </y>
-                        </position>
-                        <maxLength>
-                            <init>255</init>
-                        </maxLength>
-                        <textValue type="char">
-                            <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
-                        </textValue>
-                        <haloing>
-                            <init>true</init>
-                        </haloing>
-                        <haloColor>
-                            <init>0</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>5</init>
-                        </outlineColor>
-                        <lineWidth>
-                            <init>2</init>
-                        </lineWidth>
-                        <font>
-                            <init>2</init>
-                        </font>
-                        <horizAlign>
-                            <init>left</init>
-                        </horizAlign>
-                        <vertAlign>
-                            <init>bottom</init>
-                        </vertAlign>
-                    </properties>
-                </text>
-                <text oid="d6a189f9-10dd-484f-85f6-9c99869b170c">
-                    <pathFromRoot value="37"/>
-                    <properties name="text">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <position>
-                            <x>
-                                <init>-176.999985</init>
-                            </x>
-                            <y>
-                                <init>2.0</init>
-                            </y>
-                        </position>
-                        <maxLength>
-                            <init>255</init>
-                        </maxLength>
-                        <textValue type="char">
-                            <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
-                        </textValue>
-                        <haloing>
-                            <init>true</init>
-                        </haloing>
-                        <haloColor>
-                            <init>0</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>6</init>
-                        </outlineColor>
-                        <lineWidth>
-                            <init>2</init>
-                        </lineWidth>
-                        <font>
-                            <init>4</init>
-                        </font>
-                        <horizAlign>
-                            <init>left</init>
-                        </horizAlign>
-                        <vertAlign>
-                            <init>bottom</init>
-                        </vertAlign>
-                    </properties>
-                </text>
-                <text oid="bbe97075-316e-4af7-ae28-09d33da56ad2">
-                    <pathFromRoot value="38"/>
-                    <properties name="text">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <position>
-                            <x>
-                                <init>-176.999985</init>
-                            </x>
-                            <y>
-                                <init>-28.0</init>
-                            </y>
-                        </position>
-                        <maxLength>
-                            <init>255</init>
-                        </maxLength>
-                        <textValue type="char">
-                            <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
-                        </textValue>
-                        <haloing>
-                            <init>true</init>
-                        </haloing>
-                        <haloColor>
-                            <init>0</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>11</init>
-                        </outlineColor>
-                        <lineWidth>
-                            <init>2</init>
-                        </lineWidth>
-                        <font>
-                            <init>6</init>
-                        </font>
-                        <horizAlign>
-                            <init>left</init>
-                        </horizAlign>
-                        <vertAlign>
-                            <init>bottom</init>
-                        </vertAlign>
-                    </properties>
-                </text>
-                <text oid="44b793df-75a2-4f47-99a4-a0804486d6b5">
-                    <pathFromRoot value="39"/>
-                    <properties name="text">
-                        <visible>
-                            <init>true</init>
-                        </visible>
-                        <position>
-                            <x>
-                                <init>-176.999985</init>
-                            </x>
-                            <y>
-                                <init>-58.0</init>
-                            </y>
-                        </position>
-                        <maxLength>
-                            <init>255</init>
-                        </maxLength>
-                        <textValue type="char">
-                            <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
-                        </textValue>
-                        <haloing>
-                            <init>true</init>
-                        </haloing>
-                        <haloColor>
-                            <init>0</init>
-                        </haloColor>
-                        <outlineColor>
-                            <init>8</init>
-                        </outlineColor>
-                        <lineWidth>
-                            <init>2</init>
-                        </lineWidth>
-                        <font>
-                            <init>8</init>
-                        </font>
-                        <horizAlign>
-                            <init>left</init>
-                        </horizAlign>
-                        <vertAlign>
-                            <init>bottom</init>
-                        </vertAlign>
-                    </properties>
-                </text>
+                    <children>
+                        <line oid="fc092649-0c41-4367-878a-41d3808f4207">
+                            <pathFromRoot value="0,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>360.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>360.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>0</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="ccd3894e-bd7e-4a8a-8876-c71683e10571">
+                            <pathFromRoot value="1,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>340.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>340.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>1</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="8fec3ead-abd9-4f9e-977d-cbec4a7ade1b">
+                            <pathFromRoot value="2,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>320.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>320.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>2</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="90b84a22-9060-4b6b-a17e-4d1557557db4">
+                            <pathFromRoot value="3,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>300.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>300.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>3</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="3555fba0-e129-409d-b8f0-0b32d43945a0">
+                            <pathFromRoot value="4,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>280.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>280.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>4</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="168558a9-8566-41cd-a5e9-c99c05043052">
+                            <pathFromRoot value="5,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>260.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>260.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>5</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="3c521f2a-2800-4722-9735-99f7ed36b155">
+                            <pathFromRoot value="6,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>240.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>240.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>6</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="d17e8fc4-38af-4eea-bae5-1d3baad015cf">
+                            <pathFromRoot value="7,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>220.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>220.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>7</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="05808be8-fe28-4a0b-a494-876844b45eb4">
+                            <pathFromRoot value="8,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>200.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>200.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>8</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="546d0cde-0b71-4645-942f-a31ef2106c2e">
+                            <pathFromRoot value="9,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>180.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>180.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>9</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="2d9d2707-4b44-4071-93ba-9a065a6753ab">
+                            <pathFromRoot value="10,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>160.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>160.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>10</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="e3a3764a-53c9-47d7-b685-9a8ff7869ff9">
+                            <pathFromRoot value="11,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>140.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>140.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>11</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="922e999a-d451-4dd7-b277-b1279735682c">
+                            <pathFromRoot value="12,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>120.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>120.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>12</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="a220940c-b20a-4b2c-940d-9e9c12b8d609">
+                            <pathFromRoot value="13,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>100.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>100.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>13</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="78e52a8d-3ece-4caa-8ae0-edba5a98fa29">
+                            <pathFromRoot value="14,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>80.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>80.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>14</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="61c66859-ea99-4ab3-8830-06c1c0df16b6">
+                            <pathFromRoot value="15,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>60.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>60.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>15</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="d12c9b22-e44f-4e32-83dd-a1fc41138a07">
+                            <pathFromRoot value="16,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>40.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>40.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>16</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="fe5c480b-4c51-4591-9969-eab09b3d8d8e">
+                            <pathFromRoot value="17,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>20.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>20.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>17</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="e5431261-a6c8-4aae-b149-ffc5a18b170f">
+                            <pathFromRoot value="18,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>0.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>0.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>18</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="6fbb81f7-d3d1-4cec-a2e4-a5892c898dc0">
+                            <pathFromRoot value="19,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>-20.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>-20.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>19</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="a0deaf33-89f5-474c-8c6c-0b9b6424371d">
+                            <pathFromRoot value="20,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>-40.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>-40.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>20</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="45e0d2ff-d4e4-4130-b9d3-98add76b874d">
+                            <pathFromRoot value="21,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>-60.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>-60.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>21</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="ba5e0d25-4a2e-430d-9a12-7cd40f9a0263">
+                            <pathFromRoot value="22,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>-80.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>-80.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>22</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <line oid="fbf34efe-f39d-459e-a5fb-5f3223e60ad5">
+                            <pathFromRoot value="23,5"/>
+                            <properties name="line">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <points>
+                                    <point>
+                                        <x>
+                                            <init>-480.0</init>
+                                        </x>
+                                        <y>
+                                            <init>-100.0</init>
+                                        </y>
+                                    </point>
+                                    <point>
+                                        <x>
+                                            <init>-420.0</init>
+                                        </x>
+                                        <y>
+                                            <init>-100.0</init>
+                                        </y>
+                                    </point>
+                                </points>
+                                <lineWidth>
+                                    <init>4</init>
+                                </lineWidth>
+                                <lineStipple>
+                                    <init>0</init>
+                                </lineStipple>
+                                <lineCap>
+                                    <init>round</init>
+                                </lineCap>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>23</init>
+                                </outlineColor>
+                                <outlineOpacity>
+                                    <init>255</init>
+                                </outlineOpacity>
+                            </properties>
+                        </line>
+                        <text oid="295b1626-2b78-4a42-a720-844f45bfe9b3">
+                            <pathFromRoot value="24,5"/>
+                            <properties name="text">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>-370.0</init>
+                                    </x>
+                                    <y>
+                                        <init>350.0</init>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
+                                </textValue>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>0</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>0</init>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>1</init>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="2cd710f2-dde0-40b3-ae36-af856ddfbec4">
+                            <pathFromRoot value="25,5"/>
+                            <properties name="text">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>-370.0</init>
+                                    </x>
+                                    <y>
+                                        <init>330.0</init>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
+                                </textValue>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>0</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>1</init>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>3</init>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="5044603b-e554-4abe-9711-f54a98ef5562">
+                            <pathFromRoot value="26,5"/>
+                            <properties name="text">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>-370.0</init>
+                                    </x>
+                                    <y>
+                                        <init>310.0</init>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
+                                </textValue>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>0</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>2</init>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>5</init>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="d4cea28c-adc7-4098-bf57-094bc58db5fe">
+                            <pathFromRoot value="27,5"/>
+                            <properties name="text">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>-370.0</init>
+                                    </x>
+                                    <y>
+                                        <init>290.0</init>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
+                                </textValue>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>0</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>3</init>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>7</init>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="03d62ab3-10c4-4f8a-bde9-9cdb316b204a">
+                            <pathFromRoot value="28,5"/>
+                            <properties name="text">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>-370.0</init>
+                                    </x>
+                                    <y>
+                                        <init>260.0</init>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
+                                </textValue>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>0</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>5</init>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>2</init>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="ee79f089-8128-4d1e-a746-2f20b1d5c709">
+                            <pathFromRoot value="29,5"/>
+                            <properties name="text">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>-370.0</init>
+                                    </x>
+                                    <y>
+                                        <init>230.0</init>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
+                                </textValue>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>0</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>6</init>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>4</init>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="39e8c245-16da-4240-bcdc-4cb5f6198c8c">
+                            <pathFromRoot value="30,5"/>
+                            <properties name="text">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>-370.0</init>
+                                    </x>
+                                    <y>
+                                        <init>200.0</init>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
+                                </textValue>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>0</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>11</init>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>6</init>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="2a2fa768-95b4-485e-be6e-37f4c9162d29">
+                            <pathFromRoot value="31,5"/>
+                            <properties name="text">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>-370.0</init>
+                                    </x>
+                                    <y>
+                                        <init>170.0</init>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
+                                </textValue>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>0</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>8</init>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>8</init>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="c6ac7c95-9baa-42db-aa22-e54f6944f703">
+                            <pathFromRoot value="32,5"/>
+                            <properties name="text">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>-176.999985</init>
+                                    </x>
+                                    <y>
+                                        <init>122.0</init>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
+                                </textValue>
+                                <haloing>
+                                    <init>true</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>0</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>0</init>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>1</init>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="57872324-f762-40e7-a60d-604570f35e45">
+                            <pathFromRoot value="33,5"/>
+                            <properties name="text">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>-176.999985</init>
+                                    </x>
+                                    <y>
+                                        <init>102.0</init>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
+                                </textValue>
+                                <haloing>
+                                    <init>true</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>0</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>1</init>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>3</init>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="30a90063-85bb-4a87-a9c2-fec3d5699b9e">
+                            <pathFromRoot value="34,5"/>
+                            <properties name="text">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>-176.999985</init>
+                                    </x>
+                                    <y>
+                                        <init>82.0</init>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
+                                </textValue>
+                                <haloing>
+                                    <init>true</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>0</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>2</init>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>5</init>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="b4b5143e-5c58-4ddf-abaf-ac6c0e517c20">
+                            <pathFromRoot value="35,5"/>
+                            <properties name="text">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>-176.999985</init>
+                                    </x>
+                                    <y>
+                                        <init>62.0</init>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
+                                </textValue>
+                                <haloing>
+                                    <init>true</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>0</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>3</init>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>7</init>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="0391ffd6-5abd-4eec-9ab0-ea6cb0239e2b">
+                            <pathFromRoot value="36,5"/>
+                            <properties name="text">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>-176.999985</init>
+                                    </x>
+                                    <y>
+                                        <init>32.0</init>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
+                                </textValue>
+                                <haloing>
+                                    <init>true</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>0</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>5</init>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>2</init>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="d6a189f9-10dd-484f-85f6-9c99869b170c">
+                            <pathFromRoot value="37,5"/>
+                            <properties name="text">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>-176.999985</init>
+                                    </x>
+                                    <y>
+                                        <init>2.0</init>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
+                                </textValue>
+                                <haloing>
+                                    <init>true</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>0</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>6</init>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>4</init>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="bbe97075-316e-4af7-ae28-09d33da56ad2">
+                            <pathFromRoot value="38,5"/>
+                            <properties name="text">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>-176.999985</init>
+                                    </x>
+                                    <y>
+                                        <init>-28.0</init>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
+                                </textValue>
+                                <haloing>
+                                    <init>true</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>0</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>11</init>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>6</init>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="44b793df-75a2-4f47-99a4-a0804486d6b5">
+                            <pathFromRoot value="39,5"/>
+                            <properties name="text">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>-176.999985</init>
+                                    </x>
+                                    <y>
+                                        <init>-58.0</init>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[99, 101, 99, 105, 32, 101, 115, 116, 32, 117, 110, 32, 116, 101, 115, 116, 32, 100, 39, 97, 99, 99, 101, 110, 116, 32, 233, 232, 224, 231, 0]</init>
+                                </textValue>
+                                <haloing>
+                                    <init>true</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>0</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>8</init>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>8</init>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                    </children>
+                </container>
             </children>
         </layer>
     </children>
 </specification>
 
-<!-- crc32 : 787288288 -->
+<!-- crc32 : 3842972153 -->
 

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Operator xmlns="http://www.esterel-technologies.com/ns/scade/6" xmlns:ed="http://www.esterel-technologies.com/ns/scade/pragmas/editor/5" xmlns:kcg="http://www.esterel-technologies.com/ns/scade/pragmas/codegen/3" kind="node" name="CommandVisibility">
+	<inputs>
+		<Variable name="Ouvrir">
+			<type>
+				<NamedType>
+					<type>
+						<TypeRef name="bool"/>
+					</type>
+				</NamedType>
+			</type>
+			<pragmas>
+				<ed:Variable oid="!ed/172/6ADA/4150/5a390c8b4804"/>
+			</pragmas>
+		</Variable>
+		<Variable name="Fermer">
+			<type>
+				<NamedType>
+					<type>
+						<TypeRef name="bool"/>
+					</type>
+				</NamedType>
+			</type>
+			<pragmas>
+				<ed:Variable oid="!ed/1e6/6ADA/4150/5a3912d145fe"/>
+			</pragmas>
+		</Variable>
+	</inputs>
+	<outputs>
+		<Variable name="CommandVisible">
+			<type>
+				<NamedType>
+					<type>
+						<TypeRef name="bool"/>
+					</type>
+				</NamedType>
+			</type>
+			<pragmas>
+				<ed:Variable oid="!ed/175/6ADA/4150/5a390ca24d57"/>
+			</pragmas>
+		</Variable>
+	</outputs>
+	<data>
+		<StateMachine name="SM1">
+			<states>
+				<State initial="true" name="Vanne_Reglante">
+					<unless>
+						<Transition kind="restart">
+							<target>
+								<StateRef name="Commande_vanne_reglante"/>
+							</target>
+							<condition>
+								<IdExpression>
+									<path>
+										<ConstVarRef name="Ouvrir"/>
+									</path>
+								</IdExpression>
+							</condition>
+							<pragmas>
+								<ed:Transition oid="!ed/1a1/6ADA/4150/5a390d036277"/>
+							</pragmas>
+						</Transition>
+					</unless>
+					<locals>
+						<Variable name="_L1">
+							<type>
+								<NamedType>
+									<type>
+										<TypeRef name="bool"/>
+									</type>
+								</NamedType>
+							</type>
+							<pragmas>
+								<ed:Variable oid="!ed/1d1/6ADA/4150/5a390d26428b"/>
+							</pragmas>
+						</Variable>
+					</locals>
+					<data>
+						<!-- CommandVisible = _L1; -->
+						<Equation>
+							<lefts>
+								<VariableRef name="CommandVisible"/>
+							</lefts>
+							<right>
+								<IdExpression>
+									<path>
+										<ConstVarRef name="_L1"/>
+									</path>
+								</IdExpression>
+							</right>
+							<pragmas>
+								<ed:Equation oid="!ed/1cf/6ADA/4150/5a390d265ef5"/>
+							</pragmas>
+						</Equation>
+						<!-- _L1 = false; -->
+						<Equation>
+							<lefts>
+								<VariableRef name="_L1"/>
+							</lefts>
+							<right>
+								<ConstValue value="false"/>
+							</right>
+							<pragmas>
+								<ed:Equation oid="!ed/1d0/6ADA/4150/5a390d2662b6"/>
+							</pragmas>
+						</Equation>
+					</data>
+					<pragmas>
+						<ed:State oid="!ed/17d/6ADA/4150/5a390ccf356d"/>
+					</pragmas>
+				</State>
+				<State name="Commande_vanne_reglante">
+					<unless>
+						<Transition kind="restart">
+							<target>
+								<StateRef name="Vanne_Reglante"/>
+							</target>
+							<condition>
+								<IdExpression>
+									<path>
+										<ConstVarRef name="Fermer"/>
+									</path>
+								</IdExpression>
+							</condition>
+							<pragmas>
+								<ed:Transition oid="!ed/1dd/6ADA/4150/5a3912b6687b"/>
+							</pragmas>
+						</Transition>
+					</unless>
+					<locals>
+						<Variable name="_L1">
+							<type>
+								<NamedType>
+									<type>
+										<TypeRef name="bool"/>
+									</type>
+								</NamedType>
+							</type>
+							<pragmas>
+								<ed:Variable oid="!ed/1b2/6ADA/4150/5a390d1d4689"/>
+							</pragmas>
+						</Variable>
+					</locals>
+					<data>
+						<!-- CommandVisible = _L1; -->
+						<Equation>
+							<lefts>
+								<VariableRef name="CommandVisible"/>
+							</lefts>
+							<right>
+								<IdExpression>
+									<path>
+										<ConstVarRef name="_L1"/>
+									</path>
+								</IdExpression>
+							</right>
+							<pragmas>
+								<ed:Equation oid="!ed/1aa/6ADA/4150/5a390d194c5a"/>
+							</pragmas>
+						</Equation>
+						<!-- _L1 = true; -->
+						<Equation>
+							<lefts>
+								<VariableRef name="_L1"/>
+							</lefts>
+							<right>
+								<ConstValue value="true"/>
+							</right>
+							<pragmas>
+								<ed:Equation oid="!ed/1b1/6ADA/4150/5a390d1d2d9d"/>
+							</pragmas>
+						</Equation>
+					</data>
+					<pragmas>
+						<ed:State oid="!ed/184/6ADA/4150/5a390ce5bb1"/>
+					</pragmas>
+				</State>
+			</states>
+			<pragmas>
+				<ed:StateMachine oid="!ed/177/6ADA/4150/5a390ccc705e"/>
+			</pragmas>
+		</StateMachine>
+	</data>
+	<pragmas>
+		<ed:Operator oid="!ed/170/6ADA/4150/5a390c5d440d" xmlns="http://www.esterel-technologies.com/ns/scade/pragmas/editor/5">
+			<diagrams>
+				<NetDiagram name="CommandVisibility_1" landscape="true" format="A4 (210 297)" oid="!ed/171/6ADA/4150/5a390c5d2993">
+					<presentationElements>
+						<StateMachineGE presentable="!ed/177/6ADA/4150/5a390ccc705e">
+							<position>
+								<Point x="2831" y="1773"/>
+							</position>
+							<size>
+								<Size width="20796" height="11060"/>
+							</size>
+						</StateMachineGE>
+						<StateGE presentable="!ed/17d/6ADA/4150/5a390ccf356d">
+							<position>
+								<Point x="4683" y="2725"/>
+							</position>
+							<size>
+								<Size width="5477" height="3202"/>
+							</size>
+						</StateGE>
+						<StateGE presentable="!ed/184/6ADA/4150/5a390ce5bb1">
+							<position>
+								<Point x="17251" y="2910"/>
+							</position>
+							<size>
+								<Size width="5133" height="2937"/>
+							</size>
+						</StateGE>
+						<TransitionGE presentable="!ed/1a1/6ADA/4150/5a390d036277">
+							<positions>
+								<Point x="10160" y="3440"/>
+								<Point x="12515" y="3440"/>
+								<Point x="14870" y="3440"/>
+								<Point x="17251" y="3440"/>
+							</positions>
+							<labelSize>
+								<Size width="2038" height="370"/>
+							</labelSize>
+							<labelPos>
+								<Point x="12487" y="2116"/>
+							</labelPos>
+							<slashPos>
+								<Point x="13731" y="2116"/>
+							</slashPos>
+						</TransitionGE>
+						<EquationGE presentable="!ed/1aa/6ADA/4150/5a390d194c5a">
+							<position>
+								<Point x="19526" y="3836"/>
+							</position>
+							<size>
+								<Size width="318" height="503"/>
+							</size>
+						</EquationGE>
+						<EquationGE kind="OBJ_LIT" presentable="!ed/1b1/6ADA/4150/5a390d1d2d9d">
+							<position>
+								<Point x="18521" y="3942"/>
+							</position>
+							<size>
+								<Size width="212" height="317"/>
+							</size>
+						</EquationGE>
+						<Edge leftVarIndex="1" rightExprIndex="1" srcEquation="!ed/1b1/6ADA/4150/5a390d1d2d9d" dstEquation="!ed/1aa/6ADA/4150/5a390d194c5a">
+							<positions>
+								<Point x="18733" y="4101"/>
+								<Point x="19156" y="4101"/>
+								<Point x="19156" y="4101"/>
+								<Point x="19579" y="4101"/>
+							</positions>
+						</Edge>
+						<EquationGE presentable="!ed/1cf/6ADA/4150/5a390d265ef5">
+							<position>
+								<Point x="7488" y="3836"/>
+							</position>
+							<size>
+								<Size width="317" height="503"/>
+							</size>
+						</EquationGE>
+						<EquationGE kind="OBJ_LIT" presentable="!ed/1d0/6ADA/4150/5a390d2662b6">
+							<position>
+								<Point x="6482" y="3942"/>
+							</position>
+							<size>
+								<Size width="212" height="318"/>
+							</size>
+						</EquationGE>
+						<Edge leftVarIndex="1" rightExprIndex="1" srcEquation="!ed/1d0/6ADA/4150/5a390d2662b6" dstEquation="!ed/1cf/6ADA/4150/5a390d265ef5">
+							<positions>
+								<Point x="6694" y="4101"/>
+								<Point x="7117" y="4101"/>
+								<Point x="7117" y="4101"/>
+								<Point x="7541" y="4101"/>
+							</positions>
+						</Edge>
+						<TransitionGE presentable="!ed/1dd/6ADA/4150/5a3912b6687b">
+							<positions>
+								<Point x="17251" y="5027"/>
+								<Point x="14896" y="5027"/>
+								<Point x="12541" y="5027"/>
+								<Point x="10160" y="5027"/>
+							</positions>
+							<labelSize>
+								<Size width="2038" height="370"/>
+							</labelSize>
+							<labelPos>
+								<Point x="12514" y="5318"/>
+							</labelPos>
+							<slashPos>
+								<Point x="13758" y="5318"/>
+							</slashPos>
+						</TransitionGE>
+					</presentationElements>
+				</NetDiagram>
+			</diagrams>
+		</ed:Operator>
+	</pragmas>
+</Operator>

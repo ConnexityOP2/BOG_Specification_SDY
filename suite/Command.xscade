@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<File xmlns="http://www.esterel-technologies.com/ns/scade/6" xmlns:ed="http://www.esterel-technologies.com/ns/scade/pragmas/editor/5" xmlns:kcg="http://www.esterel-technologies.com/ns/scade/pragmas/codegen/3">
+	<declarations>
+		<Package name="Command">
+			<declarations>
+				<Operator name="CommandVisibility" href="CommandVisibility.xscade"/>
+				<Operator name="Button" href="Button.xscade"/>
+				<Operator name="ButtonToggle" href="ButtonToggle1.xscade"/>
+				<Operator name="CommandNormalConsigne" href="CommandNormalConsigne1.xscade"/>
+			</declarations>
+			<pragmas>
+				<ed:Package oid="!ed/16c/6ADA/4150/5a390c557aad" xmlns="http://www.esterel-technologies.com/ns/scade/pragmas/editor/5">
+					<diagrams>
+						<TreeDiagram landscape="false" format="A4 (210 297)" oid="!ed/16d/6ADA/4150/5a390c55b4d" blockKind="constants"/>
+						<TreeDiagram landscape="false" format="A4 (210 297)" oid="!ed/16e/6ADA/4150/5a390c552bc2" blockKind="types"/>
+						<TreeDiagram landscape="false" format="A4 (210 297)" oid="!ed/16f/6ADA/4150/5a390c553b11" blockKind="sensors"/>
+					</diagrams>
+				</ed:Package>
+			</pragmas>
+		</Package>
+	</declarations>
+</File>

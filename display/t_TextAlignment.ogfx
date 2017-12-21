@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?dom version="17.2" ?>
+
+<object>
+    <IDE>
+        <ratio horizontal="1" vertical="1"/>
+        <project path="ConnexITy.etp"/>
+        <preview height="60" width="128">
+            <raw numberOfBytes="943">
+-119,80,78,71,13,10,26,10,0,0,0,13,73,72,68,82,0,0,0,-128,0,0,0,60,8,2,0,0,0,33,84,37,-110,0,0,3,118,73,68,65,84,120,-38,-19,-104,77,72,98,81,24,-122,99,32,-122,112,-47,68,-48,62,108,27,97,-48,-78,6,-116,66,-120,34,-72,-117,112,17,21,19,19,-28,-94,-96,-62,92,-88,11,-5,93,68,-71,8,102,49,4,-123,21,-76,10,35,21,-5,-95,69,89,12,21,45,90,76,37,-122,50,106,46,-78,-96,-94,104,53,47,-25,-64,45,-120,50,-61,26,-102,-34,103,117,-18,-9,-99,-29,-107,-13,-100,-33,-101,117,75,-2,41,89,-20,2,10,-96,0,66,1,20,64,40,-128,2,8,5,80,0,-95,0,10,32,20,64,1,-124,2,40,-128,80,0,5,16,10,-96,0,66,1,31,91,64,40,20,50,61,27,-89,-45,-103,-15,127,-23,-13,-7,108,54,-37,-4,-4,-4,7,21,-80,-75,-75,-107,-11,108,42,43,43,51,-2,47,7,6,6,10,11,11,123,123,123,57,3,-18,40,40,40,64,119,27,12,-122,55,-104,1,118,-69,61,63,63,-65,-93,-93,-125,123,-64,29,-91,-91,-91,16,48,59,59,-5,6,-1,-78,-89,-89,7,-17,106,109,109,-91,-128,-76,5,-4,18,120,60,30,-73,-37,-67,-66,-66,-114,114,60,30,87,-77,39,39,39,27,27,27,-37,-37,-37,8,-94,-84,6,-15,
+-120,32,82,88,-3,-47,80,81,20,57,-37,80,14,4,2,20,-112,-122,0,69,-96,-47,104,80,-71,-68,-68,28,101,-81,-41,-85,102,87,86,86,-12,122,-67,-47,104,68,112,105,105,73,6,81,-64,35,-126,72,-55,-123,-18,-75,-9,-104,-1,80,-64,-11,-11,-11,31,-63,119,65,113,113,-79,86,-85,-83,-81,-81,111,106,106,-62,97,6,3,-4,-4,-4,28,-43,48,39,26,26,26,-38,-38,-38,92,46,-41,-36,-36,-100,108,-117,-33,-100,-102,-102,66,43,-92,-54,-54,-54,-48,48,47,47,15,-17,-54,-51,-51,69,-71,-79,-79,-111,2,82,11,-120,-59,98,-33,4,-65,5,87,87,87,8,46,47,47,-49,-52,-52,12,13,13,117,119,119,47,44,44,32,114,118,118,-122,44,-58,-69,78,-89,-85,-88,-88,-112,109,75,74,74,112,-26,65,5,-92,80,-127,123,0,5,-68,67,1,71,71,71,95,4,15,83,56,-50,-93,127,113,-76,87,35,-63,96,16,-86,-102,-101,-101,117,-126,-50,-50,78,24,58,62,62,-26,41,-120,2,-34,-83,-128,-125,-125,-125,79,2,-19,3,-80,-93,102,103,103,-101,-51,102,-75,50,54,-28,-51,-51,77,-65,-33,-1,89,-128,-107,10,-89,85,-71,75,83,-64,-53,5,60,-3,-59,2,125,-86,86,-66,-72,-72,-64,114,-113,78,-105,
+41,20,-16,-120,32,5,-68,92,-64,-31,-31,-95,70,-32,126,-124,-3,-3,125,-75,114,36,18,-23,-21,-21,-77,90,-83,114,-118,12,15,15,59,-99,-50,104,52,74,1,-81,-78,7,60,-124,123,64,-26,5,-124,-61,-31,-81,-126,-72,0,-9,50,4,-9,-10,-10,-42,-42,-42,38,38,38,6,7,7,113,7,70,-28,-14,-14,18,89,108,0,-43,-43,-43,-75,-75,-75,46,65,77,77,77,85,85,85,32,16,64,10,21,84,1,48,-124,-115,-31,-2,-46,68,1,-23,-35,3,112,7,30,31,31,55,26,-115,24,-26,-93,-93,-93,-23,-34,3,112,7,78,36,18,-55,100,-110,2,82,11,64,55,-3,20,-4,16,-116,-115,-115,-95,-57,-79,-80,-76,-73,-73,119,117,117,89,44,-106,-59,-59,69,-71,87,35,-117,20,-30,-56,-54,-74,38,-109,-87,-91,-91,101,100,100,4,41,84,64,4,51,6,123,3,102,70,127,127,-1,-12,-12,52,5,-92,22,112,115,115,-109,16,-24,5,57,57,57,-88,92,84,84,-124,-111,-114,73,-128,-95,45,-65,125,-90,-4,24,39,87,-86,-55,-55,73,69,81,-28,27,-7,49,-18,86,29,-89,6,-125,97,117,117,-11,49,1,73,-127,89,80,87,87,-121,-54,24,-41,24,-23,56,2,-31,-40,115,122,122,-118,106,-69,-69,-69,-56,98,-128,-29,-24,-71,-77,
+-77,35,-37,-94,-128,71,4,-111,66,5,68,112,69,112,56,28,-14,-115,-9,47,16,31,90,0,-95,0,10,32,20,64,1,-124,2,40,-128,80,0,5,16,10,-96,0,66,1,20,64,40,-128,2,8,5,80,0,-95,0,10,32,41,-7,11,-74,-74,-6,57,-8,103,60,5,0,0,0,0,73,69,78,68,-82,66,96,-126</raw>
+        </preview>
+    </IDE>
+    <symbology>
+        <dimension height="256" width="256"/>
+    </symbology>
+    <declaration>
+        <inputs>
+            <input name="SizeX" oid="a38a4bf9-30da-4cff-b71b-38b60d811321" type="real">
+                <init>50.0</init>
+            </input>
+            <input name="SizeY" oid="3149abb1-dc44-4e74-942a-d4aed6448c71" type="real">
+                <init>50.0</init>
+            </input>
+            <input name="Alignment" oid="1765c6e6-8c4c-4b57-baec-cb2111c19abb" representation="index" type="int">
+                <init>1</init>
+            </input>
+            <input name="MaxStringLength" oid="630dd6d3-1b4c-4658-b68e-18097a1bd01c" type="int">
+                <init>255</init>
+            </input>
+            <input name="LabelString" oid="0779e1b4-f393-4d69-be2d-1e5752540433" representation="as_string" type="char^MaxStringLength">
+                <init>[84, 101, 120, 116, 0]</init>
+            </input>
+            <input name="ColorIndex" oid="fbbbdc3f-c987-430e-8f76-84c79e01c9e8" representation="color" type="int">
+                <init>0</init>
+            </input>
+            <input name="sts_Font" oid="bbe83ba7-c5f1-4c12-9e27-639113d69c84" representation="font" type="int">
+                <init>5</init>
+            </input>
+        </inputs>
+        <locals>
+            <local memory="true" name="loc_CharVertAdvance" oid="7176c8bf-6012-48ee-9010-e39301ab782c" type="real">
+                <init>0.0</init>
+            </local>
+        </locals>
+        <localConstants>
+            <localConstant name="cte_Margin" oid="64d2be5b-eadd-4414-b5e6-73eb5e6fbbff" type="real">
+                <init>0.0</init>
+            </localConstant>
+        </localConstants>
+    </declaration>
+    <children>
+        <container oid="80b3b775-578a-4349-873c-95f0fb5848c0">
+            <pathFromRoot value="0"/>
+            <properties name="Text_Alignment">
+                <visible>
+                    <init>true</init>
+                </visible>
+                <origin>
+                    <x>
+                        <init>0.0</init>
+                    </x>
+                    <y>
+                        <init>0.0</init>
+                    </y>
+                </origin>
+                <priority>
+                    <init>-1</init>
+                </priority>
+                <scale>
+                    <x>
+                        <init>1.0</init>
+                    </x>
+                    <y>
+                        <init>1.0</init>
+                    </y>
+                </scale>
+                <rotate>
+                    <angle>
+                        <init>0.0</init>
+                    </angle>
+                </rotate>
+                <orientation clockwise="false"/>
+                <static editorLinked="true" generateStaticSequence="true" maxX="0.0" maxY="0.0" minX="0.0" minY="0.0">
+                    <init>false</init>
+                </static>
+            </properties>
+            <children>
+                <imported oid="1da59782-1ca1-4a29-9876-6b2ac0548c9b">
+                    <pathFromRoot value="0,0"/>
+                    <properties name="GetCharVertAdvance">
+                        <function name="GetCharVertAdvance"/>
+                        <enable>
+                            <init>true</init>
+                        </enable>
+                        <restoreStates>
+                            <init>false</init>
+                        </restoreStates>
+                        <memory>
+                            <init>false</init>
+                        </memory>
+                        <inputParameters>
+                            <parameter name="Font" oid="" type="int">
+                                <expr>sts_Font</expr>
+                                <init>1</init>
+                            </parameter>
+                            <parameter name="LabelString" oid="" type="char^MaxStringLength">
+                                <expr>LabelString</expr>
+                                <init>[0]</init>
+                            </parameter>
+                        </inputParameters>
+                        <outputParameters>
+                            <parameter name="CharVertAdvance" oid="" type="real">
+                                <expr>loc_CharVertAdvance</expr>
+                            </parameter>
+                        </outputParameters>
+                    </properties>
+                </imported>
+                <condContainer oid="38c41c21-fe31-48b3-8d54-46481ff571d0">
+                    <pathFromRoot value="1,0"/>
+                    <properties name="Alignment_SimpleText">
+                        <visible>
+                            <init>true</init>
+                        </visible>
+                        <origin>
+                            <x>
+                                <init>0.0</init>
+                            </x>
+                            <y>
+                                <init>0.0</init>
+                            </y>
+                        </origin>
+                        <priority>
+                            <init>-1</init>
+                        </priority>
+                        <scale>
+                            <x>
+                                <init>1.0</init>
+                            </x>
+                            <y>
+                                <init>1.0</init>
+                            </y>
+                        </scale>
+                        <rotate>
+                            <angle>
+                                <init>0.0</init>
+                            </angle>
+                        </rotate>
+                        <orientation clockwise="false"/>
+                        <index allVisible="false">
+                            <init>1</init>
+                            <expr>Alignment</expr>
+                        </index>
+                        <indexes default="1">
+                            <index value="1"/>
+                            <index value="2"/>
+                            <index value="3"/>
+                            <index value="6"/>
+                            <index value="7"/>
+                            <index value="8"/>
+                            <index value="9"/>
+                            <index value="10"/>
+                            <index value="11"/>
+                        </indexes>
+                    </properties>
+                    <children>
+                        <text oid="45debd50-d2d1-44af-b617-2981f3e6dd4a">
+                            <pathFromRoot value="0,1,0"/>
+                            <properties name="LEFT">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>0.0</init>
+                                    </x>
+                                    <y>
+                                        <init>25.0</init>
+                                        <expr>SizeY / 2.0</expr>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                    <expr>MaxStringLength</expr>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[84, 101, 120, 116, 0]</init>
+                                    <expr>LabelString</expr>
+                                </textValue>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>0</init>
+                                    <expr>ColorIndex</expr>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>5</init>
+                                    <expr>sts_Font</expr>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>middle</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="e00fe9ce-8d70-4e8a-8aab-5c4c15330c2e">
+                            <pathFromRoot value="1,1,0"/>
+                            <properties name="RIGHT">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>50.0</init>
+                                        <expr>SizeX</expr>
+                                    </x>
+                                    <y>
+                                        <init>25.0</init>
+                                        <expr>SizeY / 2.0</expr>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                    <expr>MaxStringLength</expr>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[84, 101, 120, 116, 0]</init>
+                                    <expr>LabelString</expr>
+                                </textValue>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>0</init>
+                                    <expr>ColorIndex</expr>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>5</init>
+                                    <expr>sts_Font</expr>
+                                </font>
+                                <horizAlign>
+                                    <init>right</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>middle</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="c3f69794-1688-4086-a063-09ab5042b7f6">
+                            <pathFromRoot value="2,1,0"/>
+                            <properties name="CENTER">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>25.0</init>
+                                        <expr>SizeX / 2.0</expr>
+                                    </x>
+                                    <y>
+                                        <init>25.0</init>
+                                        <expr>SizeY / 2.0</expr>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                    <expr>MaxStringLength</expr>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[84, 101, 120, 116, 0]</init>
+                                    <expr>LabelString</expr>
+                                </textValue>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>0</init>
+                                    <expr>ColorIndex</expr>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>5</init>
+                                    <expr>sts_Font</expr>
+                                </font>
+                                <horizAlign>
+                                    <init>center</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>middle</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="427613de-57f9-4566-b330-a8324be1e786">
+                            <pathFromRoot value="3,1,0"/>
+                            <properties name="TOP_LEFT">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>0.0</init>
+                                    </x>
+                                    <y>
+                                        <init>50.0</init>
+                                        <expr>SizeY - (2.0 * cte_Margin)</expr>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                    <expr>MaxStringLength</expr>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[84, 101, 120, 116, 0]</init>
+                                    <expr>LabelString</expr>
+                                </textValue>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>0</init>
+                                    <expr>ColorIndex</expr>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>5</init>
+                                    <expr>sts_Font</expr>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>top</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="b2845a49-9593-462e-a801-940e98f9363e">
+                            <pathFromRoot value="4,1,0"/>
+                            <properties name="TOP_RIGHT">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>50.0</init>
+                                        <expr>SizeX</expr>
+                                    </x>
+                                    <y>
+                                        <init>50.0</init>
+                                        <expr>SizeY - (2.0 * cte_Margin)</expr>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                    <expr>MaxStringLength</expr>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[84, 101, 120, 116, 0]</init>
+                                    <expr>LabelString</expr>
+                                </textValue>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>0</init>
+                                    <expr>ColorIndex</expr>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>5</init>
+                                    <expr>sts_Font</expr>
+                                </font>
+                                <horizAlign>
+                                    <init>right</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>top</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="8fd4ba70-6772-48ab-9c0b-4dd3d1a1ec8d">
+                            <pathFromRoot value="5,1,0"/>
+                            <properties name="TOP_CENTER">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>25.0</init>
+                                        <expr>SizeX / 2.0</expr>
+                                    </x>
+                                    <y>
+                                        <init>50.0</init>
+                                        <expr>SizeY - (2.0 * cte_Margin)</expr>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                    <expr>MaxStringLength</expr>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[84, 101, 120, 116, 0]</init>
+                                    <expr>LabelString</expr>
+                                </textValue>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>0</init>
+                                    <expr>ColorIndex</expr>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>5</init>
+                                    <expr>sts_Font</expr>
+                                </font>
+                                <horizAlign>
+                                    <init>center</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>top</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="378a524f-74bc-4bf5-a20b-be23dbe9123b">
+                            <pathFromRoot value="6,1,0"/>
+                            <properties name="BOTTOM_LEFT">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>0.0</init>
+                                    </x>
+                                    <y>
+                                        <init>0.0</init>
+                                        <expr>loc_CharVertAdvance + (2.0 * cte_Margin)</expr>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                    <expr>MaxStringLength</expr>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[84, 101, 120, 116, 0]</init>
+                                    <expr>LabelString</expr>
+                                </textValue>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>0</init>
+                                    <expr>ColorIndex</expr>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>5</init>
+                                    <expr>sts_Font</expr>
+                                </font>
+                                <horizAlign>
+                                    <init>left</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="1a076909-34ed-464c-bef7-989eaaf7fe2d">
+                            <pathFromRoot value="7,1,0"/>
+                            <properties name="BOTTOM_RIGHT">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>50.0</init>
+                                        <expr>SizeX</expr>
+                                    </x>
+                                    <y>
+                                        <init>0.0</init>
+                                        <expr>loc_CharVertAdvance + (2.0 * cte_Margin)</expr>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                    <expr>MaxStringLength</expr>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[84, 101, 120, 116, 0]</init>
+                                    <expr>LabelString</expr>
+                                </textValue>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>0</init>
+                                    <expr>ColorIndex</expr>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>5</init>
+                                    <expr>sts_Font</expr>
+                                </font>
+                                <horizAlign>
+                                    <init>right</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                        <text oid="a7208f27-9314-4f08-82e5-af3d95825c5d">
+                            <pathFromRoot value="8,1,0"/>
+                            <properties name="BOTTOM_CENTER">
+                                <visible>
+                                    <init>true</init>
+                                </visible>
+                                <position>
+                                    <x>
+                                        <init>25.0</init>
+                                        <expr>SizeX / 2.0</expr>
+                                    </x>
+                                    <y>
+                                        <init>0.0</init>
+                                        <expr>loc_CharVertAdvance + (2.0 * cte_Margin)</expr>
+                                    </y>
+                                </position>
+                                <maxLength>
+                                    <init>255</init>
+                                    <expr>MaxStringLength</expr>
+                                </maxLength>
+                                <textValue type="char">
+                                    <init>[84, 101, 120, 116, 0]</init>
+                                    <expr>LabelString</expr>
+                                </textValue>
+                                <haloing>
+                                    <init>false</init>
+                                </haloing>
+                                <haloColor>
+                                    <init>-1</init>
+                                </haloColor>
+                                <outlineColor>
+                                    <init>0</init>
+                                    <expr>ColorIndex</expr>
+                                </outlineColor>
+                                <lineWidth>
+                                    <init>2</init>
+                                </lineWidth>
+                                <font>
+                                    <init>5</init>
+                                    <expr>sts_Font</expr>
+                                </font>
+                                <horizAlign>
+                                    <init>center</init>
+                                </horizAlign>
+                                <vertAlign>
+                                    <init>bottom</init>
+                                </vertAlign>
+                            </properties>
+                        </text>
+                    </children>
+                </condContainer>
+            </children>
+        </container>
+    </children>
+</object>
+
+<!-- crc32 : 2706238738 -->
+
